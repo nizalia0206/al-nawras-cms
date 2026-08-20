@@ -1,0 +1,176 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --ease: cubic-bezier(.22,.9,.32,1);
+}
+
+html { scroll-behavior: smooth; }
+body { @apply bg-paper text-ink font-body antialiased; overflow-x: hidden; }
+::selection { background: #ff5b1e; color: #fff; }
+
+.display { @apply font-display uppercase tracking-wide; }
+
+/* reveal-on-scroll */
+.reveal{ opacity:0; transform:translateY(28px); transition:opacity .8s var(--ease), transform .8s var(--ease); }
+.reveal.in{ opacity:1; transform:translateY(0); }
+
+.reveal-stagger > * { opacity:0; transform:translateY(24px); transition:opacity .7s var(--ease), transform .7s var(--ease); }
+.reveal-stagger.in > *{ opacity:1; transform:translateY(0); }
+.reveal-stagger.in > *:nth-child(1){ transition-delay: .02s }
+.reveal-stagger.in > *:nth-child(2){ transition-delay: .10s }
+.reveal-stagger.in > *:nth-child(3){ transition-delay: .18s }
+.reveal-stagger.in > *:nth-child(4){ transition-delay: .26s }
+.reveal-stagger.in > *:nth-child(5){ transition-delay: .34s }
+.reveal-stagger.in > *:nth-child(6){ transition-delay: .42s }
+
+.sec-eyebrow{
+  @apply flex items-center gap-[10px] text-[12.5px] tracking-[.2em] uppercase text-flame1 font-bold mb-[18px];
+}
+.sec-eyebrow::before{ content:''; width:26px; height:2px; background: linear-gradient(90deg,#ff5b1e,#ffb020); }
+
+.btn{
+  @apply inline-flex items-center gap-2 px-[26px] py-3 text-[13.5px] font-semibold tracking-[.02em] rounded-full transition-all duration-300 whitespace-nowrap;
+}
+.btn-flame{ @apply text-white shadow-flame; background: linear-gradient(135deg,#f28a45,#ee6c2f); }
+.btn-flame:hover{ transform: translateY(-2px); box-shadow: 0 14px 30px -8px rgba(238,108,47,.7); }
+.btn-ghost{ @apply border border-white/20 text-steellight; }
+.btn-ghost:hover{ @apply border-flame2 text-white; }
+.btn-dark{ @apply bg-ink text-white; }
+.btn-dark:hover{ background:#000; }
+
+/* service card grid — flat cards, one can be forced "active" (orange) like the reference template */
+.svc-card{
+  @apply relative bg-white border border-ink/[.08] rounded-md p-8 flex flex-col transition-all duration-300;
+}
+.svc-card:hover{ @apply border-flame1/40 -translate-y-1 shadow-[0_20px_40px_-18px_rgba(238,108,47,.35)]; }
+.svc-card.is-active{ @apply bg-gradient-to-br from-flame1 to-ember border-transparent text-white shadow-flame; }
+.svc-card.is-active .svc-icon{ @apply text-white; }
+.svc-card.is-active .svc-desc{ @apply text-white/85; }
+.svc-card.is-active .svc-learn{ @apply text-white; }
+
+.arrow{ @apply w-3.5 h-3.5 transition-transform duration-300; }
+.btn:hover .arrow{ transform: translateX(3px); }
+
+@keyframes fadeScale {
+  from { opacity: 0; transform: scale(.92); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes fillBar {
+  from { width: 0%; }
+  to { width: 100%; }
+}
+
+@keyframes slideIn {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes pulseGlow {
+  0%, 100% { transform: scale(1); opacity: .55; }
+  50% { transform: scale(1.12); opacity: .85; }
+}
+
+@keyframes floatY {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* brief white flash that rides over a slide crossfade */
+@keyframes heroFlash {
+  0% { opacity: 0; }
+  38% { opacity: .85; }
+  100% { opacity: 0; }
+}
+
+/* slow Ken Burns zoom on the active hero background image */
+@keyframes kenBurns {
+  from { transform: scale(1); }
+  to { transform: scale(1.09); }
+}
+
+/* Industries sector strip — infinite sliding marquee of cards */
+.industries-marquee{
+  width: 100%;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 64px, #000 calc(100% - 64px), transparent 100%);
+  mask-image: linear-gradient(90deg, transparent 0, #000 64px, #000 calc(100% - 64px), transparent 100%);
+}
+.industries-track{
+  display: flex;
+  align-items: stretch;
+  gap: 22px;
+  width: max-content;
+  animation: industriesScroll 34s linear infinite;
+}
+.industries-marquee:hover .industries-track{ animation-play-state: paused; }
+@keyframes industriesScroll {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+.industries-card{
+  flex: 0 0 auto;
+  width: 260px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid rgba(19,28,51,.08);
+  transition: transform .35s var(--ease), box-shadow .35s var(--ease), border-color .35s var(--ease);
+}
+.industries-card:hover{
+  transform: translateY(-6px);
+  border-color: rgba(238,108,47,.35);
+  box-shadow: 0 20px 40px -18px rgba(238,108,47,.3);
+}
+.industries-card-img{
+  height: 260px;
+  overflow: hidden;
+}
+.industries-card-img img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform .6s var(--ease);
+}
+.industries-card:hover .industries-card-img img{ transform: scale(1.08); }
+.industries-card-label{
+  padding: 16px 18px;
+  background: #f4f6fa;
+  border-top: 1px solid rgba(19,28,51,.06);
+}
+.industries-card-label span{
+  font-family: theme('fontFamily.body');
+  font-weight: 600;
+  font-size: 14.5px;
+  color: #131c33;
+}
+
+@media (max-width: 640px){
+  .industries-card{ width: 200px; }
+  .industries-card-img{ height: 200px; }
+}
+
+/* Subpage header wave field — animated converging lines behind PageHeader */
+.wavefield{
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+.wf-line{
+  stroke-dasharray: 3 9;
+  animation-name: wfFlow;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes wfFlow {
+  to { stroke-dashoffset: -480; }
+}
+@media (prefers-reduced-motion: reduce){
+  .wf-line{ animation: none; }
+}
+
