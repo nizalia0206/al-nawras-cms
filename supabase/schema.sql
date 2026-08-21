@@ -64,6 +64,28 @@ create table if not exists home_hero_slides (
   updated_at timestamptz default now()
 );
 
+-- ---------- TEAM MEMBERS ----------
+create table if not exists team_members (
+  id text primary key,
+  name text not null,
+  role text not null,
+  phone text,
+  icon text default 'person', -- 'person' | 'hardhat'
+  highlight boolean default false,
+  sort_order integer default 0,
+  created_at timestamptz default now()
+);
+
+-- ---------- CERTIFICATIONS ----------
+create table if not exists certifications (
+  num text primary key,
+  title text not null,
+  description text not null,
+  image_url text,
+  sort_order integer default 0,
+  created_at timestamptz default now()
+);
+
 -- ============================================================
 -- Row Level Security: anyone can read, only logged-in admins can write
 -- ============================================================
@@ -71,11 +93,15 @@ alter table products enable row level security;
 alter table projects enable row level security;
 alter table system_images enable row level security;
 alter table home_hero_slides enable row level security;
+alter table team_members enable row level security;
+alter table certifications enable row level security;
 
 create policy "public read products" on products for select using (true);
 create policy "public read projects" on projects for select using (true);
 create policy "public read system_images" on system_images for select using (true);
 create policy "public read home_hero_slides" on home_hero_slides for select using (true);
+create policy "public read team_members" on team_members for select using (true);
+create policy "public read certifications" on certifications for select using (true);
 
 create policy "admins write products" on products for all
   using (auth.role() = 'authenticated') with check (auth.role() = 'authenticated');
@@ -84,6 +110,10 @@ create policy "admins write projects" on projects for all
 create policy "admins write system_images" on system_images for all
   using (auth.role() = 'authenticated') with check (auth.role() = 'authenticated');
 create policy "admins write home_hero_slides" on home_hero_slides for all
+  using (auth.role() = 'authenticated') with check (auth.role() = 'authenticated');
+create policy "admins write team_members" on team_members for all
+  using (auth.role() = 'authenticated') with check (auth.role() = 'authenticated');
+create policy "admins write certifications" on certifications for all
   using (auth.role() = 'authenticated') with check (auth.role() = 'authenticated');
 
 -- ============================================================

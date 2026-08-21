@@ -71,6 +71,30 @@ populated instead of empty. Skip this if you'd rather start fresh and add conten
 
 Visit `/admin` on your site, sign in with the user you created in step 5, and you're set.
 
+## 8. ⚠️ Making a user an admin (required)
+
+Your real website (`nawras-website-final`) now lets customers create their own accounts —
+using the **same Supabase project** as this CMS. That means, by default, anyone who registers
+on the public site could also try signing into `/admin` here with their own email/password.
+
+To prevent that, `/admin` now checks for an `is_admin` flag on the user's account, which
+customers can never set themselves (it requires your Supabase service_role key). **You must set
+this flag on your own admin account(s), or you'll be locked out of `/admin` after this update.**
+
+Run this once in Supabase → **SQL Editor** for each person who should have admin access:
+
+```sql
+update auth.users
+set raw_app_meta_data = raw_app_meta_data || '{"is_admin": true}'::jsonb
+where email = 'your-admin-email@example.com';
+```
+
+Replace the email with the one you use to sign into `/admin`. After running it, sign out and
+back in to `/admin` (or just refresh) for the change to take effect.
+
+To do the same thing from the Supabase dashboard UI instead of SQL: **Authentication → Users →
+click the user → User App Metadata → Edit** → add `{"is_admin": true}` → Save.
+
 ---
 
 ### Notes

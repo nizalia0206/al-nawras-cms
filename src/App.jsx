@@ -24,6 +24,8 @@ import AdminProducts from "./admin/AdminProducts";
 import AdminProjects from "./admin/AdminProjects";
 import AdminSystems from "./admin/AdminSystems";
 import AdminHome from "./admin/AdminHome";
+import AdminTeam from "./admin/AdminTeam";
+import AdminCertifications from "./admin/AdminCertifications";
 
 export default function App() {
   return (
@@ -62,6 +64,8 @@ export default function App() {
           <Route path="projects" element={<AdminProjects />} />
           <Route path="systems" element={<AdminSystems />} />
           <Route path="home" element={<AdminHome />} />
+          <Route path="team" element={<AdminTeam />} />
+          <Route path="certifications" element={<AdminCertifications />} />
         </Route>
       </Routes>
     </AuthProvider>

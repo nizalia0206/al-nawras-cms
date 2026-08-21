@@ -31,6 +31,14 @@ export default function AdminDashboard() {
           <h3>Home Page Pictures</h3>
           <p>Replace the 6 hero carousel images on the homepage.</p>
         </Link>
+        <Link className="admin-link-card" to="/admin/team">
+          <h3>Our Team</h3>
+          <p>Manage the team members shown on the "Our Team" page.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/certifications">
+          <h3>Certifications</h3>
+          <p>Manage licenses &amp; certifications shown on the homepage and About page.</p>
+        </Link>
       </div>
     </>
   );
