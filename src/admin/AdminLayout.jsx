@@ -8,6 +8,7 @@ const LINKS = [
   { to: "/admin/projects", label: "Projects" },
   { to: "/admin/systems", label: "Systems & Solutions" },
   { to: "/admin/home", label: "Home Page Pictures" },
+  { to: "/admin/customers", label: "Customers" },
 ];
 
 export default function AdminLayout() {

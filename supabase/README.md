@@ -5,6 +5,11 @@ Your site now has an admin panel at **`/admin`** for managing:
 - Projects (portfolio shown on the Projects page)
 - Systems & Solutions (equipment gallery images per system page)
 - Home Page Pictures (the 6 hero carousel images)
+- Customers (everyone who registers an account on the public site)
+
+The public site also has customer accounts at **`/account/sign-in`** and
+**`/account/register`**, so visitors can create a login, come back, and manage
+their details.
 
 It's backed by [Supabase](https://supabase.com) (a free-tier Postgres database + auth + file
 storage). Edits made in `/admin` go live on the site immediately — no rebuild or redeploy needed.
@@ -19,12 +24,17 @@ the images/data that were already bundled into the code. Nothing breaks if you s
 1. Go to [supabase.com](https://supabase.com) → sign up (free) → **New Project**.
 2. Pick any name/region, set a database password (save it somewhere), and wait for it to spin up.
 
-## 2. Run the database schema (~1 minute)
+## 2. Run the database schema (~2 minutes)
 
 1. In your Supabase project, open **SQL Editor** → **New query**.
 2. Copy the entire contents of `supabase/schema.sql` from this project, paste it in, and click **Run**.
 3. This creates the 4 content tables, sets up security rules (anyone can read, only logged-in
    admins can edit), and creates a public `media` storage bucket for uploaded images.
+4. Open **New query** again, copy the entire contents of `supabase/customers_and_auth.sql`, paste
+   it in, and click **Run**. This adds the `customers` table (registered public accounts) and an
+   admin-role system — see the notes inside that file for why this step matters, but in short: it
+   makes sure that customers who register on the public site can never edit your products,
+   projects, or photos, only admins can.
 
 ## 3. Get your API keys
 
@@ -48,6 +58,18 @@ In Supabase: **Settings → API**. You'll need:
 
 In Supabase: **Authentication → Users → Add user**. Set an email and password — this is what
 you'll use to sign in at `yoursite.com/admin`. You can add more than one admin user later the same way.
+
+**If you ran `customers_and_auth.sql` before adding this user**, they'll default to a regular
+(non-admin) account. Promote them to admin by running this in **SQL Editor**, swapping in their
+email:
+
+```sql
+update profiles set is_admin = true
+where id = (select id from auth.users where email = 'your-admin-email@example.com');
+```
+
+(Anyone who was already a Supabase user *before* you ran `customers_and_auth.sql` was
+automatically marked as an admin, so this step is only needed for admins you add afterwards.)
 
 ## 6. (Optional, recommended) Seed your existing content
 
@@ -75,6 +97,10 @@ Visit `/admin` on your site, sign in with the user you created in step 5, and yo
 
 ### Notes
 
+- **Customer accounts**: visitors can register at `/account/register` and sign in at
+  `/account/sign-in`. Their details land in the `customers` table and show up under
+  **Customers** in `/admin`, with a CSV export button. Customers can only ever see and edit
+  their own details — they cannot see other customers or touch products/projects/photos.
 - **Image uploads** go to a `media` bucket in Supabase Storage (created automatically by the
   schema) — there's a free 1GB storage allowance on Supabase's free tier, which is a lot of
   product/project photos.
