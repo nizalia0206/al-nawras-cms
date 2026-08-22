@@ -5,6 +5,7 @@ import Overview from "./pages/about/Overview";
 import Mission from "./pages/about/Mission";
 import Founder from "./pages/about/Founder";
 import Team from "./pages/about/Team";
+import Certifications from "./pages/about/Certifications";
 import FireFighting from "./pages/systems/FireFighting";
 import FireAlarm from "./pages/systems/FireAlarm";
 import VoiceEvacuation from "./pages/systems/VoiceEvacuation";
@@ -26,6 +27,7 @@ import AdminSystems from "./admin/AdminSystems";
 import AdminHome from "./admin/AdminHome";
 import AdminTeam from "./admin/AdminTeam";
 import AdminCertifications from "./admin/AdminCertifications";
+import AdminCustomers from "./admin/AdminCustomers";
 
 export default function App() {
   return (
@@ -37,6 +39,7 @@ export default function App() {
           <Route path="/about/mission" element={<Mission />} />
           <Route path="/about/founder" element={<Founder />} />
           <Route path="/about/team" element={<Team />} />
+          <Route path="/about/certifications" element={<Certifications />} />
           <Route path="/systems/fire-fighting" element={<FireFighting />} />
           <Route path="/systems/fire-alarm" element={<FireAlarm />} />
           <Route path="/systems/voice-evacuation" element={<VoiceEvacuation />} />
@@ -66,6 +69,7 @@ export default function App() {
           <Route path="home" element={<AdminHome />} />
           <Route path="team" element={<AdminTeam />} />
           <Route path="certifications" element={<AdminCertifications />} />
+          <Route path="customers" element={<AdminCustomers />} />
         </Route>
       </Routes>
     </AuthProvider>
