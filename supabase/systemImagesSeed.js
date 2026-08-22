@@ -1,5 +1,10 @@
-// Seed data for the `system_images` table — used by supabase/seed.js.
-// Paths point at /public/assets/systems/... (already copied there).
+// DEPRECATED — no longer used by supabase/seed.js.
+// These paths assumed the systems gallery images lived under
+// nawras-website-final/public/assets/systems/, but they never did (they're
+// bundled from src/assets/systems/ instead), so any site seeded from this
+// file served 404s for every systems gallery image.
+// Use `supabase/uploadSystemImages.js` instead — it uploads the real files
+// to Supabase storage and writes correct public URLs.
 const S = "/assets/systems/";
 
 export const SYSTEM_IMAGES_SEED = [

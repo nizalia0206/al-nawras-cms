@@ -11,7 +11,6 @@
 import { createClient } from "@supabase/supabase-js";
 import { PRODUCTS } from "../src/data/products.js";
 import { FALLBACK_PROJECTS } from "../src/data/projectsFallback.js";
-import { SYSTEM_IMAGES_SEED } from "./systemImagesSeed.js";
 import { team, certifications } from "../src/data/content.js";
 
 const url = process.env.VITE_SUPABASE_URL;
@@ -44,15 +43,20 @@ async function seedProjects() {
   console.log(`✓ Seeded ${rows.length} projects`);
 }
 
-async function seedSystemImages() {
-  // Clear existing rows first so re-running doesn't leave stale duplicates
-  // (system_images has no natural unique key to upsert against).
-  const { error: delErr } = await supabase.from("system_images").delete().neq("id", "00000000-0000-0000-0000-000000000000");
-  if (delErr) throw delErr;
-  const { error } = await supabase.from("system_images").insert(SYSTEM_IMAGES_SEED);
-  if (error) throw error;
-  console.log(`✓ Seeded ${SYSTEM_IMAGES_SEED.length} system images`);
-}
+// NOTE: system_images is intentionally NOT seeded here.
+// systemImagesSeed.js pointed at "/assets/systems/..." assuming those files
+// were copied into nawras-website-final/public — they never were, so any
+// site with rows in system_images was serving 404s instead of the bundled
+// fallback gallery images. If system_images is empty, the systems pages
+// fall back to their bundled images automatically, which is correct and
+// requires no seeding.
+//
+// To manage these images from the CMS, either:
+//   1. Add them one by one via Admin -> Systems & Solutions -> "+ Add Image"
+//      (uploads to Supabase storage and stores a real public URL), or
+//   2. Run `node --env-file=.env supabase/uploadSystemImages.js <path-to-nawras-website-final>`
+//      to bulk-upload the existing gallery images to storage and populate
+//      system_images with correct URLs in one go.
 
 async function seedTeam() {
   const rows = team.map((p, i) => ({
@@ -86,7 +90,6 @@ async function main() {
   console.log("Seeding Supabase from bundled static data…\n");
   await seedProducts();
   await seedProjects();
-  await seedSystemImages();
   await seedTeam();
   await seedCertifications();
   console.log("\nDone. Open /admin on your site to manage this content.");
