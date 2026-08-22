@@ -27,6 +27,7 @@ import AdminSystems from "./admin/AdminSystems";
 import AdminHome from "./admin/AdminHome";
 import AdminTeam from "./admin/AdminTeam";
 import AdminCertifications from "./admin/AdminCertifications";
+import AdminCareers from "./admin/AdminCareers";
 import AdminCustomers from "./admin/AdminCustomers";
 
 export default function App() {
@@ -69,6 +70,7 @@ export default function App() {
           <Route path="home" element={<AdminHome />} />
           <Route path="team" element={<AdminTeam />} />
           <Route path="certifications" element={<AdminCertifications />} />
+          <Route path="careers" element={<AdminCareers />} />
           <Route path="customers" element={<AdminCustomers />} />
         </Route>
       </Routes>
