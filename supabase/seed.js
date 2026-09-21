@@ -11,7 +11,7 @@
 import { createClient } from "@supabase/supabase-js";
 import { PRODUCTS } from "../src/data/products.js";
 import { FALLBACK_PROJECTS } from "../src/data/projectsFallback.js";
-import { team, certifications } from "../src/data/content.js";
+import { SYSTEM_IMAGES_SEED } from "./systemImagesSeed.js";
 
 const url = process.env.VITE_SUPABASE_URL;
 const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
@@ -43,55 +43,31 @@ async function seedProjects() {
   console.log(`✓ Seeded ${rows.length} projects`);
 }
 
-// NOTE: system_images is intentionally NOT seeded here.
-// systemImagesSeed.js pointed at "/assets/systems/..." assuming those files
-// were copied into nawras-website-final/public — they never were, so any
-// site with rows in system_images was serving 404s instead of the bundled
-// fallback gallery images. If system_images is empty, the systems pages
-// fall back to their bundled images automatically, which is correct and
-// requires no seeding.
-//
-// To manage these images from the CMS, either:
-//   1. Add them one by one via Admin -> Systems & Solutions -> "+ Add Image"
-//      (uploads to Supabase storage and stores a real public URL), or
-//   2. Run `node --env-file=.env supabase/uploadSystemImages.js <path-to-nawras-website-final>`
-//      to bulk-upload the existing gallery images to storage and populate
-//      system_images with correct URLs in one go.
-
-async function seedTeam() {
-  const rows = team.map((p, i) => ({
-    id: p.id,
-    name: p.name,
-    role: p.role,
-    phone: p.phone || null,
-    icon: p.icon || "person",
-    highlight: p.highlight || false,
-    sort_order: i,
-  }));
-  const { error } = await supabase.from("team_members").upsert(rows);
+async function seedSystemImages() {
+  // Clear existing rows first so re-running doesn't leave stale duplicates
+  // (system_images has no natural unique key to upsert against).
+  const { error: delErr } = await supabase.from("system_images").delete().neq("id", "00000000-0000-0000-0000-000000000000");
+  if (delErr) throw delErr;
+  let { error } = await supabase.from("system_images").insert(SYSTEM_IMAGES_SEED);
+  if (error && /description|brand/i.test(error.message)) {
+    // Older database without the card columns — seed the basics and say how to fix it.
+    console.warn(
+      "! system_images has no description/brand columns yet — seeding names + pictures only.\n" +
+      "  Run supabase/migrations/001_system_images_card_fields.sql in the SQL Editor, then re-run this seed."
+    );
+    ({ error } = await supabase
+      .from("system_images")
+      .insert(SYSTEM_IMAGES_SEED.map(({ description, brand, ...row }) => row)));
+  }
   if (error) throw error;
-  console.log(`✓ Seeded ${rows.length} team members`);
-}
-
-async function seedCertifications() {
-  const rows = certifications.map((c, i) => ({
-    num: c.num,
-    title: c.title,
-    description: c.desc,
-    image_url: c.image || null,
-    sort_order: i,
-  }));
-  const { error } = await supabase.from("certifications").upsert(rows);
-  if (error) throw error;
-  console.log(`✓ Seeded ${rows.length} certifications`);
+  console.log(`✓ Seeded ${SYSTEM_IMAGES_SEED.length} system images`);
 }
 
 async function main() {
   console.log("Seeding Supabase from bundled static data…\n");
   await seedProducts();
   await seedProjects();
-  await seedTeam();
-  await seedCertifications();
+  await seedSystemImages();
   console.log("\nDone. Open /admin on your site to manage this content.");
 }
 

@@ -275,15 +275,6 @@ export const team = [
   },
 ];
 
-export const jobs = [
-  { title: "Fire Alarm Systems Engineer", dept: "Engineering", type: "Full-time", location: "Sharjah" },
-  { title: "ICT Network Engineer", dept: "ICT", type: "Full-time", location: "Dubai" },
-  { title: "Fire Protection Project Manager", dept: "Project Management", type: "Full-time", location: "Sharjah" },
-  { title: "Site Supervisor — Fire Pumps", dept: "Engineering", type: "Full-time", location: "Sharjah" },
-  { title: "Sales Engineer — Fire & Safety", dept: "Sales", type: "Full-time", location: "Dubai" },
-  { title: "Junior CAD Draftsman", dept: "Engineering", type: "Full-time", location: "Sharjah" },
-];
-
 export const locations = [
   { tag: "HQ", title: "Sharjah — Head Office", desc: "Office 905, Al Baker Tower 5, Al Khan · Tel +971 6 562 5425" },
   { tag: "Branch", title: "Dubai Office", desc: "Barsha Valley Building, Al Barsha First · Tel +971 4 333 5373" },

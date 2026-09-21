@@ -52,7 +52,7 @@ export default function VoiceEvacuation() {
             <span className="w-6 h-[2px] bg-gradient-to-r from-flame1 to-gold" />
             Speakers, Amplifiers & Paging
           </h2>
-          <Gallery items={groups[0]?.items || []} columns="sm:grid-cols-2" />
+          <Gallery items={groups[0]?.items || []} category="VOICE EVACUATION" />
         </div>
       </section>
     </>

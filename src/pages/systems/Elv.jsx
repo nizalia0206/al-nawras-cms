@@ -52,7 +52,7 @@ export default function Elv() {
             <span className="w-6 h-[2px] bg-gradient-to-r from-flame1 to-gold" />
             Access Control & CCTV
           </h2>
-          <Gallery items={groups[0]?.items || []} />
+          <Gallery items={groups[0]?.items || []} category="ELV & SECURITY" />
         </div>
       </section>
     </>

@@ -1,60 +1,68 @@
 import { useEffect, useState } from "react";
-import useReveal from "../hooks/useReveal";
+import { useTilt } from "../hooks/useTilt";
 
-function GalleryCard({ item, onOpen }) {
+/**
+ * Systems & Solutions picture card — same card as the Brands / Products page
+ * (see .sys-card in index.css): 3D-tilt tile, square white thumbnail, brand tag,
+ * category chip, 2-line title + description, dashed divider, Get Quote button.
+ * Clicking the card opens the lightbox below.
+ */
+function SystemCard({ item, category, onOpen }) {
+  const { ref, onMouseMove, onMouseEnter, onMouseLeave, onTouchStart, onTouchEnd } = useTilt({ max: 10 });
+
   return (
-    <button
-      type="button"
+    <div
+      ref={ref}
+      className="sys-card"
+      onMouseMove={onMouseMove}
+      onMouseEnter={onMouseEnter}
+      onMouseLeave={onMouseLeave}
+      onTouchStart={onTouchStart}
+      onTouchEnd={onTouchEnd}
       onClick={onOpen}
-      className="group relative bg-white rounded-sm border border-black/[.08] overflow-hidden text-left transition-all duration-500 ease-[var(--ease)] hover:-translate-y-1.5 hover:border-flame1/40 hover:shadow-[0_24px_50px_-20px_rgba(255,91,30,.4)]"
+      role="button"
+      tabIndex={0}
+      aria-label={`View ${item.name}`}
+      onKeyDown={(e) => {
+        if (e.target !== e.currentTarget) return; // ignore keys pressed on the Get Quote link
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          onOpen();
+        }
+      }}
     >
-      {/* image stage */}
-      <div className="relative h-56 flex items-center justify-center p-8 overflow-hidden bg-paper2">
-        {/* glow that blooms in behind the product on hover */}
-        <span
-          className="pointer-events-none absolute w-40 h-40 rounded-full bg-gradient-to-br from-flame1/25 to-gold/20 blur-2xl scale-0 opacity-0 transition-all duration-500 ease-[var(--ease)] group-hover:scale-125 group-hover:opacity-100"
-          aria-hidden="true"
-        />
-        <img
-          src={item.src}
-          alt={item.name}
-          loading="lazy"
-          className="relative max-h-full max-w-full object-contain transition-transform duration-700 ease-[var(--ease)] group-hover:scale-[1.12] drop-shadow-[0_10px_18px_rgba(0,0,0,.12)]"
-        />
-
-        {/* expand hint */}
-        <span className="absolute top-3 right-3 w-8 h-8 rounded-full bg-ink/85 text-white flex items-center justify-center opacity-0 -translate-y-1.5 scale-90 transition-all duration-400 ease-[var(--ease)] group-hover:opacity-100 group-hover:translate-y-0 group-hover:scale-100">
-          <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round">
-            <path d="M9 3H3v6M15 3h6v6M9 21H3v-6M15 21h6v-6" />
-          </svg>
-        </span>
+      <div className="thumb">
+        {item.brand && <span className="supplier-tag">{item.brand}</span>}
+        <img src={item.src} alt={item.name} loading="lazy" />
+        <span className="quick-view">Tap to enlarge →</span>
       </div>
 
-      {/* label bar */}
-      <div className="relative px-4 py-3.5 border-t border-black/[.07] flex items-center justify-between gap-2">
-        <span className="text-[12.5px] font-semibold uppercase tracking-wide text-ink leading-tight">
-          {item.name}
-        </span>
-        <svg
-          className="w-3.5 h-3.5 shrink-0 text-flame1 -translate-x-1 opacity-0 transition-all duration-400 ease-[var(--ease)] group-hover:translate-x-0 group-hover:opacity-100"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          strokeWidth="2.6"
-          strokeLinecap="round"
-        >
-          <path d="M5 12h14M13 6l6 6-6 6" />
-        </svg>
-        {/* animated underline accent */}
-        <span className="absolute left-0 bottom-0 h-[2px] w-full bg-gradient-to-r from-flame1 to-gold origin-left scale-x-0 transition-transform duration-500 ease-[var(--ease)] group-hover:scale-x-100" />
+      <div className="body">
+        {category && <span className="cat-chip">{category}</span>}
+        <h3>{item.name}</h3>
+        {item.desc && <p className="short">{item.desc}</p>}
+        <div className="price-row">
+          <a
+            href={`https://wa.me/971551099885?text=${encodeURIComponent(
+              `Hi Al Nawras, I'd like to get a quote for ${item.name}.`
+            )}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label={`Get a quote for ${item.name}`}
+            onClick={(e) => e.stopPropagation()}
+            className="btn btn-flame !py-2.5 !text-[11.5px] w-full justify-center"
+          >
+            Get Quote
+          </a>
+        </div>
       </div>
-    </button>
+      <span className="card-accent-line" aria-hidden="true" />
+    </div>
   );
 }
 
-export default function Gallery({ items, columns = "sm:grid-cols-2 lg:grid-cols-3" }) {
+export default function Gallery({ items, category }) {
   const [active, setActive] = useState(null);
-  const ref = useReveal();
 
   useEffect(() => {
     if (active === null) return;
@@ -73,9 +81,9 @@ export default function Gallery({ items, columns = "sm:grid-cols-2 lg:grid-cols-
 
   return (
     <>
-      <div ref={ref} className={`reveal-stagger grid grid-cols-1 ${columns} gap-5`}>
+      <div className="sys-grid" data-count={items.length}>
         {items.map((item, i) => (
-          <GalleryCard key={item.name + i} item={item} onOpen={() => setActive(i)} />
+          <SystemCard key={item.name + i} item={item} category={category} onOpen={() => setActive(i)} />
         ))}
       </div>
 
@@ -104,8 +112,8 @@ export default function Gallery({ items, columns = "sm:grid-cols-2 lg:grid-cols-
               &times;
             </button>
 
-            <div className="h-[360px] md:h-[440px] flex items-center justify-center p-10 bg-paper2 relative overflow-hidden">
-              <span className="absolute w-64 h-64 rounded-full bg-gradient-to-br from-flame1/15 to-gold/15 blur-3xl" />
+            {/* pictures are white-background product shots, so the stage is white too */}
+            <div className="h-[360px] md:h-[440px] flex items-center justify-center p-6 md:p-8 bg-white relative overflow-hidden">
               <img
                 key={active}
                 src={items[active].src}
@@ -114,31 +122,48 @@ export default function Gallery({ items, columns = "sm:grid-cols-2 lg:grid-cols-
               />
             </div>
 
-            <div className="px-7 py-5 border-t border-black/[.07] flex items-center justify-between gap-4">
+            <div className="px-7 py-5 border-t border-black/[.07] flex flex-col sm:flex-row sm:items-center justify-between gap-4">
               <div>
-                <div className="sec-eyebrow !mb-1">Al Nawras Systems &amp; Solutions</div>
+                <div className="sec-eyebrow !mb-1">
+                  {items[active].brand ? items[active].brand : "Al Nawras Systems & Solutions"}
+                </div>
                 <h3 className="font-display uppercase text-[19px] tracking-wide text-ink">
                   {items[active].name}
                 </h3>
+                {items[active].desc && (
+                  <p className="text-[13px] leading-[1.6] text-inksoft mt-1.5 max-w-[46ch]">{items[active].desc}</p>
+                )}
               </div>
-              {items.length > 1 && (
-                <div className="flex items-center gap-2 shrink-0">
-                  <button
-                    onClick={() => setActive((active - 1 + items.length) % items.length)}
-                    aria-label="Previous"
-                    className="w-9 h-9 rounded-full border border-black/[.12] flex items-center justify-center text-ink hover:border-flame1 hover:text-flame1 transition-colors duration-300"
-                  >
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round"><path d="M15 6l-6 6 6 6" /></svg>
-                  </button>
-                  <button
-                    onClick={() => setActive((active + 1) % items.length)}
-                    aria-label="Next"
-                    className="w-9 h-9 rounded-full border border-black/[.12] flex items-center justify-center text-ink hover:border-flame1 hover:text-flame1 transition-colors duration-300"
-                  >
-                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round"><path d="M9 6l6 6-6 6" /></svg>
-                  </button>
-                </div>
-              )}
+              <div className="flex items-center gap-3 shrink-0">
+                <a
+                  href={`https://wa.me/971551099885?text=${encodeURIComponent(
+                    `Hi Al Nawras, I'd like to get a quote for ${items[active].name}.`
+                  )}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn btn-flame !py-2.5 !px-5 !text-[12.5px]"
+                >
+                  Get Quote
+                </a>
+                {items.length > 1 && (
+                  <div className="flex items-center gap-2">
+                    <button
+                      onClick={() => setActive((active - 1 + items.length) % items.length)}
+                      aria-label="Previous"
+                      className="w-9 h-9 rounded-full border border-black/[.12] flex items-center justify-center text-ink hover:border-flame1 hover:text-flame1 transition-colors duration-300"
+                    >
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round"><path d="M15 6l-6 6 6 6" /></svg>
+                    </button>
+                    <button
+                      onClick={() => setActive((active + 1) % items.length)}
+                      aria-label="Next"
+                      className="w-9 h-9 rounded-full border border-black/[.12] flex items-center justify-center text-ink hover:border-flame1 hover:text-flame1 transition-colors duration-300"
+                    >
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round"><path d="M9 6l6 6-6 6" /></svg>
+                    </button>
+                  </div>
+                )}
+              </div>
             </div>
           </div>
         )}

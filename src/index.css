@@ -174,3 +174,196 @@ body { @apply bg-paper text-ink font-body antialiased; overflow-x: hidden; }
   .wf-line{ animation: none; }
 }
 
+/* =========================================================================
+   Systems & Solutions — product-style picture cards
+   Same card as the Brands / Products page (3D-tilt tile, square white
+   thumbnail, brand tag, category chip, 2-line title/description, dashed
+   divider + Get Quote, orange accent line). Scoped to .sys-card so it never
+   touches the rest of the Tailwind site; the catalog stylesheets are only
+   loaded on the catalog routes, so the look is reproduced here.
+   ========================================================================= */
+.sys-grid {
+  display: grid;
+  gap: 22px;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+/* auto-fill (not auto-fit) keeps every card the same size as a full row, so a
+   group of 2–3 pictures doesn't stretch across the page. */
+/* 5 cards: one even row on desktop rather than 4 + 1 orphan */
+@media (min-width: 1100px) {
+  .sys-grid[data-count="5"] { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+}
+
+.sys-card {
+  --rx: 0deg;
+  --ry: 0deg;
+  --mx: 50%;
+  --my: 50%;
+  --sc-radius: 18px;
+  --sc-line: #e1e7ef;
+  --sc-navy: #0a1f3d;
+  --sc-slate: #64758a;
+  --sc-flame: #e2580f;
+  --sc-flame-dark: #c8390b;
+  --sc-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: visible;
+  cursor: pointer;
+  text-align: start;
+  border-radius: var(--sc-radius);
+  background: linear-gradient(180deg, #ffffff 0%, #fbfbfc 100%);
+  border: 1px solid var(--sc-line);
+  transform: perspective(1000px) rotateX(var(--rx)) rotateY(var(--ry)) translateZ(0);
+  transform-style: preserve-3d;
+  transition: transform 0.45s var(--sc-ease), box-shadow 0.45s var(--sc-ease), border-color 0.3s ease;
+  box-shadow: 0 1px 2px rgba(10, 20, 40, 0.04), 0 6px 16px rgba(10, 20, 40, 0.05);
+  will-change: transform;
+}
+.sys-card:focus-visible { outline: 3px solid #f2791f; outline-offset: 2px; }
+.sys-card.is-hovering {
+  transition: transform 0.08s linear, box-shadow 0.25s ease;
+  transform: perspective(1000px) rotateX(var(--rx)) rotateY(var(--ry)) translateZ(0) scale(1.015);
+  border-color: rgba(226, 88, 15, 0.35);
+  box-shadow:
+    0 1px 2px rgba(10, 20, 40, 0.05),
+    0 10px 20px -6px rgba(226, 88, 15, 0.18),
+    0 34px 54px -18px rgba(226, 88, 15, 0.3);
+}
+
+/* glare that follows the cursor */
+.sys-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  border-radius: inherit;
+  background: radial-gradient(480px circle at var(--mx) var(--my), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.08) 32%, transparent 62%);
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  mix-blend-mode: overlay;
+}
+.sys-card.is-hovering::before { opacity: 1; }
+
+.sys-card .card-accent-line {
+  position: absolute; left: 0; right: 0; bottom: 0; height: 3px;
+  border-radius: 0 0 var(--sc-radius) var(--sc-radius);
+  background: linear-gradient(90deg, #e2580f, #f2791f);
+  transform: scaleX(0); transform-origin: left;
+  transition: transform 0.35s var(--sc-ease);
+  z-index: 3; pointer-events: none;
+}
+.sys-card.is-hovering .card-accent-line { transform: scaleX(1); }
+
+/* square white image stage */
+.sys-card .thumb {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  background: #ffffff;
+  overflow: hidden;
+  border-radius: var(--sc-radius) var(--sc-radius) 0 0;
+  transform-style: preserve-3d;
+}
+.sys-card .thumb img {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 8px;
+  transform: translateZ(38px) scale(1);
+  transition: transform 0.45s var(--sc-ease);
+}
+.sys-card.is-hovering .thumb img { transform: translateZ(64px) scale(1.07); }
+
+.sys-card .supplier-tag {
+  position: absolute;
+  top: 12px;
+  inset-inline-start: 12px;
+  z-index: 2;
+  background: rgba(10, 20, 40, 0.82);
+  backdrop-filter: blur(6px);
+  color: #fff;
+  font-size: 10.5px;
+  font-weight: 700;
+  padding: 5px 11px;
+  border-radius: 100px;
+  letter-spacing: 0.03em;
+  transform: translateZ(36px);
+  box-shadow: 0 4px 10px rgba(10, 20, 40, 0.25);
+}
+.sys-card .quick-view {
+  position: absolute;
+  left: 50%;
+  bottom: 14px;
+  z-index: 2;
+  transform: translate(-50%, 10px);
+  opacity: 0;
+  background: rgba(10, 20, 40, 0.88);
+  backdrop-filter: blur(6px);
+  color: #fff;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  padding: 8px 16px;
+  border-radius: 100px;
+  white-space: nowrap;
+  transition: opacity 0.3s ease, transform 0.3s var(--sc-ease);
+  pointer-events: none;
+}
+.sys-card.is-hovering .quick-view { opacity: 1; transform: translate(-50%, 0); }
+
+.sys-card .body {
+  position: relative;
+  z-index: 2;
+  padding: 17px 17px 19px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  transform: translateZ(14px);
+}
+.sys-card .cat-chip {
+  font-size: 10.5px;
+  font-weight: 800;
+  color: var(--sc-flame-dark);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.sys-card h3 {
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+  line-height: 1.36;
+  min-height: 41px;
+  color: var(--sc-navy);
+  font-weight: 650;
+  letter-spacing: -0.005em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.sys-card .short {
+  font-size: 12.5px;
+  color: var(--sc-slate);
+  line-height: 1.45;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.sys-card .price-row {
+  display: flex;
+  align-items: center;
+  margin-top: 6px;
+  padding-top: 12px;
+  border-top: 1px dashed var(--sc-line);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sys-card, .sys-card .thumb img { transition: none !important; transform: none !important; }
+  .sys-card::before { display: none; }
+}

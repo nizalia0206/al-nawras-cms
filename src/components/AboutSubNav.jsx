@@ -5,7 +5,6 @@ const TABS = [
   { label: "Mission & Vision", to: "/about/mission" },
   { label: "Message from the Founder", to: "/about/founder" },
   { label: "Our Team", to: "/about/team" },
-  { label: "Certifications", to: "/about/certifications" },
 ];
 
 export default function AboutSubNav() {

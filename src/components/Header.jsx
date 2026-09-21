@@ -12,7 +12,7 @@ const NAV = [
       { title: "Mission & Vision", desc: "What drives every installation", to: "/about/mission" },
       { title: "Message from the Founder", desc: "A word from our leadership", to: "/about/founder" },
       { title: "Our Team", desc: "The people behind Al Nawras", to: "/about/team" },
-      { title: "Certifications", desc: "Our accreditations & approvals", to: "/about/certifications" },
+      { title: "Certifications", desc: "Our accreditations & approvals", href: "#certifications" },
       { title: "Contact", desc: "Get in touch with our team", href: "#contact" },
     ],
   },

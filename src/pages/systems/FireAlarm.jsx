@@ -53,7 +53,7 @@ export default function FireAlarm() {
             <span className="w-6 h-[2px] bg-gradient-to-r from-flame1 to-gold" />
             Panels & Detection Devices
           </h2>
-          <Gallery items={groups[0]?.items || []} columns="sm:grid-cols-2" />
+          <Gallery items={groups[0]?.items || []} category="FIRE ALARM" />
         </div>
       </section>
     </>

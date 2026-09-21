@@ -52,7 +52,7 @@ export default function SmokeManagement() {
             <span className="w-6 h-[2px] bg-gradient-to-r from-flame1 to-gold" />
             Dampers, Fans & Controls
           </h2>
-          <Gallery items={groups[0]?.items || []} />
+          <Gallery items={groups[0]?.items || []} category="SMOKE MANAGEMENT" />
         </div>
       </section>
     </>

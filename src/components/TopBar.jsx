@@ -1,9 +1,7 @@
 import { Link } from "react-router-dom";
 import { IconLinkedIn, IconInstagram, IconX } from "./Icons";
-import { useCustomerAuth } from "../context/CustomerAuthContext";
 
 export default function TopBar() {
-  const { session } = useCustomerAuth();
   const socials = [
     { label: "LinkedIn", Icon: IconLinkedIn, href: "https://ae.linkedin.com/in/al-nawras-91365b25b" },
     { label: "Instagram", Icon: IconInstagram, href: "#" },
@@ -12,7 +10,7 @@ export default function TopBar() {
 
   const utilityLinks = [
     { label: "About Us", to: "/about/overview" },
-    { label: "Certifications", to: "/about/certifications" },
+    { label: "Certifications", href: "#certifications" },
     { label: "Projects", href: "#projects" },
     { label: "Contact", href: "#contact" },
   ];
@@ -38,13 +36,6 @@ export default function TopBar() {
               )
             )}
           </div>
-          <Link
-            to={session ? "/account" : "/account/sign-in"}
-            className="hidden sm:inline font-semibold uppercase tracking-[.08em] text-[11px] text-inksoft hover:text-flame1 transition-colors pl-4 border-l border-ink/[.1]"
-          >
-            {session ? "My Account" : "Sign In"}
-          </Link>
-
           <div className="flex items-center gap-3 pl-4 border-l border-ink/[.1]">
             {socials.map(({ label, Icon, href }) => (
               <a

@@ -55,7 +55,7 @@ export default function FireFighting() {
                 <span className="w-6 h-[2px] bg-gradient-to-r from-flame1 to-gold" />
                 {group.title}
               </h2>
-              <Gallery items={group.items} />
+              <Gallery items={group.items} category={group.title} />
             </div>
           ))}
         </div>

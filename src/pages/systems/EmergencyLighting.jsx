@@ -53,7 +53,7 @@ export default function EmergencyLighting() {
             <span className="w-6 h-[2px] bg-gradient-to-r from-flame1 to-gold" />
             Panels & Luminaires
           </h2>
-          <Gallery items={groups[0]?.items || []} />
+          <Gallery items={groups[0]?.items || []} category="EMERGENCY LIGHTING" />
         </div>
       </section>
     </>
