@@ -1,11 +1,15 @@
-node_modules/
-dist/
-dist-ssr/
+# dependencies & build output
+node_modules
+dist
+
+# secrets — never commit these (the service-role key in .env can read/write your whole database)
 .env
-.env.local
-.env.*.local
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
+.env.*
+!.env.example
+
+# backups written by supabase/seed-system-images.mjs
+supabase/backup-system-images-*.json
+
+# logs / OS files
 *.log
+.DS_Store
