@@ -103,6 +103,8 @@ The CMS menu now has every editable part of the website:
 | **Our Team** | About → Our Team |
 | **Certifications** | Certifications on Home + About |
 | **Careers** | Job openings on the Careers page |
+| **Job Applications** | Applications + CVs from the Careers page (private CV storage, hiring stages, notes, CSV) — run `supabase/migration_job_applications.sql` once |
+| **Enquiries** | Every message sent from the Contact page (status, notes, reply by email/WhatsApp, CSV export) — run `supabase/migration_enquiries.sql` once |
 | **Customers** | Everyone who registered / signs in on the website (search + CSV export) |
 | **Site Settings** | Phone numbers, email, WhatsApp number, social links, headline numbers |
 

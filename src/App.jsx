@@ -32,6 +32,8 @@ import AdminIndustries from "./admin/AdminIndustries";
 import AdminSettings from "./admin/AdminSettings";
 import AdminPartners from "./admin/AdminPartners";
 import AdminText from "./admin/AdminText";
+import AdminEnquiries from "./admin/AdminEnquiries";
+import AdminApplications from "./admin/AdminApplications";
 
 export default function App() {
   return (
@@ -78,6 +80,8 @@ export default function App() {
           <Route path="settings" element={<AdminSettings />} />
           <Route path="partners" element={<AdminPartners />} />
           <Route path="text" element={<AdminText />} />
+          <Route path="enquiries" element={<AdminEnquiries />} />
+          <Route path="applications" element={<AdminApplications />} />
         </Route>
       </Routes>
     </AuthProvider>

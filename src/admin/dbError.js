@@ -5,6 +5,8 @@ const SETUP_FILE = {
   team_members: "migration_site_content.sql",
   certifications: "migration_site_content.sql",
   job_postings: "migration_careers.sql",
+  contact_messages: "migration_enquiries.sql",
+  job_applications: "migration_job_applications.sql",
   customers: "customers_and_auth.sql",
   profiles: "customers_and_auth.sql",
 };

@@ -55,6 +55,14 @@ export default function AdminDashboard() {
           <h3>Careers</h3>
           <p>Add, edit or close the job openings on the Careers page.</p>
         </Link>
+        <Link className="admin-link-card" to="/admin/applications">
+          <h3>Job Applications</h3>
+          <p>Applications and CVs sent from the Careers page — shortlist, interview, hire.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/enquiries">
+          <h3>Enquiries</h3>
+          <p>Messages sent from the website's Contact page — reply, track status and add notes.</p>
+        </Link>
         <Link className="admin-link-card" to="/admin/customers">
           <h3>Customers</h3>
           <p>Everyone who registered / signs in on the website. Search and export to CSV.</p>

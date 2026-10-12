@@ -1546,5 +1546,13 @@
  "content.brands.h3c.desc": {
   "en": "Authorized agent for New H3C Technologies — bringing enterprise networking, compute and unified operations platforms into Al Nawras ICT project scopes.",
   "ar": ""
+ },
+ "pages.careers.cv": {
+  "en": "CV / Resume * (PDF or Word, max 5 MB)",
+  "ar": "السيرة الذاتية * (PDF أو Word، بحد أقصى 5 ميغابايت)"
+ },
+ "pages.careers.sending": {
+  "en": "Sending…",
+  "ar": "جارٍ الإرسال…"
  }
 }
