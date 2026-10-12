@@ -1,0 +1,6761 @@
+[
+ {
+  "id": "honeywell-morley-ias",
+  "name": "Morley-IAS Intelligent Addressable Fire Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 4250,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/morley-ias-honeywell-morley-ias-fire-alarm-panel.jpg"
+  ],
+  "short": "Intelligent addressable fire alarm control panel with networking capability.",
+  "description": "The Morley-IAS range delivers reliable, intelligent addressable fire detection for small to large-scale installations. Fully compatible with a wide range of detectors, sounders, and interface devices, it supports networking across multiple panels for campus-wide protection and centralized monitoring.",
+  "specs": [
+   [
+    "Panel type",
+    "Intelligent Addressable"
+   ],
+   [
+    "Loops",
+    "1–4 loop configurations"
+   ],
+   [
+    "Devices per loop",
+    "Up to 200"
+   ],
+   [
+    "Certification",
+    "EN 54 Parts 2 & 4"
+   ],
+   [
+    "Networking",
+    "Up to 200 panels"
+   ],
+   [
+    "Power supply",
+    "24V DC, dual battery backup"
+   ]
+  ],
+  "tags": [
+   "fire panel",
+   "addressable",
+   "control panel"
+  ],
+  "sort_order": 0,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-x-618",
+  "name": "Honeywell X-618 Multi-Sensor Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 185,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-idp-heat-detector.jpg"
+  ],
+  "short": "Combined optical smoke and heat multi-sensor detector.",
+  "description": "The X-618 multi-sensor combines optical smoke and thermal sensing in a single low-profile head, reducing false alarms while maintaining fast response to genuine fire conditions. Designed for addressable loop integration across commercial and residential applications.",
+  "specs": [
+   [
+    "Detection type",
+    "Optical smoke + heat"
+   ],
+   [
+    "Mounting",
+    "Surface / flush base"
+   ],
+   [
+    "Operating voltage",
+    "17–28V DC (loop powered)"
+   ],
+   [
+    "Certification",
+    "EN 54-5 / EN 54-7"
+   ],
+   [
+    "Indicator",
+    "Dual-colour LED"
+   ]
+  ],
+  "tags": [
+   "detector",
+   "smoke sensor",
+   "multi-sensor"
+  ],
+  "sort_order": 1,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-dxc-controller",
+  "name": "Honeywell DXC Networked Fire Controller",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3100,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/dxc-fire-panels-honeywell-morley-dxc1-fire-panel.jpg"
+  ],
+  "short": "Networked fire alarm system controller for large sites.",
+  "description": "The DXC controller extends fire alarm networking across large or multi-building sites, providing unified event management, graphical mapping and centralized cause-and-effect programming for complex fire strategies.",
+  "specs": [
+   [
+    "Function",
+    "Network fire controller"
+   ],
+   [
+    "Compatibility",
+    "Morley-IAS / XLS network range"
+   ],
+   [
+    "Display",
+    "Graphical LCD"
+   ],
+   [
+    "Interfaces",
+    "RS-485, Ethernet"
+   ],
+   [
+    "Certification",
+    "EN 54-2"
+   ]
+  ],
+  "tags": [
+   "controller",
+   "network panel"
+  ],
+  "sort_order": 2,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-zxe-repeater",
+  "name": "Honeywell ZXe Repeater Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 780,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/zxse-honeywell-ziton-zx2se-fire-panel.jpg"
+  ],
+  "short": "Remote repeater panel mirroring the main fire panel status.",
+  "description": "The ZXe repeater panel gives security or facilities staff full visibility of fire alarm status from a remote location, mirroring alarms, faults and system status from the main control panel in real time.",
+  "specs": [
+   [
+    "Function",
+    "Remote repeater / mimic panel"
+   ],
+   [
+    "Display",
+    "LCD status + LED indicators"
+   ],
+   [
+    "Connection",
+    "RS-485 loop link"
+   ],
+   [
+    "Certification",
+    "EN 54-2"
+   ]
+  ],
+  "tags": [
+   "repeater",
+   "mimic panel"
+  ],
+  "sort_order": 3,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-extend-notification",
+  "name": "Honeywell Extend Voice Evacuation System",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 5600,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/extend-speakers-honeywell-l-pom40a-column-speaker.jpg"
+  ],
+  "short": "Integrated voice alarm and public address evacuation system.",
+  "description": "Extend combines fire alarm notification with clear voice evacuation messaging, allowing phased or building-wide evacuation instructions to be broadcast with pre-recorded or live announcements — essential for high-occupancy buildings.",
+  "specs": [
+   [
+    "Function",
+    "Voice evacuation / PA"
+   ],
+   [
+    "Certification",
+    "EN 54-16 / EN 54-24"
+   ],
+   [
+    "Zones",
+    "Configurable multi-zone"
+   ],
+   [
+    "Amplifier redundancy",
+    "Dual redundant amplifiers"
+   ]
+  ],
+  "tags": [
+   "voice evacuation",
+   "public address"
+  ],
+  "sort_order": 4,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-fire-emergency-kit",
+  "name": "Honeywell Fire Alarm & Emergency Device Set",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 620,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-fire-alarm-pull-station.jpg"
+  ],
+  "short": "Manual call points, sounders and emergency field devices.",
+  "description": "A complete range of field devices for fire alarm circuits — manual call points, sounder/beacons, and interface modules — built for reliable operation and rapid manual activation during an emergency.",
+  "specs": [
+   [
+    "Includes",
+    "Call points, sounders, beacons"
+   ],
+   [
+    "IP rating",
+    "IP42 / IP65 variants"
+   ],
+   [
+    "Certification",
+    "EN 54-11 / EN 54-3"
+   ],
+   [
+    "Colour",
+    "Red, safety signal"
+   ]
+  ],
+  "tags": [
+   "call point",
+   "sounder",
+   "beacon"
+  ],
+  "sort_order": 5,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-horizontal-split-case",
+  "name": "Waterfall Horizontal Split Case Fire Pump",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 18500,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-waterfall-horizontal-split-case-fire-pump.jpg"
+  ],
+  "short": "UL/FM listed horizontal split case fire pump for high-demand systems.",
+  "description": "Built for large-scale fire protection systems, Waterfall's horizontal split case fire pumps deliver high flow rates with dependable performance. Listed to UL 448 and FM 1311, and designed to NFPA 20 requirements, they form the backbone of sprinkler and hydrant network water supply.",
+  "specs": [
+   [
+    "Type",
+    "Horizontal split case"
+   ],
+   [
+    "Listings",
+    "UL 448, FM 1311"
+   ],
+   [
+    "Standard",
+    "NFPA 20"
+   ],
+   [
+    "Flow range",
+    "500–5000 GPM (project dependent)"
+   ],
+   [
+    "Drive",
+    "Electric motor / diesel engine options"
+   ]
+  ],
+  "tags": [
+   "fire pump",
+   "split case",
+   "NFPA 20"
+  ],
+  "sort_order": 6,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-fire-pump-house",
+  "name": "Waterfall Packaged Fire Pump House Unit",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 32000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-waterfall-packaged-fire-pump-house.jpg"
+  ],
+  "short": "Pre-engineered, skid-mounted fire pump house for rapid deployment.",
+  "description": "A fully packaged, factory-tested pump house solution including main and jockey pumps, controllers, piping and instrumentation — reducing on-site installation time for projects needing a complete, code-compliant fire water supply package.",
+  "specs": [
+   [
+    "Configuration",
+    "Skid-mounted packaged unit"
+   ],
+   [
+    "Includes",
+    "Main pump, jockey pump, controllers"
+   ],
+   [
+    "Standard",
+    "NFPA 20 compliant assembly"
+   ],
+   [
+    "Testing",
+    "Factory performance tested"
+   ]
+  ],
+  "tags": [
+   "pump house",
+   "packaged system",
+   "skid mounted"
+  ],
+  "sort_order": 7,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-cross-sectional",
+  "name": "Waterfall Vertical Turbine Fire Pump",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 21500,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-waterfall-vertical-turbine-fire-pump.jpg"
+  ],
+  "short": "Vertical turbine pump for below-ground or open water source supply.",
+  "description": "Engineered for applications drawing from wet pits, reservoirs, or below-grade water sources, Waterfall's vertical turbine fire pumps provide dependable suction lift performance while meeting the same UL/FM listing standards as the horizontal range.",
+  "specs": [
+   [
+    "Type",
+    "Vertical turbine"
+   ],
+   [
+    "Application",
+    "Wet pit / underground source"
+   ],
+   [
+    "Listings",
+    "UL 448, FM 1311"
+   ],
+   [
+    "Standard",
+    "NFPA 20"
+   ]
+  ],
+  "tags": [
+   "fire pump",
+   "vertical turbine"
+  ],
+  "sort_order": 8,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-escalux",
+  "name": "Teknoware Escalux Escape Route Luminaire",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 145,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/escalux-teknoware-escalux-emergency-lighting-control-system.jpg"
+  ],
+  "short": "LED emergency escape route luminaire with self-test option.",
+  "description": "The Escalux luminaire provides bright, uniform illumination of escape routes during a power failure. With an efficient LED engine and long-life battery backup, it's designed for corridors, stairwells and open escape areas in commercial buildings.",
+  "specs": [
+   [
+    "Light source",
+    "LED"
+   ],
+   [
+    "Operation",
+    "Maintained / non-maintained"
+   ],
+   [
+    "Backup duration",
+    "1 hr / 3 hr options"
+   ],
+   [
+    "Self-test",
+    "Optional automatic self-test"
+   ],
+   [
+    "Certification",
+    "EN 60598-2-22"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "escape route",
+   "LED luminaire"
+  ],
+  "sort_order": 9,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-mounting-kit",
+  "name": "Teknoware Universal Mounting Kit",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 38,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twt91xx-handrail-luminaire.jpg"
+  ],
+  "short": "Surface, recessed and pendant mounting accessories for luminaires.",
+  "description": "A complete range of mounting brackets and accessories that adapt Teknoware emergency luminaires to surface, recessed ceiling, wall or pendant installations, simplifying specification across varied building layouts.",
+  "specs": [
+   [
+    "Compatibility",
+    "Teknoware luminaire range"
+   ],
+   [
+    "Mounting types",
+    "Surface, recessed, pendant"
+   ],
+   [
+    "Material",
+    "Powder-coated steel / polycarbonate"
+   ]
+  ],
+  "tags": [
+   "mounting kit",
+   "bracket",
+   "accessory"
+  ],
+  "sort_order": 10,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-battery-pack",
+  "name": "Teknoware Emergency Battery Pack",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 62,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-central-battery-system-cabinet.jpg"
+  ],
+  "short": "NiMH / Li-ion backup battery packs for emergency luminaires.",
+  "description": "Long-life rechargeable battery packs sized for Teknoware's emergency lighting range, ensuring reliable backup runtime that meets EN 50171 requirements over repeated charge cycles.",
+  "specs": [
+   [
+    "Chemistry",
+    "NiMH / Li-ion options"
+   ],
+   [
+    "Runtime",
+    "1 hr / 3 hr rated"
+   ],
+   [
+    "Certification",
+    "EN 50171"
+   ],
+   [
+    "Lifecycle",
+    "4+ years typical service life"
+   ]
+  ],
+  "tags": [
+   "battery",
+   "backup power"
+  ],
+  "sort_order": 11,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-s6520x-ei",
+  "name": "H3C S6520X-EI Series Switch",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 2450,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6520x-ei.jpg"
+  ],
+  "short": "10GbE Layer 3 access/aggregation switch series.",
+  "description": "The S6520X-EI series delivers high-density 10GbE access with Layer 3 routing, purpose-built for enterprise campus aggregation and data center top-of-rack deployments requiring wire-speed performance.",
+  "specs": [
+   [
+    "Switching layer",
+    "Layer 3"
+   ],
+   [
+    "Port speed",
+    "10GbE downlink / 40-100GbE uplink options"
+   ],
+   [
+    "Form factor",
+    "1U rack-mount"
+   ],
+   [
+    "Redundancy",
+    "Hot-swappable PSU & fans"
+   ]
+  ],
+  "tags": [
+   "switch",
+   "layer 3",
+   "10GbE"
+  ],
+  "sort_order": 12,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-s5130s-ei",
+  "name": "H3C S5130S-EI Series Switch",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 890,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s5130s-ei.jpg"
+  ],
+  "short": "Gigabit Layer 3 access switch series.",
+  "description": "A cost-effective Layer 3 gigabit access switch built for enterprise wiring closets, offering solid throughput, PoE+ options and simplified management for mid-size networks.",
+  "specs": [
+   [
+    "Switching layer",
+    "Layer 3"
+   ],
+   [
+    "Port speed",
+    "Gigabit Ethernet"
+   ],
+   [
+    "PoE",
+    "PoE+ variants available"
+   ],
+   [
+    "Form factor",
+    "1U rack-mount"
+   ]
+  ],
+  "tags": [
+   "switch",
+   "gigabit",
+   "access switch"
+  ],
+  "sort_order": 13,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-msr3610-i",
+  "name": "H3C MSR3610-I Router",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 1350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-msr3610-i.jpg"
+  ],
+  "short": "Modular multi-service enterprise router.",
+  "description": "The MSR3610-I is a modular, multi-service router combining routing, security and WAN optimization in a single platform — suited to branch office and campus edge deployments needing flexible interface options.",
+  "specs": [
+   [
+    "Type",
+    "Modular multi-service router"
+   ],
+   [
+    "Throughput",
+    "Multi-Gbps forwarding"
+   ],
+   [
+    "Interfaces",
+    "Modular WAN/LAN slots"
+   ],
+   [
+    "Security",
+    "Integrated firewall / VPN"
+   ]
+  ],
+  "tags": [
+   "router",
+   "modular",
+   "branch router"
+  ],
+  "sort_order": 14,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-wa6320",
+  "name": "H3C WA6320 Wireless Access Point",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 340,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6320.jpg"
+  ],
+  "short": "Wi-Fi 6 indoor access point for enterprise deployments.",
+  "description": "The WA6320 delivers Wi-Fi 6 performance for dense enterprise environments, with high concurrent client capacity, MU-MIMO and OFDMA support for consistent throughput even under heavy load.",
+  "specs": [
+   [
+    "Wi-Fi standard",
+    "Wi-Fi 6 (802.11ax)"
+   ],
+   [
+    "MIMO",
+    "MU-MIMO, OFDMA"
+   ],
+   [
+    "Power",
+    "802.3at PoE+"
+   ],
+   [
+    "Mounting",
+    "Ceiling / wall mount"
+   ]
+  ],
+  "tags": [
+   "access point",
+   "wifi 6",
+   "wireless"
+  ],
+  "sort_order": 15,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-ngfw-f1000",
+  "name": "H3C NGFW F1000 Series Firewall",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 6200,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-security-ngfw.jpg"
+  ],
+  "short": "Next-generation firewall for enterprise perimeter security.",
+  "description": "The F1000 series next-generation firewall combines deep packet inspection, intrusion prevention and application-aware policy control, protecting enterprise networks against evolving threats while maintaining high throughput.",
+  "specs": [
+   [
+    "Type",
+    "Next-generation firewall"
+   ],
+   [
+    "Inspection",
+    "Deep packet inspection, IPS"
+   ],
+   [
+    "Throughput",
+    "Multi-Gbps firewall throughput"
+   ],
+   [
+    "Management",
+    "Centralized security management platform"
+   ]
+  ],
+  "tags": [
+   "firewall",
+   "NGFW",
+   "network security"
+  ],
+  "sort_order": 16,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-r4900-g5",
+  "name": "H3C UniServer R4900 G5 Rack Server",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 4800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-intelligent-computing-uniserver.jpg"
+  ],
+  "short": "2U dual-socket rack server for enterprise workloads.",
+  "description": "The R4900 G5 is a versatile 2U rack server supporting dual-socket configurations, extensive storage bays and flexible I/O, suited to virtualization, database and general enterprise compute workloads.",
+  "specs": [
+   [
+    "Form factor",
+    "2U rack server"
+   ],
+   [
+    "Sockets",
+    "Dual-socket"
+   ],
+   [
+    "Storage",
+    "Multiple hot-swap bays"
+   ],
+   [
+    "Use case",
+    "Virtualization, database, general compute"
+   ]
+  ],
+  "tags": [
+   "server",
+   "rack server",
+   "compute"
+  ],
+  "sort_order": 17,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "uranus-fire-resistance-cable",
+  "name": "Uranus Fire Resistant Power Cable",
+  "supplier": "uranus",
+  "category": "cables",
+  "price": 4.2,
+  "price_unit": "per meter",
+  "images": [
+   "/assets/products/uranus/real/products-tratos-fire-resistant-cable.jpg"
+  ],
+  "short": "Fire-resistant, low smoke halogen-free power and control cable.",
+  "description": "Uranus fire resistant cables maintain circuit integrity under direct flame exposure, keeping critical life-safety systems — fire pumps, emergency lighting, alarm circuits — operational during a fire event. Low smoke, halogen-free construction reduces toxic smoke hazard in occupied buildings.",
+  "specs": [
+   [
+    "Construction",
+    "Fire-resistant, LSZH sheath"
+   ],
+   [
+    "Fire performance",
+    "IEC 60331 circuit integrity"
+   ],
+   [
+    "Application",
+    "Fire pumps, alarm circuits, emergency systems"
+   ],
+   [
+    "Colour",
+    "Red identification sheath"
+   ]
+  ],
+  "tags": [
+   "fire cable",
+   "LSZH",
+   "power cable"
+  ],
+  "sort_order": 18,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "uranus-application-cable",
+  "name": "Uranus Fire Alarm & Data Cable",
+  "supplier": "uranus",
+  "category": "cables",
+  "price": 2.6,
+  "price_unit": "per meter",
+  "images": [
+   "/assets/products/uranus/real/products-low-smoke-zero-halogen-cable.jpg"
+  ],
+  "short": "Screened data and fire alarm circuit cable.",
+  "description": "Purpose-built for fire detection loop wiring and low-voltage data circuits, this screened cable range provides reliable signal integrity across addressable loop and networked panel installations.",
+  "specs": [
+   [
+    "Application",
+    "Fire alarm loop wiring, data circuits"
+   ],
+   [
+    "Screening",
+    "Overall foil/braid screen"
+   ],
+   [
+    "Conductor",
+    "Solid / stranded copper"
+   ]
+  ],
+  "tags": [
+   "data cable",
+   "alarm cable",
+   "screened cable"
+  ],
+  "sort_order": 19,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-fire-network-pipe",
+  "name": "KD Pipes Fire Fighting Network Pipe",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 11.5,
+  "price_unit": "per meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-sprinkler-fire-pipes.jpg"
+  ],
+  "short": "Certified steel pipe for fire fighting distribution networks.",
+  "description": "KD Pipes' fire fighting network pipe range is manufactured to meet the pressure and durability demands of sprinkler and hydrant distribution systems, with certified wall thickness and jointing compatibility for fast, code-compliant installation.",
+  "specs": [
+   [
+    "Material",
+    "Certified steel pipe"
+   ],
+   [
+    "Application",
+    "Sprinkler / hydrant distribution network"
+   ],
+   [
+    "Sizes",
+    "Multiple diameters available"
+   ],
+   [
+    "Jointing",
+    "Grooved / threaded / welded options"
+   ]
+  ],
+  "tags": [
+   "pipe",
+   "sprinkler pipe",
+   "fire network"
+  ],
+  "sort_order": 20,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-fittings-set",
+  "name": "KD Pipes Fire Network Fittings Set",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 28,
+  "price_unit": null,
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-pipe-fabrication-factory.jpg"
+  ],
+  "short": "Elbows, tees and couplings for fire network pipe assembly.",
+  "description": "A complete fittings range — elbows, tees, reducers and couplings — engineered to match KD Pipes' fire network pipework, ensuring pressure-rated, leak-free connections throughout the distribution system.",
+  "specs": [
+   [
+    "Includes",
+    "Elbows, tees, reducers, couplings"
+   ],
+   [
+    "Material",
+    "Certified steel / ductile iron"
+   ],
+   [
+    "Rating",
+    "Matched to network pipe pressure class"
+   ]
+  ],
+  "tags": [
+   "fittings",
+   "elbow",
+   "coupling"
+  ],
+  "sort_order": 21,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-uniserver-r6900-g3-rack-server--h3c",
+  "name": "H3C UniServer R6900 G3 Rack Server",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 5400,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-cloud-solution-portfolio-h3c.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C UniServer R6900 G3 Rack Server is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 22,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-unistor-stor",
+  "name": "H3C UniStor",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 42050,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-intelligent-computing-unistor.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C UniStor is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 23,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-magic-bs218f-hp-poe-switch--h3c",
+  "name": "H3C Magic BS218F-HP PoE Switch",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 49650,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-magic-networking-devices-h3c.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C Magic BS218F-HP PoE Switch is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 24,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-cpe--cpe",
+  "name": "H3C CPE",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 69550,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-cpe.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C CPE is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 25,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-cr16000-f-00-f",
+  "name": "H3C CR16000-F",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 54200,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-cr16000-f.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C CR16000-F is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 26,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-cr16000-m-00-m",
+  "name": "H3C CR16000-M",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 41250,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-cr16000-m.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C CR16000-M is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 27,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-cr16k-f-6k-f",
+  "name": "H3C CR16K-F",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 8000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-cr16k-f.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C CR16K-F is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 28,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-cr16k-m-6k-m",
+  "name": "H3C CR16K-M",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 37200,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-cr16k-m.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C CR16K-M is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 29,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-cr19000-9000",
+  "name": "H3C CR19000",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 67700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-cr19000.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C CR19000 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 30,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-msr3610-i-10-i",
+  "name": "H3C MSR3610-I",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 60700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-msr3610-i.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C MSR3610-I is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 31,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-msr6602-i-02-i",
+  "name": "H3C MSR6602-I",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 10050,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-msr6602-i.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C MSR6602-I is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 32,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-msr800-r800",
+  "name": "H3C MSR800",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 21800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-msr800.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C MSR800 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 33,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-p-rs-p",
+  "name": "H3C P",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 48050,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-p.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C P is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 34,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-sr3610-ie-0-ie",
+  "name": "H3C SR3610-IE",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 38850,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-sr3610-ie.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C SR3610-IE is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 35,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-sr6600-6600",
+  "name": "H3C SR6600",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 45850,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-sr6600.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C SR6600 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 36,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-sr6602-ie-2-ie",
+  "name": "H3C SR6602-IE",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 14150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-sr6602-ie.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C SR6602-IE is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 37,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-ucpe-ucpe",
+  "name": "H3C UCPE",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 53400,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-ucpe.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C UCPE is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 38,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-vcpe-vcpe",
+  "name": "H3C VCPE",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 17700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-vcpe.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C VCPE is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 39,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-vsr--vsr",
+  "name": "H3C VSR",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 51700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-routers-vsr.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C VSR is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 40,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-f100-c-a1-c-a1",
+  "name": "H3C F100-C-A1",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 35300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-f100-c-a1.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C F100-C-A1 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 41,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-f100-c-a2-c-a2",
+  "name": "H3C F100-C-A2",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 68000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-f100-c-a2.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C F100-C-A2 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 42,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-msr610-r610",
+  "name": "H3C MSR610",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 39550,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-msr610.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C MSR610 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 43,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s1850v2-10p-ei-p-ei",
+  "name": "H3C S1850V2-10P-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 45100,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s1850v2-10p-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S1850V2-10P-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 44,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s1850v2-28p-ei-p-ei",
+  "name": "H3C S1850V2-28P-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 7050,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s1850v2-28p-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S1850V2-28P-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 45,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s1850v2-28p-hpwr-ei-r-ei",
+  "name": "H3C S1850V2-28P-HPWR-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 41750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s1850v2-28p-hpwr-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S1850V2-28P-HPWR-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 46,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s1850v2-28x--28x",
+  "name": "H3C S1850V2-28X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 67000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s1850v2-28x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S1850V2-28X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 47,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s1850v2-52p-ei-p-ei",
+  "name": "H3C S1850V2-52P-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 35300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s1850v2-52p-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S1850V2-52P-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 48,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s1850v2-52x-pwr--pwr",
+  "name": "H3C S1850V2-52X-PWR",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 32600,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s1850v2-52x-pwr.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S1850V2-52X-PWR is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 49,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s1850v2-52x--52x",
+  "name": "H3C S1850V2-52X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 62900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s1850v2-52x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S1850V2-52X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 50,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-10p-li-p-li",
+  "name": "H3C S5120V3-10P-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 63300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-10p-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-10P-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 51,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-10p-pwr-li-r-li",
+  "name": "H3C S5120V3-10P-PWR-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 55500,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-10p-pwr-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-10P-PWR-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 52,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-20p-li-p-li",
+  "name": "H3C S5120V3-20P-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 38500,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-20p-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-20P-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 53,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-28p-hpwr-li-r-li",
+  "name": "H3C S5120V3-28P-HPWR-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 46900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-28p-hpwr-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-28P-HPWR-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 54,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-28p-li-p-li",
+  "name": "H3C S5120V3-28P-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 57500,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-28p-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-28P-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 55,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-28p-pwr-li-r-li",
+  "name": "H3C S5120V3-28P-PWR-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 5400,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-28p-pwr-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-28P-PWR-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 56,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-28s-li-s-li",
+  "name": "H3C S5120V3-28S-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 48000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-28s-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-28S-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 57,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-28s-pwr-li-r-li",
+  "name": "H3C S5120V3-28S-PWR-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 51350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-28s-pwr-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-28S-PWR-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 58,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-52p-li-p-li",
+  "name": "H3C S5120V3-52P-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 40400,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-52p-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-52P-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 59,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-52p-pwr-li-r-li",
+  "name": "H3C S5120V3-52P-PWR-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 62800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-52p-pwr-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-52P-PWR-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 60,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-52s-li-s-li",
+  "name": "H3C S5120V3-52S-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 2250,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-52s-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-52S-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 61,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5120v3-52s-pwr-li-r-li",
+  "name": "H3C S5120V3-52S-PWR-LI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 48800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-s5120v3-52s-pwr-li.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5120V3-52S-PWR-LI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 62,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6120-6120",
+  "name": "H3C WA6120",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 37500,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-wa6120.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6120 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 63,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6120h-120h",
+  "name": "H3C WA6120H",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 50800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-wa6120h.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6120H is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 64,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6126x-126x",
+  "name": "H3C WA6126X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 36600,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-wa6126x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6126X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 65,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wsg1812x-pwr--pwr",
+  "name": "H3C WSG1812X-PWR",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 23650,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-wsg1812x-pwr.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WSG1812X-PWR is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 66,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wsg1840x-840x",
+  "name": "H3C WSG1840X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 65350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-smb-products-wsg1840x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WSG1840X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 67,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-nglb-nglb",
+  "name": "H3C NGLB",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 14250,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-security-nglb.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C NGLB is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 68,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-sandbox-dbox",
+  "name": "H3C Sandbox",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 25700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-security-sandbox.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C Sandbox is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 69,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-ie4300-4300",
+  "name": "H3C IE4300",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 64200,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-ie4300.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C IE4300 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 70,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-ie4320-4320",
+  "name": "H3C IE4320",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 67900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-ie4320.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C IE4320 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 71,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s10500x-g-0x-g",
+  "name": "H3C S10500X-G",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 10650,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s10500x-g.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S10500X-G is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 72,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s10500x-500x",
+  "name": "H3C S10500X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 66900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s10500x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S10500X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 73,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s12500g-af-g-af",
+  "name": "H3C S12500G-AF",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 60350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s12500g-af.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S12500G-AF is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 74,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s12500x-af-x-af",
+  "name": "H3C S12500X-AF",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 20300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s12500x-af.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S12500X-AF is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 75,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5000v5-00v5",
+  "name": "H3C S5000V5",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 62200,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s5000v5.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5000V5 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 76,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5130s-ei-s-ei",
+  "name": "H3C S5130S-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 68450,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s5130s-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5130S-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 77,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5170-ei-0-ei",
+  "name": "H3C S5170-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 41400,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s5170-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5170-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 78,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5560x-ei-x-ei",
+  "name": "H3C S5560X-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 48800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s5560x-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5560X-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 79,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5570s-ei-s-ei",
+  "name": "H3C S5570S-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 60300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s5570s-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5570S-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 80,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s5590-ei-0-ei",
+  "name": "H3C S5590-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 66650,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s5590-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S5590-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 81,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6520x-ei-x-ei",
+  "name": "H3C S6520X-EI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 42150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6520x-ei.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6520X-EI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 82,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6520x-hi-x-hi",
+  "name": "H3C S6520X-HI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 21600,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6520x-hi.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6520X-HI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 83,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6520x-si-x-si",
+  "name": "H3C S6520X-SI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 7950,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6520x-si.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6520X-SI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 84,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6530x-530x",
+  "name": "H3C S6530X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 37300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6530x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6530X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 85,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6550x-550x",
+  "name": "H3C S6550X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 43550,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6550x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6550X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 86,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6805-6805",
+  "name": "H3C S6805",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 65800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6805.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6805 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 87,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s681x-681x",
+  "name": "H3C S681X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 9250,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s681x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S681X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 88,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6825-6825",
+  "name": "H3C S6825",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 60350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6825.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6825 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 89,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6850-6850",
+  "name": "H3C S6850",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 54100,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6850.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6850 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 90,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6860-6860",
+  "name": "H3C S6860",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 9650,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6860.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6860 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 91,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s6890-6890",
+  "name": "H3C S6890",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 45850,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s6890.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S6890 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 92,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s7500x-g-0x-g",
+  "name": "H3C S7500X-G",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 5950,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s7500x-g.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S7500X-G is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 93,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s7500x-500x",
+  "name": "H3C S7500X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 3000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s7500x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S7500X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 94,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s9820-9820",
+  "name": "H3C S9820",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 64150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s9820.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S9820 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 95,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-s9850-9850",
+  "name": "H3C S9850",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 17700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-switches-s9850.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C S9850 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 96,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-ac-s-ac",
+  "name": "H3C AC",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 4350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-ac.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C AC is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 97,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa530-a530",
+  "name": "H3C WA530",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 33750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa530.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA530 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 98,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6320h-hi-h-hi",
+  "name": "H3C WA6320H-HI",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 4950,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6320h-hi.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6320H-HI is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 99,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6320h-320h",
+  "name": "H3C WA6320H",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 11750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6320h.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6320H is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 100,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6330-6330",
+  "name": "H3C WA6330",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 47050,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6330.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6330 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 101,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6520-6520",
+  "name": "H3C WA6520",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 41200,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6520.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6520 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 102,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6520h-520h",
+  "name": "H3C WA6520H",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 27150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6520h.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6520H is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 103,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6526-6526",
+  "name": "H3C WA6526",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 67700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6526.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6526 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 104,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6526e-526e",
+  "name": "H3C WA6526E",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 41750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6526e.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6526E is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 105,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6528x-e-8x-e",
+  "name": "H3C WA6528X-E",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 46750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6528x-e.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6528X-E is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 106,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6528i-528i",
+  "name": "H3C WA6528i",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 48850,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6528i.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6528i is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 107,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6620x-620x",
+  "name": "H3C WA6620X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 18450,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6620x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6620X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 108,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6622-6622",
+  "name": "H3C WA6622",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 62550,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6622.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6622 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 109,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6628-6628",
+  "name": "H3C WA6628",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 14350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6628.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6628 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 110,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6628x-628x",
+  "name": "H3C WA6628X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 23650,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6628x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6628X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 111,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6630x-630x",
+  "name": "H3C WA6630X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 54350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6630x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6630X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 112,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa6636-6636",
+  "name": "H3C WA6636",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 63750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa6636.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA6636 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 113,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa7538-7538",
+  "name": "H3C WA7538",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 35150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa7538.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA7538 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 114,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa7539-7539",
+  "name": "H3C WA7539",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 40750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa7539.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA7539 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 115,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wa7638-7638",
+  "name": "H3C WA7638",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 56100,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wa7638.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WA7638 is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 116,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wbc--wbc",
+  "name": "H3C WBC",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 50450,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wbc.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WBC is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 117,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wx1804h-pwr--pwr",
+  "name": "H3C WX1804H-PWR",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 28850,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wx1804h-pwr.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WX1804H-PWR is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 118,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wx2812x-pwr--pwr",
+  "name": "H3C WX2812X-PWR",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 27250,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wx2812x-pwr.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WX2812X-PWR is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 119,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wx2860x-860x",
+  "name": "H3C WX2860X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 42150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wx2860x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WX2860X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 120,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wx2880x-880x",
+  "name": "H3C WX2880X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 50300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wx2880x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WX2880X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 121,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wx3820x-820x",
+  "name": "H3C WX3820X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 7900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wx3820x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WX3820X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 122,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wx3840x-840x",
+  "name": "H3C WX3840X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 22900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wx3840x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WX3840X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 123,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-wx5860x-860x",
+  "name": "H3C WX5860X",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 25350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-wx5860x.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C WX5860X is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 124,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "h3c-h3c-vac--vac",
+  "name": "H3C VAC",
+  "supplier": "h3c",
+  "category": "networking",
+  "price": 55700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/h3c/real/h3c-wlan-products-vac.jpg"
+  ],
+  "short": "Genuine H3C product, supplied and supported in the UAE by Al Nawras.",
+  "description": "H3C VAC is part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.",
+  "specs": [
+   [
+    "Brand",
+    "H3C"
+   ],
+   [
+    "Category",
+    "Networking & ICT infrastructure"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "h3c",
+   "networking",
+   "real-photo"
+  ],
+  "sort_order": 125,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-morley-dxc1-fire-panel-anel",
+  "name": "Honeywell Morley DXc1 Fire Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 4700,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/dxc-fire-panels-honeywell-morley-dxc1-fire-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Morley DXc1 Fire Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 126,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-morley-dxc2-fire-panel-anel",
+  "name": "Honeywell Morley DXc2 Fire Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3850,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/dxc-fire-panels-honeywell-morley-dxc2-fire-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Morley DXc2 Fire Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 127,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-morley-dxc4-fire-panel-anel",
+  "name": "Honeywell Morley DXc4 Fire Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 4450,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/dxc-fire-panels-honeywell-morley-dxc4-fire-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Morley DXc4 Fire Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 128,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-visualeyez-fire-graphics-software-ware",
+  "name": "Honeywell Visualeyez Fire Graphics Software",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/dxc-fire-panels-honeywell-visualeyez-fire-graphics-software.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Visualeyez Fire Graphics Software is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 129,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-l-pom20a-column-speaker-aker",
+  "name": "Honeywell L-POM20A Column Speaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 5100,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/extend-speakers-honeywell-l-pom20a-column-speaker.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell L-POM20A Column Speaker is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 130,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-l-pom80a-column-speaker-aker",
+  "name": "Honeywell L-POM80A Column Speaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 1850,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/extend-speakers-honeywell-l-pom80a-column-speaker.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell L-POM80A Column Speaker is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 131,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-l-pwp40a-speaker-aker",
+  "name": "Honeywell L-PWP40A Speaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/extend-speakers-honeywell-l-pwp40a-speaker.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell L-PWP40A Speaker is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 132,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ecs-50whv-amplifier-fier",
+  "name": "Honeywell ECS-50WHV Amplifier",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 5000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-ecs-50whv-amplifier.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell ECS-50WHV Amplifier is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 133,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ecs-dual50whv-amplifier-fier",
+  "name": "Honeywell ECS-DUAL50WHV Amplifier",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 4300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-ecs-dual50whv-amplifier.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell ECS-DUAL50WHV Amplifier is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 134,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ecs-int50w-module-dule",
+  "name": "Honeywell ECS-INT50W Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 2550,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-ecs-int50w-module.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell ECS-INT50W Module is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 135,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ecs-loc2100b-panel-anel",
+  "name": "Honeywell ECS-LOC2100B Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 2800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-ecs-loc2100b-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell ECS-LOC2100B Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 136,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-idp-heat-detector-ctor",
+  "name": "Honeywell IDP-Heat Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3650,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-idp-heat-detector.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell IDP-Heat Detector is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 137,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-idp-monitor-module-dule",
+  "name": "Honeywell IDP-Monitor Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 1450,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-idp-monitor-module.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell IDP-Monitor Module is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 138,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-idp-photo-smoke-detector-ctor",
+  "name": "Honeywell IDP-Photo Smoke Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 4000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-idp-photo-smoke-detector.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell IDP-Photo Smoke Detector is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 139,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-idp-relay-module-dule",
+  "name": "Honeywell IDP-Relay Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 1600,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-idp-relay-module.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell IDP-Relay Module is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 140,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ifp-2100ecshvb-fire-alarm-panel-anel",
+  "name": "Honeywell IFP-2100ECSHVB Fire Alarm Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-ifp-2100ecshvb-fire-alarm-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell IFP-2100ECSHVB Fire Alarm Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 141,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ifp-2100hv-fire-alarm-panel-anel",
+  "name": "Honeywell IFP-2100HV Fire Alarm Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 405,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-ifp-2100hv-fire-alarm-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell IFP-2100HV Fire Alarm Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 142,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ra-2000gray-remote-annunciator-ator",
+  "name": "Honeywell RA-2000GRAY Remote Annunciator",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 1450,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-ra-2000gray-remote-annunciator.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell RA-2000GRAY Remote Annunciator is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 143,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-rfp-2100hv-fire-alarm-panel-anel",
+  "name": "Honeywell RFP-2100HV Fire Alarm Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 615,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-rfp-2100hv-fire-alarm-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell RFP-2100HV Fire Alarm Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 144,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-rps-1000b-power-supply-pply",
+  "name": "Honeywell RPS-1000B Power Supply",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 4350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-rps-1000b-power-supply.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell RPS-1000B Power Supply is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 145,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-explosion-proof-gas-detector-ctor",
+  "name": "Honeywell Explosion Proof Gas Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 940,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-explosion-proof-gas-detector.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Explosion Proof Gas Detector is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 146,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-fire-alarm-horn-strobe-robe",
+  "name": "Honeywell Fire Alarm Horn Strobe",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 1800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-fire-alarm-horn-strobe.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Fire Alarm Horn Strobe is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 147,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-infrared-beam-smoke-detector-ctor",
+  "name": "Honeywell Infrared Beam Smoke Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 2750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/fire-alarm-and-emergency-honeywell-infrared-beam-smoke-detector.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Infrared Beam Smoke Detector is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 148,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-morley-ias-fire-alarm-panel-anel",
+  "name": "Honeywell Morley-IAS Fire Alarm Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 2800,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/morley-ias-honeywell-morley-ias-fire-alarm-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Morley-IAS Fire Alarm Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 149,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-pa-ceiling-speaker-aker",
+  "name": "Honeywell PA Ceiling Speaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 4550,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/x-618-pa-system-honeywell-pa-ceiling-speaker.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell PA Ceiling Speaker is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 150,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-pa-handheld-microphone-hone",
+  "name": "Honeywell PA Handheld Microphone",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 2150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/x-618-pa-system-honeywell-pa-handheld-microphone.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell PA Handheld Microphone is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 151,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-pa-wall-speaker-aker",
+  "name": "Honeywell PA Wall Speaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3600,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/x-618-pa-system-honeywell-pa-wall-speaker.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell PA Wall Speaker is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 152,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-x-npmi-paging-microphone-hone",
+  "name": "Honeywell X-NPMI Paging Microphone",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3350,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/x-618-pa-system-honeywell-x-npmi-paging-microphone.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell X-NPMI Paging Microphone is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 153,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ziton-zx1se-fire-panel-anel",
+  "name": "Honeywell Ziton ZX1Se Fire Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 1750,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/zxse-honeywell-ziton-zx1se-fire-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Ziton ZX1Se Fire Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 154,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "honeywell-honeywell-ziton-zx5se-fire-panel-anel",
+  "name": "Honeywell Ziton ZX5Se Fire Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 3950,
+  "price_unit": null,
+  "images": [
+   "/assets/products/honeywell/real/zxse-honeywell-ziton-zx5se-fire-panel.jpg"
+  ],
+  "short": "Genuine Honeywell product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Honeywell Ziton ZX5Se Fire Panel is part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.",
+  "specs": [
+   [
+    "Brand",
+    "Honeywell"
+   ],
+   [
+    "Category",
+    "Fire alarm & detection"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "honeywell",
+   "fire-alarm",
+   "real-photo"
+  ],
+  "sort_order": 155,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-furniture-manufacturing-ring",
+  "name": "KD Pipes Steel Furniture Manufacturing",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 30,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-furniture-manufacturing.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Furniture Manufacturing is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 156,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-handrail-pipes-ipes",
+  "name": "KD Pipes Steel Handrail Pipes",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 115,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-handrail-pipes.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Handrail Pipes is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 157,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-parking-shade-structure-ture",
+  "name": "KD Pipes Steel Parking Shade Structure",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 25,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-parking-shade-structure.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Parking Shade Structure is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 158,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-pipe-boring-equipment-ment",
+  "name": "KD Pipes Steel Pipe Boring Equipment",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 75,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-pipe-boring-equipment.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Pipe Boring Equipment is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 159,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-pipe-fencing-manufacturing-ring",
+  "name": "KD Pipes Steel Pipe Fencing Manufacturing",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 110,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-pipe-fencing-manufacturing.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Pipe Fencing Manufacturing is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 160,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-pipes-irrigation-agriculture-ture",
+  "name": "KD Pipes Steel Pipes Irrigation Agriculture",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 50,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-pipes-irrigation-agriculture.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Pipes Irrigation Agriculture is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 161,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-pipes-oil-and-gas-industry-stry",
+  "name": "KD Pipes Steel Pipes Oil And Gas Industry",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 145,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-pipes-oil-and-gas-industry.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Pipes Oil And Gas Industry is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 162,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-scaffolding-pipes-construction-tion",
+  "name": "KD Pipes Steel Scaffolding Pipes Construction",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 115,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-scaffolding-pipes-construction.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Scaffolding Pipes Construction is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 163,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-structure-engineering-fabrication-tion",
+  "name": "KD Pipes Steel Structure Engineering Fabrication",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 40,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-structure-engineering-fabrication.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Structure Engineering Fabrication is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 164,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "kdpipes-kd-pipes-steel-water-line-pipes-ipes",
+  "name": "KD Pipes Steel Water Line Pipes",
+  "supplier": "kdpipes",
+  "category": "pipes",
+  "price": 100,
+  "price_unit": "/ meter",
+  "images": [
+   "/assets/products/kdpipes/real/applications-steel-water-line-pipes.jpg"
+  ],
+  "short": "Genuine KD Pipes product, supplied and supported in the UAE by Al Nawras.",
+  "description": "KD Pipes Steel Water Line Pipes is part of the KD Pipes range used across Al Nawras fire fighting network installations.",
+  "specs": [
+   [
+    "Brand",
+    "KD Pipes"
+   ],
+   [
+    "Category",
+    "Pipes & fittings"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "kdpipes",
+   "pipes",
+   "real-photo"
+  ],
+  "sort_order": 165,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx1651wk-step-emergency-light-ight",
+  "name": "Teknoware TWX1651WK Step Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 635,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx1651wk-step-emergency-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX1651WK Step Emergency Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 166,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx3051wk-exit-luminaire-aire",
+  "name": "Teknoware TWX3051WK Exit Luminaire",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 790,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx3051wk-exit-luminaire.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX3051WK Exit Luminaire is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 167,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx3151wk-exit-luminaire-aire",
+  "name": "Teknoware TWX3151WK Exit Luminaire",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 670,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx3151wk-exit-luminaire.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX3151WK Exit Luminaire is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 168,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx5751wkh-emergency-light-ight",
+  "name": "Teknoware TWX5751WKH Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 695,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx5751wkh-emergency-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX5751WKH Emergency Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 169,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx8051wk-exit-sign-sign",
+  "name": "Teknoware TWX8051WK Exit Sign",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 150,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx8051wk-exit-sign.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX8051WK Exit Sign is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 170,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx8051wkb-exit-light-ight",
+  "name": "Teknoware TWX8051WKB Exit Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 760,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx8051wkb-exit-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX8051WKB Exit Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 171,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx8151wk-exit-sign-sign",
+  "name": "Teknoware TWX8151WK Exit Sign",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 385,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx8151wk-exit-sign.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX8151WK Exit Sign is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 172,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx9051wk-exit-sign-sign",
+  "name": "Teknoware TWX9051WK Exit Sign",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 110,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx9051wk-exit-sign.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX9051WK Exit Sign is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 173,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx9051wkb-exit-light-ight",
+  "name": "Teknoware TWX9051WKB Exit Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 925,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twx9051wkb-exit-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX9051WKB Exit Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 174,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twxb151wk-combo-light-ight",
+  "name": "Teknoware TWXB151WK Combo Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 950,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/battery-and-exit-luminaires-teknoware-twxb151wk-combo-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWXB151WK Combo Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 175,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-escalux-dali-gateway-module-dule",
+  "name": "Teknoware Escalux DALI Gateway Module",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 375,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/escalux-teknoware-escalux-dali-gateway-module.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware Escalux DALI Gateway Module is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 176,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-escalux-system-overview-view",
+  "name": "Teknoware Escalux System Overview",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 175,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/escalux-teknoware-escalux-system-overview.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware Escalux System Overview is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 177,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx1151wk-emergency-light-ight",
+  "name": "Teknoware TWX1151WK Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 270,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx1151wk-emergency-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX1151WK Emergency Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 178,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx1151wkp-emergency-light-phased-input-nput",
+  "name": "Teknoware TWX1151WKP Emergency Light Phased Input",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 125,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx1151wkp-emergency-light-phased-input.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX1151WKP Emergency Light Phased Input is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 179,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx1351wk-recessed-emergency-light-ight",
+  "name": "Teknoware TWX1351WK Recessed Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 445,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx1351wk-recessed-emergency-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX1351WK Recessed Emergency Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 180,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx1351wkp-recessed-emergency-light-phased-input-nput",
+  "name": "Teknoware TWX1351WKP Recessed Emergency Light Phased Input",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 565,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx1351wkp-recessed-emergency-light-phased-input.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX1351WKP Recessed Emergency Light Phased Input is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 181,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx3651wk-surface-mount-light-ight",
+  "name": "Teknoware TWX3651WK Surface Mount Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 360,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx3651wk-surface-mount-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX3651WK Surface Mount Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 182,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx4351wkh-surface-mount-light-ight",
+  "name": "Teknoware TWX4351WKH Surface Mount Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 170,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx4351wkh-surface-mount-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX4351WKH Surface Mount Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 183,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx5051wk-recessed-downlight-ight",
+  "name": "Teknoware TWX5051WK Recessed Downlight",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 410,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx5051wk-recessed-downlight.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX5051WK Recessed Downlight is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 184,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx7351wk-recessed-light-ight",
+  "name": "Teknoware TWX7351WK Recessed Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 780,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx7351wk-recessed-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX7351WK Recessed Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 185,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx7551wk-recessed-light-ight",
+  "name": "Teknoware TWX7551WK Recessed Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 910,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx7551wk-recessed-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX7551WK Recessed Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 186,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx8251wkh-surface-mount-light-ight",
+  "name": "Teknoware TWX8251WKH Surface Mount Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 500,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx8251wkh-surface-mount-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX8251WKH Surface Mount Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 187,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "teknoware-teknoware-twx8851wk-surface-mount-light-ight",
+  "name": "Teknoware TWX8851WK Surface Mount Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 660,
+  "price_unit": null,
+  "images": [
+   "/assets/products/teknoware/real/mounting-teknoware-twx8851wk-surface-mount-light.jpg"
+  ],
+  "short": "Genuine Teknoware product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Teknoware TWX8851WK Surface Mount Light is part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.",
+  "specs": [
+   [
+    "Brand",
+    "Teknoware"
+   ],
+   [
+    "Category",
+    "Emergency lighting"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "teknoware",
+   "emergency-light",
+   "real-photo"
+  ],
+  "sort_order": 188,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-waterfall-end-suction-fire-pump-pump",
+  "name": "Waterfall End Suction Fire Pump",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 61000,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-waterfall-end-suction-fire-pump.jpg"
+  ],
+  "short": "Genuine Waterfall Fire Pumps product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Waterfall End Suction Fire Pump is a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.",
+  "specs": [
+   [
+    "Brand",
+    "Waterfall"
+   ],
+   [
+    "Category",
+    "Fire pump systems"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "waterfall",
+   "fire-pumps",
+   "real-photo"
+  ],
+  "sort_order": 189,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-waterfall-horizontal-split-case-fire-pump-pump",
+  "name": "Waterfall Horizontal Split Case Fire Pump",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 16400,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-waterfall-horizontal-split-case-fire-pump.jpg"
+  ],
+  "short": "Genuine Waterfall Fire Pumps product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Waterfall Horizontal Split Case Fire Pump is a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.",
+  "specs": [
+   [
+    "Brand",
+    "Waterfall"
+   ],
+   [
+    "Category",
+    "Fire pump systems"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "waterfall",
+   "fire-pumps",
+   "real-photo"
+  ],
+  "sort_order": 190,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-waterfall-packaged-fire-pump-house-ouse",
+  "name": "Waterfall Packaged Fire Pump House",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 57300,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-waterfall-packaged-fire-pump-house.jpg"
+  ],
+  "short": "Genuine Waterfall Fire Pumps product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Waterfall Packaged Fire Pump House is a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.",
+  "specs": [
+   [
+    "Brand",
+    "Waterfall"
+   ],
+   [
+    "Category",
+    "Fire pump systems"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "waterfall",
+   "fire-pumps",
+   "real-photo"
+  ],
+  "sort_order": 191,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-waterfall-vertical-turbine-fire-pump-pump",
+  "name": "Waterfall Vertical Turbine Fire Pump",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 66200,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-waterfall-vertical-turbine-fire-pump.jpg"
+  ],
+  "short": "Genuine Waterfall Fire Pumps product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Waterfall Vertical Turbine Fire Pump is a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.",
+  "specs": [
+   [
+    "Brand",
+    "Waterfall"
+   ],
+   [
+    "Category",
+    "Fire pump systems"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "waterfall",
+   "fire-pumps",
+   "real-photo"
+  ],
+  "sort_order": 192,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-waterfall-diesel-engine-fire-pump-pump",
+  "name": "Waterfall Diesel Engine Fire Pump",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 21900,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-diesel-engine-fire-pump.jpg"
+  ],
+  "short": "Genuine Waterfall Fire Pumps product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Waterfall Diesel Engine Fire Pump is a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.",
+  "specs": [
+   [
+    "Brand",
+    "Waterfall"
+   ],
+   [
+    "Category",
+    "Fire pump systems"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "waterfall",
+   "fire-pumps",
+   "real-photo"
+  ],
+  "sort_order": 193,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-waterfall-electric-jockey-pump-fire-system-stem",
+  "name": "Waterfall Electric Jockey Pump Fire System",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 35250,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-electric-jockey-pump-fire-system.jpg"
+  ],
+  "short": "Genuine Waterfall Fire Pumps product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Waterfall Electric Jockey Pump Fire System is a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.",
+  "specs": [
+   [
+    "Brand",
+    "Waterfall"
+   ],
+   [
+    "Category",
+    "Fire pump systems"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "waterfall",
+   "fire-pumps",
+   "real-photo"
+  ],
+  "sort_order": 194,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ },
+ {
+  "id": "waterfall-waterfall-fire-pump-controller-panel-anel",
+  "name": "Waterfall Fire Pump Controller Panel",
+  "supplier": "waterfall",
+  "category": "fire-pumps",
+  "price": 71400,
+  "price_unit": null,
+  "images": [
+   "/assets/products/waterfall/real/fire-pumps-fire-pump-controller-panel.jpg"
+  ],
+  "short": "Genuine Waterfall Fire Pumps product, supplied and supported in the UAE by Al Nawras.",
+  "description": "Waterfall Fire Pump Controller Panel is a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.",
+  "specs": [
+   [
+    "Brand",
+    "Waterfall"
+   ],
+   [
+    "Category",
+    "Fire pump systems"
+   ],
+   [
+    "Support",
+    "Supplied with local warranty & support via Al Nawras"
+   ]
+  ],
+  "tags": [
+   "waterfall",
+   "fire-pumps",
+   "real-photo"
+  ],
+  "sort_order": 195,
+  "created_at": "2026-08-15T18:07:16.403823+00:00"
+ }
+]
