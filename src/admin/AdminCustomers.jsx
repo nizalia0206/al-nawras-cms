@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { supabase, supabaseConfigured } from "../lib/supabase";
+import { dbError } from "./dbError";
 
 export default function AdminCustomers() {
   const [customers, setCustomers] = useState([]);
@@ -14,7 +15,7 @@ export default function AdminCustomers() {
       .from("customers")
       .select("*")
       .order("created_at", { ascending: false });
-    if (error) setError(error.message);
+    if (error) setError(dbError(error));
     else setCustomers(data || []);
     setLoading(false);
   }

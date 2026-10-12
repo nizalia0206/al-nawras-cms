@@ -1,0 +1,1550 @@
+{
+ "topbar.email": {
+  "en": "info@nawrassystems.com",
+  "ar": "info@nawrassystems.com"
+ },
+ "topbar.cities": {
+  "en": "Sharjah · Dubai · Abu Dhabi, UAE",
+  "ar": "الشارقة · دبي · أبوظبي، الإمارات"
+ },
+ "nav.home": {
+  "en": "Home",
+  "ar": "الرئيسية"
+ },
+ "nav.about": {
+  "en": "About",
+  "ar": "من نحن"
+ },
+ "nav.about_overview": {
+  "en": "Overview",
+  "ar": "نبذة عامة"
+ },
+ "nav.about_overview_desc": {
+  "en": "Who Al Nawras is, at a glance",
+  "ar": "لمحة عن الأنوار"
+ },
+ "nav.about_mission": {
+  "en": "Mission & Vision",
+  "ar": "الرسالة والرؤية"
+ },
+ "nav.about_mission_desc": {
+  "en": "What drives every installation",
+  "ar": "ما يحرك كل مشروع"
+ },
+ "nav.about_founder": {
+  "en": "Message from the Founder",
+  "ar": "كلمة المؤسس"
+ },
+ "nav.about_founder_desc": {
+  "en": "A word from our leadership",
+  "ar": "كلمة من قيادتنا"
+ },
+ "nav.about_team": {
+  "en": "Our Team",
+  "ar": "فريقنا"
+ },
+ "nav.about_team_desc": {
+  "en": "The people behind Al Nawras",
+  "ar": "الأشخاص وراء الأنوار"
+ },
+ "nav.about_certifications": {
+  "en": "Certifications",
+  "ar": "الشهادات"
+ },
+ "nav.about_certifications_desc": {
+  "en": "Our accreditations & approvals",
+  "ar": "اعتماداتنا وتراخيصنا"
+ },
+ "nav.systems": {
+  "en": "Systems & Solutions",
+  "ar": "الأنظمة والحلول"
+ },
+ "nav.systems_fire": {
+  "en": "Firefighting Systems",
+  "ar": "أنظمة مكافحة الحريق"
+ },
+ "nav.systems_fire_desc": {
+  "en": "Pumps, sprinklers, hydrants",
+  "ar": "مضخات، رشاشات، صنابير حريق"
+ },
+ "nav.systems_alarm": {
+  "en": "Fire Alarm & Voice Evacuation Systems",
+  "ar": "أنظمة إنذار الحريق والإخلاء الصوتي"
+ },
+ "nav.systems_alarm_desc": {
+  "en": "Detection, alarm & voice evacuation",
+  "ar": "الكشف والإنذار والإخلاء الصوتي"
+ },
+ "nav.systems_voice": {
+  "en": "Voice Evacuation Systems",
+  "ar": "أنظمة الإخلاء الصوتي"
+ },
+ "nav.systems_voice_desc": {
+  "en": "Life-safety audio & ECS",
+  "ar": "صوت السلامة وأنظمة الاتصال الطارئ"
+ },
+ "nav.systems_light": {
+  "en": "Emergency Lighting",
+  "ar": "الإضاءة الطارئة"
+ },
+ "nav.systems_light_desc": {
+  "en": "Central battery & DALI systems",
+  "ar": "أنظمة البطارية المركزية و DALI"
+ },
+ "nav.systems_elv": {
+  "en": "ELV Systems",
+  "ar": "أنظمة الجهد المنخفض ELV"
+ },
+ "nav.systems_elv_desc": {
+  "en": "Low-voltage building technology",
+  "ar": "تقنية المباني منخفضة الجهد"
+ },
+ "nav.systems_smoke": {
+  "en": "Smoke Management",
+  "ar": "إدارة الدخان"
+ },
+ "nav.systems_smoke_desc": {
+  "en": "Ventilation & smoke control",
+  "ar": "التهوية والتحكم بالدخان"
+ },
+ "nav.brands": {
+  "en": "Partners",
+  "ar": "الشركاء"
+ },
+ "nav.brands_all": {
+  "en": "All Products",
+  "ar": "جميع المنتجات"
+ },
+ "nav.brands_all_desc": {
+  "en": "Browse the full catalog",
+  "ar": "تصفح الكتالوج الكامل"
+ },
+ "nav.brands_honeywell_desc": {
+  "en": "Fire alarm & voice evacuation",
+  "ar": "إنذار الحريق والإخلاء الصوتي"
+ },
+ "nav.brands_teknoware_desc": {
+  "en": "Central battery & emergency lighting",
+  "ar": "البطارية المركزية والإضاءة الطارئة"
+ },
+ "nav.brands_waterfall_desc": {
+  "en": "UL/FM fire pump sets",
+  "ar": "مضخات حريق معتمدة UL/FM"
+ },
+ "nav.brands_uranus_desc": {
+  "en": "Fire-resistant cables & ELV",
+  "ar": "كابلات مقاومة للحريق وELV"
+ },
+ "nav.brands_h3c_desc": {
+  "en": "Networking & ICT infrastructure",
+  "ar": "الشبكات والبنية التحتية لتقنية المعلومات"
+ },
+ "nav.brands_kdpipes_desc": {
+  "en": "Pipes & fittings",
+  "ar": "الأنابيب والتوصيلات"
+ },
+ "nav.projects": {
+  "en": "Projects",
+  "ar": "المشاريع"
+ },
+ "nav.projects_all": {
+  "en": "All Projects",
+  "ar": "جميع المشاريع"
+ },
+ "nav.projects_all_desc": {
+  "en": "1,300+ projects across the Emirates",
+  "ar": "أكثر من 1,300 مشروعًا في جميع أنحاء الإمارات"
+ },
+ "nav.projects_healthcare": {
+  "en": "Healthcare",
+  "ar": "قطاع صحي"
+ },
+ "nav.projects_healthcare_desc": {
+  "en": "Hospitals & medical facilities",
+  "ar": "مستشفيات ومرافق طبية"
+ },
+ "nav.projects_hospitality": {
+  "en": "Hospitality",
+  "ar": "قطاع ضيافة"
+ },
+ "nav.projects_hospitality_desc": {
+  "en": "Hotels & hospitality buildings",
+  "ar": "فنادق ومنشآت ضيافة"
+ },
+ "nav.careers": {
+  "en": "Careers",
+  "ar": "الوظائف"
+ },
+ "nav.contact": {
+  "en": "Contact",
+  "ar": "تواصل معنا"
+ },
+ "header.getInTouch": {
+  "en": "Get in touch",
+  "ar": "تواصل معنا"
+ },
+ "hero.eyebrowIntro": {
+  "en": "Established 2005 · United Arab Emirates",
+  "ar": "تأسست عام 2005 · دولة الإمارات العربية المتحدة"
+ },
+ "hero.tabIntro": {
+  "en": "Think Al Nawras",
+  "ar": "فكّر في الأنوار"
+ },
+ "hero.h1line1": {
+  "en": "Think Safety.",
+  "ar": "فكّر في السلامة."
+ },
+ "hero.h1line2": {
+  "en": "Think",
+  "ar": "فكّر في"
+ },
+ "hero.h1brand": {
+  "en": "Al Nawras.",
+  "ar": "الأنوار."
+ },
+ "hero.subtitle": {
+  "en": "A UAE-based fire & life-safety and ELV solutions provider — engineering, supplying, installing and commissioning systems that protect over a thousand buildings across the Emirates since 2005.",
+  "ar": "مزوّد إماراتي لحلول السلامة من الحريق والحياة، وأنظمة الجهد المنخفض — نصمم ونورّد ونركّب ونشغّل أنظمة تحمي أكثر من ألف مبنى في جميع أنحاء الإمارات منذ عام 2005."
+ },
+ "hero.viewProjects": {
+  "en": "View Our Projects",
+  "ar": "شاهد مشاريعنا"
+ },
+ "hero.getConsultation": {
+  "en": "Get a Quote",
+  "ar": "احصل على عرض سعر"
+ },
+ "hero.exploreProducts": {
+  "en": "Explore Products",
+  "ar": "استكشف المنتجات"
+ },
+ "hero.statProjects": {
+  "en": "Projects Executed",
+  "ar": "مشروع منفّذ"
+ },
+ "hero.statYears": {
+  "en": "Years of Experience",
+  "ar": "سنوات خبرة"
+ },
+ "hero.statOffices": {
+  "en": "UAE Branches",
+  "ar": "فروع في الإمارات"
+ },
+ "hero.statBrands": {
+  "en": "Global Brand Partners",
+  "ar": "شريك علامة تجارية عالمية"
+ },
+ "hero.exploreLabel": {
+  "en": "Explore",
+  "ar": "استكشف"
+ },
+ "industries.badge": {
+  "en": "SEC-02",
+  "ar": "SEC-02"
+ },
+ "industries.eyebrow": {
+  "en": "Industries We Serve",
+  "ar": "القطاعات التي نخدمها"
+ },
+ "industries.title": {
+  "en": "Every sector, one standard of protection",
+  "ar": "كل قطاع، بنفس معيار الحماية"
+ },
+ "services.eyebrow": {
+  "en": "Systems & Solutions",
+  "ar": "الأنظمة والحلول"
+ },
+ "services.title": {
+  "en": "Solutions for every stage of building safety",
+  "ar": "حلول لكل مرحلة من مراحل سلامة المبنى"
+ },
+ "services.desc": {
+  "en": "Al Nawras engineers, supplies, installs and commissions a complete range of fire, life-safety and ELV systems — each backed by certified brand partners and a qualified in-house delivery team.",
+  "ar": "تصمّم الأنوار وتورّد وتركّب وتشغّل مجموعة كاملة من أنظمة الحريق والسلامة والجهد المنخفض — بدعم من شركاء علامات تجارية معتمدين وفريق تنفيذ داخلي مؤهّل."
+ },
+ "services.learnMore": {
+  "en": "Learn more",
+  "ar": "اعرف المزيد"
+ },
+ "about.eyebrow": {
+  "en": "About Us",
+  "ar": "من نحن"
+ },
+ "about.title": {
+  "en": "Al Nawras is a Leading Fire, Life Safety & ELV Solutions Provider",
+  "ar": "الأنوار مزوّد رائد لحلول الحريق والسلامة والجهد المنخفض"
+ },
+ "about.body": {
+  "en": "Founded in Sharjah in 2005 by Eng. Mohammed Ghazy, Al Nawras Safety & Security Systems has grown into a one-stop provider of fire protection, life-safety and ELV solutions across the UAE. From initial system design through installation and on-going maintenance, our qualified engineering and delivery teams work to the highest standards on every project we undertake.",
+  "ar": "تأسست شركة الأنوار للأنظمة الأمنية والسلامة في الشارقة عام 2005 على يد المهندس محمد غازي، ونمت لتصبح مزوّدًا شاملاً لحلول الحماية من الحريق والسلامة والجهد المنخفض في جميع أنحاء الإمارات. من التصميم الأولي للنظام إلى التركيب والصيانة المستمرة، يعمل فريقا الهندسة والتنفيذ المؤهّلان لدينا وفق أعلى المعايير في كل مشروع نتولّاه."
+ },
+ "about.learnMore": {
+  "en": "Learn More",
+  "ar": "اعرف المزيد"
+ },
+ "about.statProjects": {
+  "en": "Projects Executed",
+  "ar": "مشروع منفّذ"
+ },
+ "about.statYears": {
+  "en": "Years of Experience",
+  "ar": "سنوات خبرة"
+ },
+ "about.statOffices": {
+  "en": "UAE Branches",
+  "ar": "فروع في الإمارات"
+ },
+ "about.statBrands": {
+  "en": "Brand Partners",
+  "ar": "شريك علامة تجارية"
+ },
+ "brands.eyebrow": {
+  "en": "Brand Partners",
+  "ar": "الشركاء التجاريون"
+ },
+ "brands.title": {
+  "en": "Authorized distributor for globally certified brands",
+  "ar": "موزّع معتمد لعلامات تجارية عالمية معتمدة"
+ },
+ "brands.body": {
+  "en": "Al Nawras represents a wide network of international manufacturers, bringing internationally recognized equipment and technology into every project we deliver.",
+  "ar": "تمثّل الأنوار شبكة واسعة من الشركات المصنّعة العالمية، وتُدخل معدات وتقنيات معترف بها دوليًا في كل مشروع ننفّذه."
+ },
+ "brands.viewCatalog": {
+  "en": "View full catalog",
+  "ar": "عرض الكتالوج الكامل"
+ },
+ "brands.shopPrefix": {
+  "en": "Shop",
+  "ar": "تسوّق منتجات"
+ },
+ "brands.shopSuffix": {
+  "en": "products",
+  "ar": ""
+ },
+ "projectsHome.eyebrow": {
+  "en": "Projects",
+  "ar": "المشاريع"
+ },
+ "projectsHome.title": {
+  "en": "1,300+ projects delivered across the Emirates",
+  "ar": "أكثر من 1,300 مشروعًا تم تنفيذها في جميع أنحاء الإمارات"
+ },
+ "projectsHome.body": {
+  "en": "From residential towers to hospitals and mixed-use developments, our project references reflect a consistent, systematic approach — delivered on schedule and to specification.",
+  "ar": "من الأبراج السكنية إلى المستشفيات والمشاريع متعددة الاستخدامات، تعكس مرجعية مشاريعنا نهجًا منتظمًا وثابتًا — يُنفَّذ في الموعد المحدد ووفق المواصفات."
+ },
+ "projectsHome.viewAll": {
+  "en": "View all projects",
+  "ar": "عرض جميع المشاريع"
+ },
+ "certifications.eyebrow": {
+  "en": "Certifications",
+  "ar": "الشهادات"
+ },
+ "certifications.title": {
+  "en": "Licensed, accredited and compliant",
+  "ar": "مرخّصون ومعتمدون وملتزمون بالمعايير"
+ },
+ "certifications.body": {
+  "en": "Every system we deliver is backed by the accreditations, Civil Defense licenses and manufacturer authorizations required to work to the international standard.",
+  "ar": "كل نظام نقدّمه مدعوم بالاعتمادات وتراخيص الدفاع المدني وتفويضات الشركات المصنّعة اللازمة للعمل وفق المعيار الدولي."
+ },
+ "testimonial.quote": {
+  "en": "Al Nawras delivered our fire and life-safety systems on schedule, to specification and fully compliant with Civil Defense requirements — a partner we keep coming back to.",
+  "ar": "قدّمت الأنوار أنظمة الحريق والسلامة الخاصة بنا في الموعد المحدد، ووفق المواصفات، وبما يتوافق تمامًا مع متطلبات الدفاع المدني — شريك نستمر في العودة إليه."
+ },
+ "testimonial.role": {
+  "en": "Facilities Director",
+  "ar": "مدير المرافق"
+ },
+ "testimonial.client": {
+  "en": "Client, Commercial Development · Dubai",
+  "ar": "عميل، مشروع تجاري · دبي"
+ },
+ "footer.ctaTitle": {
+  "en": "Ready to get started with your project?",
+  "ar": "هل أنت مستعد لبدء مشروعك؟"
+ },
+ "footer.getInTouch": {
+  "en": "Get in touch",
+  "ar": "تواصل معنا"
+ },
+ "footer.tagline": {
+  "en": "Fire, life-safety and ELV solutions provider based in Sharjah, UAE, delivering certified systems across the Emirates since 2005.",
+  "ar": "مزوّد حلول الحريق والسلامة والجهد المنخفض، مقرّه الشارقة، الإمارات، يقدّم أنظمة معتمدة في جميع أنحاء الإمارات منذ عام 2005."
+ },
+ "footer.colCompany": {
+  "en": "Company",
+  "ar": "الشركة"
+ },
+ "footer.colSystems": {
+  "en": "Systems",
+  "ar": "الأنظمة"
+ },
+ "footer.colContact": {
+  "en": "Contact",
+  "ar": "تواصل معنا"
+ },
+ "footer.sharjahHQ": {
+  "en": "Sharjah HQ · +971 6 562 5425",
+  "ar": "المقر الرئيسي، الشارقة · 5425 562 6 971+"
+ },
+ "footer.dubai": {
+  "en": "Dubai · +971 4 333 5373",
+  "ar": "دبي · 5373 333 4 971+"
+ },
+ "footer.abuDhabi": {
+  "en": "Abu Dhabi · +971 55 109 9886",
+  "ar": "أبوظبي · 9886 109 55 971+"
+ },
+ "footer.copyright": {
+  "en": "© 2026 Al Nawras Safety & Security Systems LLC. All rights reserved.",
+  "ar": "© 2026 شركة الأنوار للأنظمة الأمنية وأنظمة السلامة ذ.م.م. جميع الحقوق محفوظة."
+ },
+ "footer.note": {
+  "en": "Powered by Zetacoding",
+  "ar": "بواسطة Zetacoding"
+ },
+ "lang.switchTo": {
+  "en": "Switch to Arabic",
+  "ar": "Switch to English"
+ },
+ "lang.switchToEn": {
+  "en": "التبديل إلى الإنجليزية",
+  "ar": "التبديل إلى الإنجليزية"
+ },
+ "components.certificationsGrid.downloading": {
+  "en": "Downloading…",
+  "ar": "جارٍ التنزيل…"
+ },
+ "components.certificationsGrid.download_certificate": {
+  "en": "Download Certificate",
+  "ar": "تنزيل الشهادة"
+ },
+ "components.freeConsultationTab.get_a_quote": {
+  "en": "Get a Quote",
+  "ar": "احصل على عرض سعر"
+ },
+ "components.gallery.view": {
+  "en": "View",
+  "ar": "عرض"
+ },
+ "components.gallery.tap_to_enlarge": {
+  "en": "Tap to enlarge →",
+  "ar": "اضغط للتكبير ←"
+ },
+ "components.gallery.get_a_quote_for": {
+  "en": "Get a quote for",
+  "ar": "احصل على عرض سعر"
+ },
+ "components.gallery.get_quote": {
+  "en": "Get Quote",
+  "ar": "احصل على عرض سعر"
+ },
+ "components.header.my_account": {
+  "en": "My Account",
+  "ar": "حسابي"
+ },
+ "components.header.sign_in": {
+  "en": "Sign In",
+  "ar": "تسجيل الدخول"
+ },
+ "components.hero.previous_slide": {
+  "en": "Previous slide",
+  "ar": "الشريحة السابقة"
+ },
+ "components.hero.next_slide": {
+  "en": "Next slide",
+  "ar": "الشريحة التالية"
+ },
+ "components.hero.go_to_slide": {
+  "en": "Go to slide",
+  "ar": "الانتقال إلى الشريحة"
+ },
+ "components.productCard.get_quote": {
+  "en": "Get Quote",
+  "ar": "احصل على عرض سعر"
+ },
+ "components.systemSections.share_your_project_details_and_our_engin": {
+  "en": "Share your project details and our engineering team will come back with a complete proposal.",
+  "ar": "أرسل لنا تفاصيل مشروعك وسيعود إليك فريقنا الهندسي بعرض متكامل."
+ },
+ "components.systemSections.get_quote": {
+  "en": "Get Quote",
+  "ar": "احصل على عرض سعر"
+ },
+ "pages.careers.all": {
+  "en": "All",
+  "ar": "الكل"
+ },
+ "pages.careers.eyebrow": {
+  "en": "Join Our Team",
+  "ar": "انضم إلى فريقنا"
+ },
+ "pages.careers.title": {
+  "en": "Build Your Career at Al Nawras",
+  "ar": "ابنِ مسيرتك المهنية في الأنوار"
+ },
+ "pages.careers.desc": {
+  "en": "We're growing our team of fire protection engineers, ICT specialists and project managers. Help us secure lives and buildings across the UAE.",
+  "ar": "نوسّع فريقنا من مهندسي الحماية من الحريق ومختصي تقنية المعلومات ومديري المشاريع. ساعدنا في تأمين الأرواح والمباني في جميع أنحاء الإمارات."
+ },
+ "pages.careers.crumb": {
+  "en": "Careers",
+  "ar": "الوظائف"
+ },
+ "pages.careers.whyUs": {
+  "en": "WHY AL NAWRAS",
+  "ar": "لماذا الأنوار"
+ },
+ "pages.careers.whatWeValue": {
+  "en": "What We Value",
+  "ar": "ما نقدّره"
+ },
+ "pages.careers.benefitsLabel": {
+  "en": "BENEFITS",
+  "ar": "المزايا"
+ },
+ "pages.careers.benefitsTitle": {
+  "en": "What You'll Get",
+  "ar": "ما ستحصل عليه"
+ },
+ "pages.careers.openRoles": {
+  "en": "OPEN ROLES",
+  "ar": "الوظائف الشاغرة"
+ },
+ "pages.careers.currentOpenings": {
+  "en": "Current Openings",
+  "ar": "الشواغر الحالية"
+ },
+ "pages.careers.applyNow": {
+  "en": "Apply Now",
+  "ar": "قدّم الآن"
+ },
+ "pages.careers.applicationSubmitted": {
+  "en": "Application Submitted",
+  "ar": "تم إرسال الطلب"
+ },
+ "pages.careers.fullName": {
+  "en": "Full Name *",
+  "ar": "الاسم الكامل *"
+ },
+ "pages.careers.email": {
+  "en": "Email *",
+  "ar": "البريد الإلكتروني *"
+ },
+ "pages.careers.phone": {
+  "en": "Phone *",
+  "ar": "رقم الهاتف *"
+ },
+ "pages.careers.yearsExperience": {
+  "en": "Years of Experience",
+  "ar": "سنوات الخبرة"
+ },
+ "pages.careers.yearsExperiencePlaceholder": {
+  "en": "e.g. 5 years",
+  "ar": "مثال: 5 سنوات"
+ },
+ "pages.careers.coverNote": {
+  "en": "Cover Note",
+  "ar": "رسالة تعريفية"
+ },
+ "pages.careers.coverNotePlaceholder": {
+  "en": "Tell us why you're a great fit…",
+  "ar": "أخبرنا لماذا أنت مناسب لهذا الدور…"
+ },
+ "pages.careers.submitApplication": {
+  "en": "Submit Application",
+  "ar": "إرسال الطلب"
+ },
+ "pages.contact.eyebrow": {
+  "en": "Get In Touch",
+  "ar": "تواصل معنا"
+ },
+ "pages.contact.title": {
+  "en": "Let's Talk About Your Project",
+  "ar": "لنتحدّث عن مشروعك"
+ },
+ "pages.contact.desc": {
+  "en": "Whether it's a fire protection retrofit, a new ICT network, or a full building safety upgrade — our engineering team is ready to help.",
+  "ar": "سواء كان تحديثًا لنظام الحماية من الحريق، أو شبكة تقنية معلومات جديدة، أو ترقية شاملة لسلامة المبنى — فريقنا الهندسي جاهز للمساعدة."
+ },
+ "pages.contact.crumb": {
+  "en": "Contact",
+  "ar": "تواصل معنا"
+ },
+ "pages.contact.callUs": {
+  "en": "Call Us",
+  "ar": "اتصل بنا"
+ },
+ "pages.contact.sharjahLabel": {
+  "en": "(Sharjah)",
+  "ar": "(الشارقة)"
+ },
+ "pages.contact.dubaiLabel": {
+  "en": "(Dubai)",
+  "ar": "(دبي)"
+ },
+ "pages.contact.abu_dhabi": {
+  "en": "(Abu Dhabi)",
+  "ar": "(أبوظبي)"
+ },
+ "pages.contact.emailUs": {
+  "en": "Email Us",
+  "ar": "راسلنا عبر البريد الإلكتروني"
+ },
+ "pages.contact.replyWithin": {
+  "en": "We reply within 1 business day",
+  "ar": "نرد خلال يوم عمل واحد"
+ },
+ "pages.contact.visitUs": {
+  "en": "Visit Us",
+  "ar": "زُرنا"
+ },
+ "pages.contact.poBox": {
+  "en": "P.O. Box 38081, Sharjah, UAE",
+  "ar": "ص.ب. 38081، الشارقة، الإمارات"
+ },
+ "pages.contact.siteVisits": {
+  "en": "Site visits by appointment",
+  "ar": "زيارات الموقع بموعد مسبق"
+ },
+ "pages.contact.sendMessage": {
+  "en": "SEND A MESSAGE",
+  "ar": "أرسل رسالة"
+ },
+ "pages.contact.requestCallback": {
+  "en": "Request a Callback",
+  "ar": "اطلب معاودة اتصال"
+ },
+ "pages.contact.successNote": {
+  "en": "Thank you — your message has been received. Our team will contact you shortly.",
+  "ar": "شكرًا لك — تم استلام رسالتك. سيتواصل معك فريقنا قريبًا."
+ },
+ "pages.contact.something_went_wrong_sending_your_messag": {
+  "en": "Something went wrong sending your message — please try again, or email us directly.",
+  "ar": "تعذّر الإرسال، يرجى المحاولة مرة أخرى."
+ },
+ "pages.contact.fullName": {
+  "en": "Full Name *",
+  "ar": "الاسم الكامل *"
+ },
+ "pages.contact.fullNamePlaceholder": {
+  "en": "Your full name",
+  "ar": "اسمك الكامل"
+ },
+ "pages.contact.company": {
+  "en": "Company",
+  "ar": "الشركة"
+ },
+ "pages.contact.companyPlaceholder": {
+  "en": "Company name",
+  "ar": "اسم الشركة"
+ },
+ "pages.contact.email": {
+  "en": "Email *",
+  "ar": "البريد الإلكتروني *"
+ },
+ "pages.contact.emailPlaceholder": {
+  "en": "you@company.com",
+  "ar": "you@company.com"
+ },
+ "pages.contact.phone": {
+  "en": "Phone",
+  "ar": "رقم الهاتف"
+ },
+ "pages.contact.phonePlaceholder": {
+  "en": "+971 5X XXX XXXX",
+  "ar": "+971 5X XXX XXXX"
+ },
+ "pages.contact.helpWith": {
+  "en": "What can we help with?",
+  "ar": "كيف يمكننا المساعدة؟"
+ },
+ "pages.contact.message": {
+  "en": "Message *",
+  "ar": "الرسالة *"
+ },
+ "pages.contact.messagePlaceholder": {
+  "en": "Tell us about your project…",
+  "ar": "أخبرنا عن مشروعك…"
+ },
+ "pages.contact.sending": {
+  "en": "Sending…",
+  "ar": "جارٍ الإرسال…"
+ },
+ "pages.contact.sendMessageBtn": {
+  "en": "Send Message",
+  "ar": "إرسال الرسالة"
+ },
+ "pages.contact.companyInfo": {
+  "en": "Company Information",
+  "ar": "معلومات الشركة"
+ },
+ "pages.contact.companyName": {
+  "en": "Al Nawras Safety & Security Systems LLC",
+  "ar": "شركة الأنوار للأنظمة الأمنية وأنظمة السلامة ذ.م.م"
+ },
+ "pages.contact.companyDesc": {
+  "en": "Registered fire & life safety contractor, UAE",
+  "ar": "مقاول حريق وسلامة مسجّل، الإمارات العربية المتحدة"
+ },
+ "pages.contact.workingHours": {
+  "en": "Working Hours",
+  "ar": "ساعات العمل"
+ },
+ "pages.contact.workingHoursValue": {
+  "en": "Sunday – Thursday, 8:00 AM – 6:00 PM",
+  "ar": "الأحد – الخميس، 8:00 صباحًا – 6:00 مساءً"
+ },
+ "pages.contact.emergencySupport": {
+  "en": "24/7 Emergency Support",
+  "ar": "دعم طوارئ على مدار الساعة"
+ },
+ "pages.contact.emergencySupportDesc": {
+  "en": "For existing service contracts",
+  "ar": "لعقود الصيانة القائمة"
+ },
+ "pages.productDetail.productNotFound": {
+  "en": "Product not found",
+  "ar": "المنتج غير موجود"
+ },
+ "pages.productDetail.backToProducts": {
+  "en": "Back to Products",
+  "ar": "العودة إلى المنتجات"
+ },
+ "pages.productDetail.breadcrumbProducts": {
+  "en": "Products",
+  "ar": "المنتجات"
+ },
+ "pages.productDetail.inStock": {
+  "en": "In stock — ships from UAE warehouse",
+  "ar": "متوفر — يُشحن من مستودع الإمارات"
+ },
+ "pages.productDetail.units": {
+  "en": "units",
+  "ar": "وحدة"
+ },
+ "pages.productDetail.get_quote": {
+  "en": "Get Quote",
+  "ar": "احصل على عرض سعر"
+ },
+ "pages.productDetail.assurance1": {
+  "en": "Genuine products, backed by Al Nawras support",
+  "ar": "منتجات أصلية، مدعومة بدعم الأنوار"
+ },
+ "pages.productDetail.assurance2": {
+  "en": "Bulk & project pricing available",
+  "ar": "أسعار متاحة للكميات والمشاريع"
+ },
+ "pages.productDetail.assurance3": {
+  "en": "Delivery & installation across the UAE",
+  "ar": "توصيل وتركيب في جميع أنحاء الإمارات"
+ },
+ "pages.productDetail.trust1": {
+  "en": "Certified & UL/FM listed",
+  "ar": "معتمد ومدرج في UL/FM"
+ },
+ "pages.productDetail.trust2": {
+  "en": "Local warranty support",
+  "ar": "دعم ضمان محلي"
+ },
+ "pages.productDetail.tabOverview": {
+  "en": "Overview",
+  "ar": "نظرة عامة"
+ },
+ "pages.productDetail.tabSpecs": {
+  "en": "Specifications",
+  "ar": "المواصفات"
+ },
+ "pages.productDetail.youMayAlsoNeed": {
+  "en": "YOU MAY ALSO NEED",
+  "ar": "قد تحتاج أيضًا"
+ },
+ "pages.productDetail.frequentlyPaired": {
+  "en": "Frequently paired with this product",
+  "ar": "غالبًا ما يُشترى مع هذا المنتج"
+ },
+ "pages.products.title": {
+  "en": "Fire, Life Safety & ICT Products",
+  "ar": "منتجات الحريق والسلامة وتقنية المعلومات"
+ },
+ "pages.products.desc": {
+  "en": "Certified equipment from Honeywell, Waterfall, H3C, Teknoware, Uranus Cable and KD Pipes — supplied, engineered and supported by Al Nawras Safety & Security Systems LLC.",
+  "ar": "معدات معتمدة من Honeywell وWaterfall وH3C وTeknoware وUranus Cable وKD Pipes — توريد وهندسة ودعم من شركة الأنوار للأنظمة الأمنية وأنظمة السلامة ذ.م.م."
+ },
+ "pages.products.crumb": {
+  "en": "Products",
+  "ar": "المنتجات"
+ },
+ "pages.products.searchPlaceholder": {
+  "en": "Search products, brands, categories…",
+  "ar": "ابحث عن منتجات، علامات تجارية، فئات…"
+ },
+ "pages.products.search": {
+  "en": "Search",
+  "ar": "بحث"
+ },
+ "pages.products.categoryLabel": {
+  "en": "Category",
+  "ar": "الفئة"
+ },
+ "pages.products.allCategories": {
+  "en": "All Categories",
+  "ar": "جميع الفئات"
+ },
+ "pages.products.supplierLabel": {
+  "en": "Supplier",
+  "ar": "المورّد"
+ },
+ "pages.products.allSuppliers": {
+  "en": "All Suppliers",
+  "ar": "جميع الموردين"
+ },
+ "pages.products.sortRelevance": {
+  "en": "Sort: Relevance",
+  "ar": "الترتيب: الأكثر صلة"
+ },
+ "pages.products.sortPriceAsc": {
+  "en": "Price: Low to High",
+  "ar": "السعر: من الأقل إلى الأعلى"
+ },
+ "pages.products.sortPriceDesc": {
+  "en": "Price: High to Low",
+  "ar": "السعر: من الأعلى إلى الأقل"
+ },
+ "pages.products.sortNameAsc": {
+  "en": "Name: A–Z",
+  "ar": "الاسم: أ-ي"
+ },
+ "pages.products.noResultsTitle": {
+  "en": "No matching products",
+  "ar": "لا توجد منتجات مطابقة"
+ },
+ "pages.products.noResultsBody": {
+  "en": "Try a different search term or clear your filters.",
+  "ar": "جرّب كلمة بحث مختلفة أو امسح عوامل التصفية."
+ },
+ "pages.projectDetail.projectNotFound": {
+  "en": "Project not found",
+  "ar": "المشروع غير موجود"
+ },
+ "pages.projectDetail.backToProjects": {
+  "en": "Back to Projects",
+  "ar": "العودة إلى المشاريع"
+ },
+ "pages.projectDetail.breadcrumbHome": {
+  "en": "Home",
+  "ar": "الرئيسية"
+ },
+ "pages.projectDetail.breadcrumbProjects": {
+  "en": "Projects",
+  "ar": "المشاريع"
+ },
+ "pages.projectDetail.overviewLabel": {
+  "en": "PROJECT OVERVIEW",
+  "ar": "نظرة عامة على المشروع"
+ },
+ "pages.projectDetail.scopeOfWork": {
+  "en": "Scope of Work",
+  "ar": "نطاق العمل"
+ },
+ "pages.projectDetail.discussProject": {
+  "en": "Discuss a Similar Project",
+  "ar": "ناقش مشروعًا مماثلاً"
+ },
+ "pages.projectDetail.whatsappUs": {
+  "en": "WhatsApp Us",
+  "ar": "تواصل معنا عبر واتساب"
+ },
+ "pages.projectDetail.location": {
+  "en": "Location",
+  "ar": "الموقع"
+ },
+ "pages.projectDetail.client": {
+  "en": "Client",
+  "ar": "العميل"
+ },
+ "pages.projectDetail.reference": {
+  "en": "Reference",
+  "ar": "المرجع"
+ },
+ "pages.projectDetail.category": {
+  "en": "Category",
+  "ar": "الفئة"
+ },
+ "pages.projectDetail.moreInCategory": {
+  "en": "MORE IN THIS CATEGORY",
+  "ar": "المزيد في هذه الفئة"
+ },
+ "pages.projectDetail.relatedProjects": {
+  "en": "Related Projects",
+  "ar": "مشاريع ذات صلة"
+ },
+ "pages.projects.title": {
+  "en": "Projects Delivered Across the UAE",
+  "ar": "مشاريع تم تنفيذها في جميع أنحاء الإمارات"
+ },
+ "pages.projects.desc": {
+  "en": "From malls and high-rise towers to hospitals, schools and oil & gas facilities — a selection of the fire protection, life safety and ELV projects Al Nawras has delivered.",
+  "ar": "من المولات والأبراج الشاهقة إلى المستشفيات والمدارس ومنشآت النفط والغاز — مجموعة مختارة من مشاريع الحماية من الحريق والسلامة وELV التي نفّذتها الأنوار."
+ },
+ "pages.projects.crumb": {
+  "en": "Projects",
+  "ar": "المشاريع"
+ },
+ "pages.projects.statCompleted": {
+  "en": "Projects Completed",
+  "ar": "مشروع مكتمل"
+ },
+ "pages.projects.statYears": {
+  "en": "Years of Operation",
+  "ar": "سنوات من العمل"
+ },
+ "pages.projects.statSectors": {
+  "en": "Sectors Served",
+  "ar": "قطاعات مخدومة"
+ },
+ "pages.projects.statEmirates": {
+  "en": "Emirates Covered",
+  "ar": "إمارات مغطّاة"
+ },
+ "pages.projects.ref": {
+  "en": "Ref",
+  "ar": "المرجع"
+ },
+ "pages.projects.viewProject": {
+  "en": "View Project",
+  "ar": "عرض المشروع"
+ },
+ "pages.projects.howWeWork": {
+  "en": "HOW WE WORK",
+  "ar": "كيف نعمل"
+ },
+ "pages.projects.processTitle": {
+  "en": "Our Project Delivery Process",
+  "ar": "عملية تنفيذ مشاريعنا"
+ },
+ "pages.about.certifications.crumbAbout": {
+  "en": "About",
+  "ar": "من نحن"
+ },
+ "pages.about.certifications.crumbCurrent": {
+  "en": "Certifications",
+  "ar": "الشهادات"
+ },
+ "pages.about.founder.eyebrow": {
+  "en": "Al Nawras Overview",
+  "ar": "نبذة عن الأنوار"
+ },
+ "pages.about.founder.title": {
+  "en": "Message from the Founder",
+  "ar": "كلمة المؤسس"
+ },
+ "pages.about.founder.desc": {
+  "en": "A commitment to delivering superior and professional safety & security services to the UAE community.",
+  "ar": "التزام بتقديم خدمات سلامة وأمن متميزة واحترافية لمجتمع الإمارات."
+ },
+ "pages.about.founder.crumbAbout": {
+  "en": "About",
+  "ar": "من نحن"
+ },
+ "pages.about.founder.crumbCurrent": {
+  "en": "Founder",
+  "ar": "المؤسس"
+ },
+ "pages.about.founder.badge": {
+  "en": "MD-01",
+  "ar": "MD-01"
+ },
+ "pages.about.founder.badgeLabel": {
+  "en": "Message from the Managing Director",
+  "ar": "كلمة المدير العام"
+ },
+ "pages.about.founder.name": {
+  "en": "Eng. Mohammed Ghazy",
+  "ar": "المهندس محمد غازي"
+ },
+ "pages.about.founder.role": {
+  "en": "Managing Director, Al Nawras Safety & Security",
+  "ar": "المدير العام، الأنوار للأنظمة الأمنية وأنظمة السلامة"
+ },
+ "pages.about.mission.eyebrow": {
+  "en": "Al Nawras Overview",
+  "ar": "نبذة عن الأنوار"
+ },
+ "pages.about.mission.title": {
+  "en": "Mission & Vision",
+  "ar": "الرسالة والرؤية"
+ },
+ "pages.about.mission.desc": {
+  "en": "Progressive thinking and a systematic approach to every project, so our clients keep coming back to us.",
+  "ar": "تفكير تقدّمي ونهج منظّم في كل مشروع، بحيث يستمر عملاؤنا في العودة إلينا."
+ },
+ "pages.about.mission.crumbAbout": {
+  "en": "About",
+  "ar": "من نحن"
+ },
+ "pages.about.mission.crumbCurrent": {
+  "en": "Mission & Vision",
+  "ar": "الرسالة والرؤية"
+ },
+ "pages.about.overview.eyebrow": {
+  "en": "Al Nawras Overview",
+  "ar": "نبذة عن الأنوار"
+ },
+ "pages.about.overview.title": {
+  "en": "Who We Are",
+  "ar": "من نحن"
+ },
+ "pages.about.overview.desc": {
+  "en": "A UAE-based fire, life-safety and ELV solutions provider, delivering consultancy, products and support to the highest standards since 2005.",
+  "ar": "مزوّد إماراتي لحلول الحريق والسلامة والجهد المنخفض، يقدّم الاستشارات والمنتجات والدعم وفق أعلى المعايير منذ عام 2005."
+ },
+ "pages.about.overview.crumb": {
+  "en": "About",
+  "ar": "من نحن"
+ },
+ "pages.about.team.eyebrow": {
+  "en": "Al Nawras Overview",
+  "ar": "نبذة عن الأنوار"
+ },
+ "pages.about.team.title": {
+  "en": "Our Team",
+  "ar": "فريقنا"
+ },
+ "pages.about.team.desc": {
+  "en": "The engineers, managers and specialists who plan, deliver and support every Al Nawras project.",
+  "ar": "المهندسون والمديرون والمختصون الذين يخطّطون وينفّذون ويدعمون كل مشروع للأنوار."
+ },
+ "pages.about.team.crumbAbout": {
+  "en": "About",
+  "ar": "من نحن"
+ },
+ "pages.about.team.crumbCurrent": {
+  "en": "Our Team",
+  "ar": "فريقنا"
+ },
+ "pages.about.team.leadership": {
+  "en": "Leadership",
+  "ar": "القيادة"
+ },
+ "pages.about.team.heading": {
+  "en": "The people behind Al Nawras",
+  "ar": "الأشخاص وراء الأنوار"
+ },
+ "pages.account.account.my_account": {
+  "en": "My Account",
+  "ar": "حسابي"
+ },
+ "pages.account.account.email": {
+  "en": "Email",
+  "ar": "البريد الإلكتروني"
+ },
+ "pages.account.account.name": {
+  "en": "Name",
+  "ar": "الاسم"
+ },
+ "pages.account.account.for_any_enquiries_about_your_project_rea": {
+  "en": "For any enquiries about your project, reach us via the Contact page or WhatsApp.",
+  "ar": "لأي استفسار حول مشروعك، تواصل معنا عبر صفحة التواصل أو واتساب."
+ },
+ "pages.account.account.sign_out": {
+  "en": "Sign Out",
+  "ar": "تسجيل الخروج"
+ },
+ "pages.account.register.my_account": {
+  "en": "My Account",
+  "ar": "حسابي"
+ },
+ "pages.account.register.create_an_account": {
+  "en": "Create an Account",
+  "ar": "إنشاء حساب"
+ },
+ "pages.account.register.create_an_account_to_track_your_enquirie": {
+  "en": "Create an account to track your enquiries with Al Nawras.",
+  "ar": "أنشئ حسابًا لمتابعة استفساراتك مع الأنوار."
+ },
+ "pages.account.register.register": {
+  "en": "Register",
+  "ar": "إنشاء حساب"
+ },
+ "pages.account.register.registration_isn_t_connected_yet_please_": {
+  "en": "Registration isn't connected yet — please check back soon.",
+  "ar": "إنشاء الحساب غير متاح حاليًا."
+ },
+ "pages.account.register.check_your_email": {
+  "en": "Check your email",
+  "ar": "تحقّق من بريدك الإلكتروني"
+ },
+ "pages.account.register.we_sent_a_confirmation_link_to_your_emai": {
+  "en": "We sent a confirmation link to your email. Click it to activate your account, then sign in.",
+  "ar": "أرسلنا رابط تأكيد إلى بريدك الإلكتروني. اضغط عليه لتفعيل حسابك ثم سجّل الدخول."
+ },
+ "pages.account.register.go_to_sign_in": {
+  "en": "Go to Sign In",
+  "ar": "الذهاب لتسجيل الدخول"
+ },
+ "pages.account.register.full_name": {
+  "en": "Full Name",
+  "ar": "الاسم الكامل"
+ },
+ "pages.account.register.email": {
+  "en": "Email",
+  "ar": "البريد الإلكتروني"
+ },
+ "pages.account.register.password": {
+  "en": "Password",
+  "ar": "كلمة المرور"
+ },
+ "pages.account.register.at_least_6_characters": {
+  "en": "At least 6 characters",
+  "ar": "6 أحرف على الأقل"
+ },
+ "pages.account.register.creating": {
+  "en": "Creating…",
+  "ar": "جارٍ الإنشاء…"
+ },
+ "pages.account.register.create_account": {
+  "en": "Create Account",
+  "ar": "إنشاء حساب"
+ },
+ "pages.account.register.already_have_an_account": {
+  "en": "Already have an account?",
+  "ar": "لديك حساب بالفعل؟"
+ },
+ "pages.account.register.sign_in": {
+  "en": "Sign in",
+  "ar": "سجّل الدخول"
+ },
+ "pages.account.signIn.my_account": {
+  "en": "My Account",
+  "ar": "حسابي"
+ },
+ "pages.account.signIn.sign_in": {
+  "en": "Sign In",
+  "ar": "تسجيل الدخول"
+ },
+ "pages.account.signIn.sign_in_to_track_your_enquiries_and_orde": {
+  "en": "Sign in to track your enquiries and orders.",
+  "ar": "سجّل الدخول لمتابعة استفساراتك وطلباتك."
+ },
+ "pages.account.signIn.sign_in_isn_t_connected_yet_please_check": {
+  "en": "Sign-in isn't connected yet — please check back soon.",
+  "ar": "تسجيل الدخول غير متاح حاليًا."
+ },
+ "pages.account.signIn.email": {
+  "en": "Email",
+  "ar": "البريد الإلكتروني"
+ },
+ "pages.account.signIn.password": {
+  "en": "Password",
+  "ar": "كلمة المرور"
+ },
+ "pages.account.signIn.signing_in": {
+  "en": "Signing in…",
+  "ar": "جارٍ الدخول…"
+ },
+ "pages.account.signIn.don_t_have_an_account": {
+  "en": "Don't have an account?",
+  "ar": "ليس لديك حساب؟"
+ },
+ "pages.account.signIn.create_one": {
+  "en": "Create one",
+  "ar": "أنشئ حسابًا"
+ },
+ "pages.systems.elv.systems_solutions": {
+  "en": "Systems & Solutions",
+  "ar": "الأنظمة والحلول"
+ },
+ "pages.systems.elv.title": {
+  "en": "ELV Systems",
+  "ar": "أنظمة الجهد المنخفض ELV"
+ },
+ "pages.systems.elv.desc": {
+  "en": "Structured cabling, CCTV, access control and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
+  "ar": "كابلات هيكلية، كاميرات مراقبة، تحكّم بالدخول وتكامل نظام إدارة المباني، تُقدَّم كبنية تحتية واحدة منخفضة الجهد بحيث يرتبط كل نظام في المبنى بشبكة واحدة قابلة للإدارة."
+ },
+ "pages.systems.elv.breadcrumb": {
+  "en": "ELV Systems",
+  "ar": "أنظمة ELV"
+ },
+ "pages.systems.emergencyLighting.systems_solutions": {
+  "en": "Systems & Solutions",
+  "ar": "الأنظمة والحلول"
+ },
+ "pages.systems.emergencyLighting.title": {
+  "en": "Emergency Lighting",
+  "ar": "الإضاءة الطارئة"
+ },
+ "pages.systems.emergencyLighting.desc": {
+  "en": "Central battery systems and DALI-addressable emergency and exit luminaires from Teknoware ESCALUX, monitored end-to-end through IntelliPanel and ESC-GATE gateways for consistent, code-compliant coverage.",
+  "ar": "أنظمة بطارية مركزية وإنارة خروج وطوارئ قابلة للعنونة عبر DALI من طراز Teknoware ESCALUX، تُراقَب بالكامل عبر بوابات IntelliPanel وESC-GATE لتغطية متسقة ومطابقة للكود."
+ },
+ "pages.systems.emergencyLighting.breadcrumb": {
+  "en": "Emergency Lighting",
+  "ar": "الإضاءة الطارئة"
+ },
+ "pages.systems.fireAlarm.systems_solutions": {
+  "en": "Systems & Solutions",
+  "ar": "الأنظمة والحلول"
+ },
+ "pages.systems.fireAlarm.fire_alarm_voice_evacuation_systems": {
+  "en": "Fire Alarm & Voice Evacuation Systems",
+  "ar": "أنظمة إنذار الحريق والإخلاء الصوتي"
+ },
+ "pages.systems.fireAlarm.advanced_fire_detection_alarm_and_voice_": {
+  "en": "Advanced fire detection, alarm and voice evacuation solutions engineered to provide reliable early warning, clear emergency communication, and enhanced life safety.",
+  "ar": "حلول متقدمة لكشف الحريق والإنذار والإخلاء الصوتي، مصمّمة لتوفير إنذار مبكر موثوق واتصال واضح في حالات الطوارئ وسلامة أعلى للأرواح."
+ },
+ "pages.systems.fireAlarm.fire_alarm_voice_evacuation": {
+  "en": "Fire Alarm & Voice Evacuation",
+  "ar": "إنذار الحريق والإخلاء الصوتي"
+ },
+ "pages.systems.fireFighting.systems_solutions": {
+  "en": "Systems & Solutions",
+  "ar": "الأنظمة والحلول"
+ },
+ "pages.systems.fireFighting.firefighting_systems": {
+  "en": "Firefighting Systems",
+  "ar": "أنظمة مكافحة الحريق"
+ },
+ "pages.systems.fireFighting.a_complete_firefighting_scope_designed_s": {
+  "en": "A complete firefighting scope designed, supplied and installed to the highest standards.",
+  "ar": "منظومة متكاملة لمكافحة الحريق، مصمّمة ومورّدة ومركّبة وفق أعلى المعايير."
+ },
+ "pages.systems.fireFighting.firefighting": {
+  "en": "Firefighting",
+  "ar": "مكافحة الحريق"
+ },
+ "pages.systems.smokeManagement.systems_solutions": {
+  "en": "Systems & Solutions",
+  "ar": "الأنظمة والحلول"
+ },
+ "pages.systems.smokeManagement.title": {
+  "en": "Smoke Management",
+  "ar": "إدارة الدخان"
+ },
+ "pages.systems.smokeManagement.desc": {
+  "en": "Fire and smoke dampers, extraction fans and electronic control units, specified and installed to keep stairwells and escape routes clear for the duration of an event.",
+  "ar": "مخامد حريق ودخان، مراوح شفط ووحدات تحكّم إلكترونية، محدّدة ومركّبة للحفاظ على سلامة أدراج الطوارئ ومسارات الإخلاء طوال مدة الحادث."
+ },
+ "pages.systems.smokeManagement.breadcrumb": {
+  "en": "Smoke Management",
+  "ar": "إدارة الدخان"
+ },
+ "pages.systems.smokeManagement.galleryHeading": {
+  "en": "Dampers, Fans & Controls",
+  "ar": "المخامد والمراوح ووحدات التحكّم"
+ },
+ "pages.systems.smokeManagement.smoke_management": {
+  "en": "SMOKE MANAGEMENT",
+  "ar": "إدارة الدخان"
+ },
+ "pages.about.overview.p1": {
+  "en": "Al Nawras Safety & Security Systems LLC was founded in Sharjah in 2005 by Eng. Mohammed Ghazy, bringing with him over thirty (30) years of experience in the safety and security industry in the UAE. The company has grown into one of the UAE's trusted names in fire & life safety and extra-low-voltage (ELV) systems. With branches in **Sharjah, Dubai and Abu Dhabi**, plus a dedicated warehouse and workshop, the company offers a genuine one-stop shop for developers, contractors and consultants across the Emirates.",
+  "ar": "تأسست شركة الأنوار للأنظمة الأمنية وأنظمة السلامة ذ.م.م في الشارقة عام 2005 على يد المهندس محمد غازي، الذي يمتلك خبرة تزيد على ثلاثين (30) عامًا في قطاع السلامة والأمن في الإمارات، ونمت لتصبح أحد الأسماء الموثوقة في الإمارات في مجال السلامة من الحريق والحياة والجهد المنخفض (ELV). بفروع في **الشارقة ودبي وأبوظبي**، إضافة إلى مستودع وورشة مخصصين، تقدّم الشركة حلاً متكاملاً حقيقيًا للمطورين والمقاولين والاستشاريين في جميع أنحاء الإمارات."
+ },
+ "pages.about.overview.p2": {
+  "en": "Al Nawras is Civil Defense-licensed to design, supply, install, test and commission fire detection, fire alarm, firefighting, emergency lighting and smoke control systems in Sharjah, Dubai and Abu Dhabi, and holds ISO 9001:2015 certification for its quality management system.",
+  "ar": "الأنوار مرخّصة من الدفاع المدني لتصميم وتوريد وتركيب واختبار وتشغيل أنظمة كشف الحريق وإنذار الحريق ومكافحة الحريق والإضاءة الطارئة والتحكم بالدخان في الشارقة ودبي وأبوظبي، وتحمل شهادة ISO 9001:2015 لنظام إدارة الجودة."
+ },
+ "pages.about.overview.p3": {
+  "en": "Today, the company operates as an authorized distributor and sub-distributor for globally certified manufacturers — Honeywell, Teknoware, Waterfall, KD Industries, Uranus and H3C — bringing internationally recognized equipment to every fire, life-safety and ELV project it delivers.",
+  "ar": "اليوم، تعمل الشركة كموزّع معتمد وموزّع فرعي لشركات مصنّعة عالمية معتمدة — Honeywell وTeknoware وWaterfall وKD Industries وUranus وH3C — لتقديم معدات معترف بها دوليًا في كل مشروع حريق وسلامة وجهد منخفض تنفّذه."
+ },
+ "pages.about.overview.statYear": {
+  "en": "Year Founded",
+  "ar": "سنة التأسيس"
+ },
+ "pages.about.overview.statProjects": {
+  "en": "Projects Executed",
+  "ar": "مشروع منفّذ"
+ },
+ "pages.about.overview.statOffices": {
+  "en": "UAE Branches",
+  "ar": "فروع في الإمارات"
+ },
+ "pages.about.overview.statBrands": {
+  "en": "Global Brand Partners",
+  "ar": "شريك علامة تجارية عالمية"
+ },
+ "pages.about.founder.heading1": {
+  "en": "A word from",
+  "ar": "كلمة من"
+ },
+ "pages.about.founder.heading2": {
+  "en": "Eng. Mohammed Ghazy",
+  "ar": "المهندس محمد غازي"
+ },
+ "pages.about.founder.p1": {
+  "en": "\"The UAE has undergone an unprecedented phase of expansion in the construction market over the last decades, and we are glad to be participating in the UAE's renaissance period. Considering the importance of this, it has become imperative that we operate Al Nawras S&S as a company that specializes in delivering superior and professional safety & security services.",
+  "ar": "\"شهدت دولة الإمارات مرحلة توسّع غير مسبوقة في سوق البناء خلال العقود الماضية، ويسعدنا أن نكون جزءًا من مرحلة النهضة في الإمارات. وانطلاقًا من أهمية ذلك، أصبح من الضروري أن نعمل في الأنوار للأنظمة الأمنية وأنظمة السلامة كشركة متخصصة في تقديم خدمات سلامة وأمن متميزة واحترافية."
+ },
+ "pages.about.founder.p2": {
+  "en": "At Al Nawras, we are committed to conducting our business professionally with all clients. Our main aim is to enhance the overall safety standards in the UAE community that we enjoy living and working in.\"",
+  "ar": "نحن في الأنوار ملتزمون بإدارة أعمالنا باحترافية مع جميع العملاء. هدفنا الرئيسي هو رفع مستوى معايير السلامة العامة في مجتمع الإمارات الذي نستمتع بالعيش والعمل فيه.\""
+ },
+ "pages.about.founder.p3": {
+  "en": "",
+  "ar": ""
+ },
+ "pages.about.mission.card1.title": {
+  "en": "Our Mission",
+  "ar": "رسالتنا"
+ },
+ "pages.about.mission.card1.desc": {
+  "en": "To protect life and property through our high dedication to enhance the safety standards, along with a positive contribution to the community we live in and operate at. To reduce and eliminate risk from fire in the community we serve, and to be the first choice provider for safety and security solutions within the UAE market.",
+  "ar": "حماية الأرواح والممتلكات من خلال تفانينا الكبير في رفع معايير السلامة، مع المساهمة الإيجابية في المجتمع الذي نعيش ونعمل فيه. والحد من مخاطر الحريق والقضاء عليها في المجتمع الذي نخدمه، وأن نكون المزوّد الأول لحلول السلامة والأمن في السوق الإماراتي."
+ },
+ "pages.about.mission.card2.title": {
+  "en": "Our Vision",
+  "ar": "رؤيتنا"
+ },
+ "pages.about.mission.card2.desc": {
+  "en": "To be the UAE's most trusted integrated safety and security partner, recognized for technical excellence, authorized brand partnerships and a zero-compromise approach to compliance.",
+  "ar": "أن نكون الشريك الأكثر ثقة في الإمارات لحلول السلامة والأمن المتكاملة، معروفين بالتميز التقني وشراكات العلامات التجارية المعتمدة ونهج لا يقبل أي تهاون في الامتثال."
+ },
+ "pages.about.mission.card3.title": {
+  "en": "Quality Commitment",
+  "ar": "التزام الجودة"
+ },
+ "pages.about.mission.card3.desc": {
+  "en": "ISO 9001:2015 certified, with Class A civil defense approvals across three Emirates (SHJ, DXB & ADH) and an in-house team of licensed engineers and technicians who stand behind every installation.",
+  "ar": "معتمدون بشهادة ISO 9001:2015، مع تراخيص دفاع مدني من الفئة (A) في ثلاث إمارات (الشارقة ودبي وأبوظبي) وفريق داخلي من المهندسين والفنيين المرخّصين الذين يقفون خلف كل عملية تركيب."
+ },
+ "pages.careers.value1.title": {
+  "en": "Safety First",
+  "ar": "السلامة أولاً"
+ },
+ "pages.careers.value1.body": {
+  "en": "Every project we deliver protects lives — that responsibility shapes how we hire, train and work.",
+  "ar": "كل مشروع ننفّذه يحمي أرواحًا — هذه المسؤولية تشكّل طريقة توظيفنا وتدريبنا وعملنا."
+ },
+ "pages.careers.value2.title": {
+  "en": "Technical Excellence",
+  "ar": "التميّز التقني"
+ },
+ "pages.careers.value2.body": {
+  "en": "We invest in certified training so our engineers stay current with global fire and ICT standards.",
+  "ar": "نستثمر في تدريب معتمد ليبقى مهندسونا على اطّلاع بأحدث معايير الحريق وتقنية المعلومات العالمية."
+ },
+ "pages.careers.value3.title": {
+  "en": "Growth-Driven",
+  "ar": "مدفوعون بالنمو"
+ },
+ "pages.careers.value3.body": {
+  "en": "Clear career paths from technician to project lead, with mentorship from senior engineers.",
+  "ar": "مسارات وظيفية واضحة من فني إلى قائد مشروع، مع إرشاد من مهندسين كبار."
+ },
+ "pages.careers.value4.title": {
+  "en": "Team-Oriented",
+  "ar": "روح الفريق"
+ },
+ "pages.careers.value4.body": {
+  "en": "Collaborative project teams spanning engineering, procurement and site execution.",
+  "ar": "فرق مشاريع تعاونية تشمل الهندسة والمشتريات وتنفيذ الموقع."
+ },
+ "pages.careers.benefit1.title": {
+  "en": "Health Insurance",
+  "ar": "تأمين صحي"
+ },
+ "pages.careers.benefit1.body": {
+  "en": "Comprehensive medical coverage for you and your family.",
+  "ar": "تغطية طبية شاملة لك ولعائلتك."
+ },
+ "pages.careers.benefit2.title": {
+  "en": "Annual Leave & Flights",
+  "ar": "إجازة سنوية وتذاكر سفر"
+ },
+ "pages.careers.benefit2.body": {
+  "en": "Generous leave allowance plus annual flight tickets home.",
+  "ar": "بدل إجازة سخي بالإضافة إلى تذاكر طيران سنوية للوطن."
+ },
+ "pages.careers.benefit3.title": {
+  "en": "Certified Training",
+  "ar": "تدريب معتمد"
+ },
+ "pages.careers.benefit3.body": {
+  "en": "Manufacturer certification programs with Honeywell, H3C and more.",
+  "ar": "برامج شهادات من الشركات المصنّعة مع Honeywell وH3C وغيرها."
+ },
+ "pages.careers.benefit4.title": {
+  "en": "Performance Bonus",
+  "ar": "مكافأة أداء"
+ },
+ "pages.careers.benefit4.body": {
+  "en": "Project-based incentives tied to delivery and client satisfaction.",
+  "ar": "حوافز على أساس المشاريع مرتبطة بالتنفيذ ورضا العملاء."
+ },
+ "pages.careers.benefit5.title": {
+  "en": "Career Progression",
+  "ar": "تطوّر وظيفي"
+ },
+ "pages.careers.benefit5.body": {
+  "en": "Structured paths toward senior engineering and management roles.",
+  "ar": "مسارات منظّمة نحو أدوار هندسية وإدارية أعلى."
+ },
+ "pages.careers.benefit6.title": {
+  "en": "Modern Equipment",
+  "ar": "معدات حديثة"
+ },
+ "pages.careers.benefit6.body": {
+  "en": "Work with the latest tools and testing equipment on every site.",
+  "ar": "العمل بأحدث الأدوات ومعدات الاختبار في كل موقع."
+ },
+ "pages.projects.step1.title": {
+  "en": "Site Assessment",
+  "ar": "تقييم الموقع"
+ },
+ "pages.projects.step1.desc": {
+  "en": "Our engineers survey the site and review drawings to scope the right fire, life safety or ICT solution.",
+  "ar": "يقوم مهندسونا بمسح الموقع ومراجعة المخططات لتحديد نطاق حل الحريق أو السلامة أو تقنية المعلومات المناسب."
+ },
+ "pages.projects.step2.title": {
+  "en": "Design & Proposal",
+  "ar": "التصميم والعرض"
+ },
+ "pages.projects.step2.desc": {
+  "en": "We prepare a compliant system design and detailed proposal aligned with Civil Defense and NFPA requirements.",
+  "ar": "نُعِدّ تصميم نظام متوافق وعرضًا تفصيليًا متماشيًا مع متطلبات الدفاع المدني وNFPA."
+ },
+ "pages.projects.step3.title": {
+  "en": "Supply & Installation",
+  "ar": "التوريد والتركيب"
+ },
+ "pages.projects.step3.desc": {
+  "en": "Certified products are supplied and installed by our trained technical teams, on schedule and to code.",
+  "ar": "تُورَّد المنتجات المعتمدة وتُركَّب بواسطة فرقنا الفنية المدرَّبة، في الموعد ووفق الكود."
+ },
+ "pages.projects.step4.title": {
+  "en": "Testing & Handover",
+  "ar": "الاختبار والتسليم"
+ },
+ "pages.projects.step4.desc": {
+  "en": "Full system commissioning, authority approvals and handover documentation for long-term reliability.",
+  "ar": "تشغيل كامل للنظام، موافقات الجهات المختصة، ووثائق تسليم لموثوقية طويلة الأمد."
+ },
+ "content.systems.sys-fire.title": {
+  "en": "Firefighting Systems",
+  "ar": "أنظمة مكافحة الحريق"
+ },
+ "content.systems.sys-fire.desc": {
+  "en": "A complete firefighting scope engineered, supplied and installed to the highest standards — UL-listed and FM-approved fire pump sets, hose reels, wet risers, sprinkler, foam and deluge systems, hydrants and portable extinguishers.",
+  "ar": "منظومة كاملة لمكافحة الحريق مصمّمة ومورّدة ومركّبة وفق أعلى المعايير — مضخات حريق معتمدة من UL وFM، بكرات خراطيم، صنابير رطبة، أنظمة رشاشات ورغوة وإغراق مائي، وحنفيات حريق وطفايات محمولة."
+ },
+ "content.systems.sys-alarm.title": {
+  "en": "Fire Alarm Systems",
+  "ar": "أنظمة إنذار الحريق"
+ },
+ "content.systems.sys-alarm.desc": {
+  "en": "Multi-loop addressable detection and control, designed around Honeywell's Morley and Farenhyt platforms and commissioned by our qualified engineering team to give occupants the earliest possible warning.",
+  "ar": "كشف وتحكّم متعدد الحلقات وقابل للعنونة، مصمّم حول منصّتَي Morley وFarenhyt من Honeywell ومُشغَّل بواسطة فريقنا الهندسي المؤهّل لإعطاء أقصى إنذار مبكر لشاغلي المبنى."
+ },
+ "content.systems.sys-voice.title": {
+  "en": "Voice Evacuation Systems",
+  "ar": "أنظمة الإخلاء الصوتي"
+ },
+ "content.systems.sys-voice.desc": {
+  "en": "Integrated emergency communication and public address networks, engineered to deliver clear, prioritized evacuation instructions across a building of any scale.",
+  "ar": "شبكات اتصال طارئ ونظام مخاطبة عامة متكاملة، مصمّمة لتقديم تعليمات إخلاء واضحة وذات أولوية في أي مبنى مهما كان حجمه."
+ },
+ "content.systems.sys-light.title": {
+  "en": "Emergency Lighting",
+  "ar": "الإضاءة الطارئة"
+ },
+ "content.systems.sys-light.desc": {
+  "en": "Central battery systems and DALI-addressable emergency and exit luminaires from Teknoware ESCALUX, monitored end-to-end through IntelliPanel and ESC-GATE gateways for consistent, code-compliant coverage.",
+  "ar": "أنظمة بطارية مركزية وإنارة خروج وطوارئ قابلة للعنونة عبر DALI من طراز Teknoware ESCALUX، تُراقَب بالكامل عبر بوابات IntelliPanel وESC-GATE لتغطية متسقة ومطابقة للكود."
+ },
+ "content.systems.sys-elv.title": {
+  "en": "ELV Systems",
+  "ar": "أنظمة الجهد المنخفض ELV"
+ },
+ "content.systems.sys-elv.desc": {
+  "en": "Structured cabling, CCTV, access control and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
+  "ar": "كابلات هيكلية، كاميرات مراقبة، تحكّم بالدخول وتكامل نظام إدارة المباني، تُقدَّم كبنية تحتية واحدة منخفضة الجهد بحيث يرتبط كل نظام في المبنى بشبكة واحدة قابلة للإدارة."
+ },
+ "content.systems.sys-smoke.title": {
+  "en": "Smoke Management",
+  "ar": "إدارة الدخان"
+ },
+ "content.systems.sys-smoke.desc": {
+  "en": "Fire and smoke dampers, extraction fans and electronic control units, specified and installed to keep stairwells and escape routes clear for the duration of an event.",
+  "ar": "مخامد حريق ودخان، مراوح شفط ووحدات تحكّم إلكترونية، محدّدة ومركّبة للحفاظ على سلامة أدراج الطوارئ ومسارات الإخلاء طوال مدة الحادث."
+ },
+ "content.brands.honeywell.name": {
+  "en": "Honeywell",
+  "ar": "هانيويل"
+ },
+ "content.brands.honeywell.tag": {
+  "en": "Fire Alarm & Voice Evacuation",
+  "ar": "إنذار الحريق والإخلاء الصوتي"
+ },
+ "content.brands.honeywell.desc": {
+  "en": "2024 Catalyst META Fire System Integrator Program — Silver Partner. Authorized sub-distributor for Morley, Farenhyt, System Sensor and X-618/RK2 PA-VA ranges.",
+  "ar": "شريك فضي في برنامج Catalyst META Fire System Integrator لعام 2024. موزّع فرعي معتمد لمنتجات Morley وFarenhyt وSystem Sensor وX-618/RK2."
+ },
+ "content.brands.teknoware.name": {
+  "en": "Teknoware",
+  "ar": "تكنوير"
+ },
+ "content.brands.teknoware.tag": {
+  "en": "ESCALUX Emergency Lighting",
+  "ar": "إضاءة الطوارئ ESCALUX"
+ },
+ "content.brands.teknoware.desc": {
+  "en": "Authorized distributor for Teknoware Central Battery Systems and ESCALUX DALI emergency & exit lighting, supplied, installed, tested and commissioned by Al Nawras.",
+  "ar": "موزّع معتمد لأنظمة البطارية المركزية من Teknoware وإضاءة الطوارئ والخروج ESCALUX بتقنية DALI، تقوم الأنوار بتوريدها وتركيبها واختبارها وتشغيلها."
+ },
+ "content.brands.waterfall.name": {
+  "en": "Waterfall",
+  "ar": "ووترفول"
+ },
+ "content.brands.waterfall.tag": {
+  "en": "UL/FM Fire Pump Sets",
+  "ar": "مضخات حريق معتمدة UL/FM"
+ },
+ "content.brands.waterfall.desc": {
+  "en": "Authorized supplier of Waterfall fire pump sets — the most common pump type specified across Al Nawras firefighting projects in the UAE.",
+  "ar": ""
+ },
+ "content.brands.kd-industries.name": {
+  "en": "KD Industries",
+  "ar": "كيه دي إندستريز"
+ },
+ "content.brands.kd-industries.tag": {
+  "en": "ERW Steel Pipes & Tubes",
+  "ar": "الأنابيب والتوصيلات"
+ },
+ "content.brands.kd-industries.desc": {
+  "en": "ISO 9001:2008 accredited manufacturer of carbon steel ERW, black & galvanized pipes — supplied by Al Nawras for firefighting network piping.",
+  "ar": ""
+ },
+ "content.brands.uranus.name": {
+  "en": "Uranus",
+  "ar": "يورانوس"
+ },
+ "content.brands.uranus.tag": {
+  "en": "Fire Cables, Lighting & Firefighting Equipment",
+  "ar": "كابلات مقاومة للحريق وELV"
+ },
+ "content.brands.uranus.desc": {
+  "en": "Authorized distributor (via Rewire International LLC) for Uranus fire-resistant cables, DALI emergency lighting, firefighting equipment, and Mercury/Jupiter/Venus product lines.",
+  "ar": ""
+ },
+ "content.brands.h3c.name": {
+  "en": "H3C",
+  "ar": "إتش٣سي"
+ },
+ "content.brands.h3c.tag": {
+  "en": "ICT & Digital Infrastructure",
+  "ar": "الشبكات والبنية التحتية لتقنية المعلومات"
+ },
+ "content.brands.h3c.desc": {
+  "en": "Authorized agent for New H3C Technologies — bringing enterprise networking, compute and unified operations platforms into Al Nawras ICT project scopes.",
+  "ar": ""
+ }
+}

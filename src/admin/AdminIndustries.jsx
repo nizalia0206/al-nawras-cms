@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { supabase, supabaseConfigured } from "../lib/supabase";
 import ImageUploadField from "./ImageUploadField";
+import { dbError } from "./dbError";
 
 const TABLE = "industries";
 const BLANK = { id: "", title: "", image: "" };
@@ -19,8 +20,8 @@ export default function AdminIndustries() {
   async function load() {
     setLoading(true);
     const { data, error } = await supabase.from(TABLE).select("*").order("sort_order");
-    if (error) setError(error.message);
-    else setRows(data || []);
+    if (error) setError(dbError(error));
+    else { setRows(data || []); setError(""); }
     setLoading(false);
   }
 
@@ -39,7 +40,7 @@ export default function AdminIndustries() {
     if (isNew) payload.sort_order = rows.length;
     const { error } = await supabase.from(TABLE).upsert(payload);
     setSaving(false);
-    if (error) { setError(error.message); return; }
+    if (error) { setError(dbError(error)); return; }
     setEditing(null);
     load();
   }
@@ -84,7 +85,7 @@ export default function AdminIndustries() {
             {loading ? (
               <div className="admin-empty">Loading…</div>
             ) : rows.length === 0 ? (
-              <div className="admin-empty">
+              error ? null : <div className="admin-empty">
                 No sectors in the CMS yet — the website is showing its built-in list.
                 Run <code>supabase/migration_site_content.sql</code> to load the current sectors here, or add one.
               </div>

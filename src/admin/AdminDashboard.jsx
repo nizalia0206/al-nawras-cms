@@ -35,6 +35,14 @@ export default function AdminDashboard() {
           <h3>Sectors We Serve</h3>
           <p>The sliding sector cards on the home page — name, picture and order.</p>
         </Link>
+        <Link className="admin-link-card" to="/admin/partners">
+          <h3>Brand Partners</h3>
+          <p>The sliding brand logos above the footer — logos, order and where they link.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/text">
+          <h3>Website Text</h3>
+          <p>Every heading, description and label on the website, in English and Arabic.</p>
+        </Link>
         <Link className="admin-link-card" to="/admin/team">
           <h3>Our Team</h3>
           <p>Manage the team members shown on the "Our Team" page.</p>

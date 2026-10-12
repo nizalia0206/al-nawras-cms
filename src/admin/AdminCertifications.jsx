@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { supabase, supabaseConfigured } from "../lib/supabase";
+import { dbError } from "./dbError";
 import ImageUploadField from "./ImageUploadField";
 
 const BLANK = {
@@ -58,7 +59,7 @@ export default function AdminCertifications() {
     const { error } = await supabase.from("certifications").upsert(payload);
     setSaving(false);
     if (error) {
-      setError(error.message);
+      setError(dbError(error));
       return;
     }
     setEditing(null);

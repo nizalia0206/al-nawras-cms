@@ -9,6 +9,8 @@
 --   2. industries      — "Sectors We Serve" cards on the home page
 --   3. site_settings   — phones, email, WhatsApp, social links, stats
 --   4. customers       — automatic sync with website sign-ups + last sign-in time
+--   5. brand_partners  — footer "Brand Partners" logo strip
+--   6. site_text       — every heading / description / label (English + Arabic)
 -- ============================================================
 
 -- Helper used by every policy below: is the current user an admin?
@@ -115,6 +117,50 @@ insert into site_settings (id, data) values ('main', '{
   "stat_emirates": 7
 }'::jsonb)
 on conflict (id) do nothing;
+
+-- ------------------------------------------------------------
+-- 5. BRAND PARTNERS (footer logo strip)
+-- ------------------------------------------------------------
+create table if not exists brand_partners (
+  id text primary key,
+  name text not null,
+  logo text not null,
+  supplier text,          -- product-catalog brand filter the logo links to
+  height integer default 40,
+  sort_order integer default 0,
+  created_at timestamptz default now()
+);
+
+alter table brand_partners enable row level security;
+drop policy if exists "public read brand_partners" on brand_partners;
+create policy "public read brand_partners" on brand_partners for select using (true);
+drop policy if exists "admins write brand_partners" on brand_partners;
+create policy "admins write brand_partners" on brand_partners for all using (public.is_admin()) with check (public.is_admin());
+
+insert into brand_partners (id, name, logo, supplier, height, sort_order) values
+  ('honeywell',     'Honeywell',                 'https://al-nawras-website.vercel.app/assets/partners/honeywell.png',     'honeywell', 30, 0),
+  ('teknoware',     'Teknoware',                 'https://al-nawras-website.vercel.app/assets/partners/teknoware.png',     'teknoware', 34, 1),
+  ('waterfall',     'Waterfall',                 'https://al-nawras-website.vercel.app/assets/partners/waterfall.png',     'waterfall', 52, 2),
+  ('kd-industries', 'KD Industries',             'https://al-nawras-website.vercel.app/assets/partners/kd-industries.png', 'kdpipes',   50, 3),
+  ('uranus',        'Uranus',  'https://al-nawras-website.vercel.app/assets/partners/uranus.png',    'uranus',    28, 4),
+  ('h3c',           'H3C',                       'https://al-nawras-website.vercel.app/assets/partners/h3c.png',           'h3c',       50, 5)
+on conflict (id) do nothing;
+
+-- ------------------------------------------------------------
+-- 6. WEBSITE TEXT (only edited texts are stored; empty = original wording)
+-- ------------------------------------------------------------
+create table if not exists site_text (
+  key text primary key,
+  en text,
+  ar text,
+  updated_at timestamptz default now()
+);
+
+alter table site_text enable row level security;
+drop policy if exists "public read site_text" on site_text;
+create policy "public read site_text" on site_text for select using (true);
+drop policy if exists "admins write site_text" on site_text;
+create policy "admins write site_text" on site_text for all using (public.is_admin()) with check (public.is_admin());
 
 -- ------------------------------------------------------------
 -- 4. CUSTOMERS — every website sign-up appears in Admin -> Customers

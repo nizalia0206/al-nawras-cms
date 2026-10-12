@@ -1,27 +1,34 @@
 import { useEffect, useState } from "react";
 import { supabase, supabaseConfigured } from "../lib/supabase";
 import ImageUploadField from "./ImageUploadField";
+import { dbError } from "./dbError";
 
+const SITE = "https://al-nawras-website.vercel.app";
+
+// Same slide keys the website's hero carousel uses; `current` is the picture the
+// website shows when no custom image has been uploaded.
 const SLOTS = [
-  { key: "fire-fighting", label: "Fire Fighting Systems slide" },
-  { key: "fire-alarm", label: "Fire Alarm Systems slide" },
-  { key: "voice-evacuation", label: "Voice Evacuation slide" },
-  { key: "emergency-lighting", label: "Emergency Lighting slide" },
-  { key: "elv", label: "ELV Systems slide" },
-  { key: "smoke-management", label: "Smoke Management slide" },
+  { key: "intro", label: "Think Al Nawras (first slide)", current: `${SITE}/assets/hero/think-nawras.jpg` },
+  { key: "fire-fighting", label: "Firefighting Systems", current: `${SITE}/assets/hero/fire-fighting-env.jpg` },
+  { key: "fire-alarm", label: "Fire Alarm & Voice Evacuation Systems", current: `${SITE}/assets/hero/fire-alarm-env.jpg` },
+  { key: "emergency-lighting", label: "Emergency Lighting", current: `${SITE}/assets/hero/emergency-light-env.jpg` },
+  { key: "elv", label: "ELV Systems", current: `${SITE}/assets/hero/elv-cctv.jpg` },
+  { key: "smoke-management", label: "Smoke Management", current: `${SITE}/assets/hero/smoke-fan.jpg` },
 ];
 
 export default function AdminHome() {
   const [overrides, setOverrides] = useState({});
   const [loading, setLoading] = useState(true);
   const [savingKey, setSavingKey] = useState("");
+  const [error, setError] = useState("");
 
   async function load() {
     setLoading(true);
     const { data, error } = await supabase.from("home_hero_slides").select("*");
-    if (!error && data) {
+    if (error) setError(dbError(error));
+    else {
       const map = {};
-      for (const row of data) map[row.slide_key] = row.image_url;
+      for (const row of data || []) map[row.slide_key] = row.image_url;
       setOverrides(map);
     }
     setLoading(false);
@@ -32,16 +39,19 @@ export default function AdminHome() {
     else setLoading(false);
   }, []);
 
-  async function handleUpload(slotKey, label, url) {
-    setSavingKey(slotKey);
-    await supabase.from("home_hero_slides").upsert({ slide_key: slotKey, label, image_url: url });
-    setOverrides((o) => ({ ...o, [slotKey]: url }));
+  async function handleUpload(slot, url) {
+    setSavingKey(slot.key);
+    setError("");
+    const { error } = await supabase.from("home_hero_slides").upsert({ slide_key: slot.key, label: slot.label, image_url: url });
+    if (error) setError(dbError(error));
+    else setOverrides((o) => ({ ...o, [slot.key]: url }));
     setSavingKey("");
   }
 
   async function handleReset(slotKey) {
-    if (!confirm("Revert to the default image for this slide?")) return;
-    await supabase.from("home_hero_slides").delete().eq("slide_key", slotKey);
+    if (!confirm("Go back to the original picture for this slide?")) return;
+    const { error } = await supabase.from("home_hero_slides").delete().eq("slide_key", slotKey);
+    if (error) { setError(dbError(error)); return; }
     setOverrides((o) => {
       const next = { ...o };
       delete next[slotKey];
@@ -53,10 +63,7 @@ export default function AdminHome() {
     return (
       <>
         <h1 className="admin-h1">Home Page Pictures</h1>
-        <div className="admin-notice">
-          Supabase isn't connected yet. Connect it to manage these images — see{" "}
-          <code>supabase/README.md</code>.
-        </div>
+        <div className="admin-notice">Supabase isn't connected yet — see <code>supabase/README.md</code>.</div>
       </>
     );
   }
@@ -64,43 +71,36 @@ export default function AdminHome() {
   return (
     <>
       <h1 className="admin-h1">Home Page Pictures</h1>
-      <p className="admin-sub">
-        Replace the background image for each slide of the homepage hero carousel. Leave a slide
-        untouched to keep its default image.
-      </p>
+      <p className="admin-sub">The background picture of each slide in the home page carousel. Upload a new one to replace it.</p>
+      {error && <div className="admin-error" style={{ marginBottom: 14 }}>{error}</div>}
 
       {loading ? (
         <div className="admin-empty">Loading…</div>
       ) : (
-        SLOTS.map((slot) => (
-          <div className="admin-card" key={slot.key}>
-            <div className="admin-field-row">
-              <div>
-                <label style={{ display: "block", fontWeight: 600, fontSize: 13.5, marginBottom: 8 }}>
-                  {slot.label}
-                </label>
-                <ImageUploadField
-                  folder="home"
-                  value={overrides[slot.key] || null}
-                  onChange={(url) => handleUpload(slot.key, slot.label, url)}
-                />
-                {savingKey === slot.key && <div className="admin-hint">Saving…</div>}
-              </div>
-              <div>
-                {overrides[slot.key] ? (
-                  <>
-                    <div className="admin-hint" style={{ marginBottom: 8 }}>Custom image is live on the site.</div>
+        <div className="admin-pic-grid">
+          {SLOTS.map((slot) => {
+            const custom = overrides[slot.key];
+            const shown = custom || slot.current;
+            return (
+              <div className="admin-card admin-pic-card" key={slot.key}>
+                <div className="admin-pic-frame">
+                  <img src={shown} alt={slot.label} />
+                  <span className={`admin-pic-badge ${custom ? "is-custom" : ""}`}>{custom ? "Your picture" : "Original picture"}</span>
+                </div>
+                <div className="admin-pic-body">
+                  <h3>{slot.label}</h3>
+                  <ImageUploadField folder="home" value={null} onChange={(url) => handleUpload(slot, url)} />
+                  {savingKey === slot.key && <div className="admin-hint">Saving…</div>}
+                  {custom && (
                     <button className="admin-btn admin-btn-sm" onClick={() => handleReset(slot.key)}>
-                      Revert to default image
+                      Use the original picture again
                     </button>
-                  </>
-                ) : (
-                  <div className="admin-hint">Currently showing the default bundled image.</div>
-                )}
+                  )}
+                </div>
               </div>
-            </div>
-          </div>
-        ))
+            );
+          })}
+        </div>
       )}
     </>
   );

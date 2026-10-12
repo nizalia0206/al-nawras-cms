@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { supabase, supabaseConfigured } from "../lib/supabase";
+import { dbError } from "./dbError";
 
 // Must match DEFAULT_SETTINGS in the website's src/context/SiteSettingsContext.jsx.
 // Empty fields fall back to these on the website.
@@ -71,7 +72,7 @@ export default function AdminSettings() {
   useEffect(() => {
     if (!supabaseConfigured) { setLoading(false); return; }
     supabase.from("site_settings").select("data").eq("id", "main").maybeSingle().then(({ data, error }) => {
-      if (error) setError(error.message);
+      if (error) setError(dbError(error));
       else if (data?.data) setValues({ ...DEFAULT_SETTINGS, ...data.data });
       setLoading(false);
     });
@@ -92,7 +93,7 @@ export default function AdminSettings() {
     data.whatsapp = String(data.whatsapp || "").replace(/\D/g, "");
     const { error } = await supabase.from("site_settings").upsert({ id: "main", data, updated_at: new Date().toISOString() });
     setSaving(false);
-    if (error) setError(error.message);
+    if (error) setError(dbError(error));
     else { setValues(data); setMsg("Saved — changes are live on the website (refresh to see them)."); }
   }
 

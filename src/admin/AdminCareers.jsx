@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { supabase, supabaseConfigured } from "../lib/supabase";
+import { dbError } from "./dbError";
 
 const BLANK = {
   id: "",
@@ -59,7 +60,7 @@ export default function AdminCareers() {
     const { error } = await supabase.from("job_postings").upsert(payload);
     setSaving(false);
     if (error) {
-      setError(error.message);
+      setError(dbError(error));
       return;
     }
     setEditing(null);

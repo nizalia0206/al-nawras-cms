@@ -9,10 +9,12 @@ const LINKS = [
   { to: "/admin/systems", label: "Systems & Solutions" },
   { to: "/admin/home", label: "Home Page Pictures" },
   { to: "/admin/industries", label: "Sectors We Serve" },
+  { to: "/admin/partners", label: "Brand Partners" },
   { to: "/admin/team", label: "Our Team" },
   { to: "/admin/certifications", label: "Certifications" },
   { to: "/admin/careers", label: "Careers" },
   { to: "/admin/customers", label: "Customers" },
+  { to: "/admin/text", label: "Website Text" },
   { to: "/admin/settings", label: "Site Settings" },
 ];
 

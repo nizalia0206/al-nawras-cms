@@ -98,6 +98,8 @@ The CMS menu now has every editable part of the website:
 | Systems & Solutions | Equipment cards on each system page |
 | Home Page Pictures | Hero carousel images |
 | **Sectors We Serve** | Sliding sector cards on the home page |
+| **Brand Partners** | Sliding brand logos above the footer (logo, order, link) |
+| **Website Text** | Every heading, description and label on the website — English + Arabic |
 | **Our Team** | About → Our Team |
 | **Certifications** | Certifications on Home + About |
 | **Careers** | Job openings on the Careers page |
@@ -107,7 +109,7 @@ The CMS menu now has every editable part of the website:
 **One-time setup** (Supabase → SQL Editor → paste → Run), in this order if not done before:
 1. `supabase/customers_and_auth.sql` (skip if already run)
 2. `supabase/migration_careers.sql` (skip if already run)
-3. `supabase/migration_site_content.sql` — creates Sectors + Site Settings (pre-filled with what the
+3. `supabase/migration_site_content.sql` — creates Sectors, Brand Partners, Website Text + Site Settings (pre-filled with what the
    website shows today), makes sure the Team/Certifications tables exist, and makes every website
    sign-up appear automatically in **Customers** with its last sign-in time.
 
