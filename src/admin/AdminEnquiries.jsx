@@ -138,7 +138,7 @@ export default function AdminEnquiries() {
         ) : (
           <table className="admin-table">
             <thead>
-              <tr><th>Received</th><th>Name</th><th>Contact</th><th>Interested in</th><th>Status</th><th></th></tr>
+              <tr><th>Received</th><th>Name</th><th>Contact</th><th>Message</th><th>Status</th><th></th></tr>
             </thead>
             <tbody>
               {list.map((r) => {
@@ -156,7 +156,10 @@ export default function AdminEnquiries() {
                       <div>{r.email}</div>
                       {r.phone && <div className="admin-hint" style={{ margin: 0 }}>{r.phone}</div>}
                     </td>
-                    <td>{r.help_with || "—"}</td>
+                    <td style={{ maxWidth: 360 }}>
+                      {r.help_with && <div className="admin-enq-topic">{r.help_with}</div>}
+                      <div className="admin-enq-msg" dir={r.language === "ar" ? "rtl" : "ltr"}>{r.message}</div>
+                    </td>
                     <td>
                       <select className="admin-select" value={r.status} onClick={(e) => e.stopPropagation()} onChange={(e) => update(r.id, { status: e.target.value })} style={{ minWidth: 110 }}>
                         {STATUSES.map(([k, l]) => <option key={k} value={k}>{l}</option>)}
@@ -167,6 +170,7 @@ export default function AdminEnquiries() {
                   open === r.id && (
                     <tr key={r.id + "-d"}>
                       <td colSpan={6} style={{ background: "var(--a-paper)" }}>
+                        {r.help_with && <div className="admin-hint" style={{ margin: "0 0 6px" }}>Interested in: <b>{r.help_with}</b></div>}
                         <div style={{ whiteSpace: "pre-wrap", lineHeight: 1.6, marginBottom: 14 }} dir={r.language === "ar" ? "rtl" : "ltr"}>{r.message}</div>
                         <div className="admin-row-actions" style={{ flexWrap: "wrap", marginBottom: 14 }}>
                           <a className="admin-btn admin-btn-sm admin-btn-primary" href={`mailto:${r.email}?subject=${encodeURIComponent("Re: your enquiry to Al Nawras")}`} onClick={() => r.status === "new" && update(r.id, { status: "replied" })}>Reply by email</a>

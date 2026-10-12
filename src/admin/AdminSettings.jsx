@@ -1,6 +1,15 @@
 import { useEffect, useState } from "react";
 import { supabase, supabaseConfigured } from "../lib/supabase";
 import { dbError } from "./dbError";
+import ImageUploadField from "./ImageUploadField";
+
+const SITE = "https://al-nawras-website.vercel.app";
+// Where each logo appears, the original file, and the background it sits on.
+const LOGOS = [
+  ["logo_header", "Header logo", "Top of every page on a white background (inner pages, scrolled header, mobile menu).", `${SITE}/assets/brand/logo-full.png`, "#ffffff"],
+  ["logo_header_light", "Header logo over the home-page photo", "Shown at the top of the home page before scrolling. Use a version that reads well on a photo.", `${SITE}/assets/brand/logo-full-light.png`, "linear-gradient(135deg,#5c93b3,#78b0d0)"],
+  ["logo_footer", "Footer logo", "Bottom of every page on dark navy — no white box. Use a version with light text and a transparent background (PNG/SVG).", `${SITE}/assets/brand/logo-full-light.png`, "#0a1e3a"],
+];
 
 // Must match DEFAULT_SETTINGS in the website's src/context/SiteSettingsContext.jsx.
 // Empty fields fall back to these on the website.
@@ -20,6 +29,9 @@ const DEFAULT_SETTINGS = {
   stat_brands: 6,
   stat_sectors: 10,
   stat_emirates: 7,
+  logo_header: "",
+  logo_header_light: "",
+  logo_footer: "",
 };
 
 const SECTIONS = [
@@ -109,11 +121,31 @@ export default function AdminSettings() {
   return (
     <>
       <h1 className="admin-h1">Site Settings</h1>
-      <p className="admin-sub">Contact details, WhatsApp, social links and the headline numbers used across the website.</p>
+      <p className="admin-sub">Logos, contact details, WhatsApp, social links and the headline numbers used across the website.</p>
       {loading ? (
         <div className="admin-card"><div className="admin-empty">Loading…</div></div>
       ) : (
         <form onSubmit={save}>
+          <div className="admin-card" style={{ marginBottom: 16 }}>
+            <h3 style={{ margin: "0 0 4px", fontSize: 15 }}>Logos</h3>
+            <div className="admin-hint" style={{ marginBottom: 14 }}>Upload a new logo, then press <b>Save Settings</b> at the bottom. Transparent PNG or SVG works best.</div>
+            <div className="admin-logo-grid">
+              {LOGOS.map(([k, label, hint, original, bg]) => (
+                <div key={k} className="admin-logo-item">
+                  <div className="admin-logo-preview" style={{ background: bg }}>
+                    <img src={values[k] || original} alt={label} />
+                    <span className={`admin-pic-badge ${values[k] ? "is-custom" : ""}`}>{values[k] ? "Your logo" : "Original logo"}</span>
+                  </div>
+                  <strong style={{ fontSize: 13.5 }}>{label}</strong>
+                  <div className="admin-hint" style={{ margin: "2px 0 8px" }}>{hint}</div>
+                  <ImageUploadField folder="logos" value={null} onChange={(url) => set(k, url)} />
+                  {values[k] && (
+                    <button type="button" className="admin-btn admin-btn-sm" onClick={() => set(k, "")}>Use the original logo</button>
+                  )}
+                </div>
+              ))}
+            </div>
+          </div>
           {SECTIONS.map((s) => (
             <div className="admin-card" key={s.title} style={{ marginBottom: 16 }}>
               <h3 style={{ margin: "0 0 4px", fontSize: 15 }}>{s.title}</h3>

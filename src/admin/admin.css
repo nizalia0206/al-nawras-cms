@@ -205,3 +205,13 @@
 .admin-text-head strong { font-size: 13.5px; }
 .admin-text-head code { font-size: 11px; color: var(--a-slate); background: var(--a-paper); padding: 2px 6px; border-radius: 4px; margin-left: auto; }
 .admin-text-badge { font-size: 10.5px; font-weight: 700; color: #fff; background: var(--a-flame); padding: 2px 8px; border-radius: 999px; text-transform: uppercase; letter-spacing: .04em; }
+
+/* ---------- Enquiries: message preview in the list ---------- */
+.admin-enq-topic { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: var(--a-flame); margin-bottom: 3px; }
+.admin-enq-msg { font-size: 13px; line-height: 1.5; color: var(--a-ink, #131c33); font-weight: 400; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; white-space: pre-wrap; }
+
+/* ---------- Site Settings: logos ---------- */
+.admin-logo-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+.admin-logo-item { display: flex; flex-direction: column; }
+.admin-logo-preview { position: relative; height: 130px; border-radius: 10px; border: 1px solid var(--a-line); display: flex; align-items: center; justify-content: center; padding: 34px 20px 16px; margin-bottom: 10px; }
+.admin-logo-preview img { max-height: 70px; max-width: 100%; object-fit: contain; }
