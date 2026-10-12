@@ -31,6 +31,30 @@ export default function AdminDashboard() {
           <h3>Home Page Pictures</h3>
           <p>Replace the 6 hero carousel images on the homepage.</p>
         </Link>
+        <Link className="admin-link-card" to="/admin/industries">
+          <h3>Sectors We Serve</h3>
+          <p>The sliding sector cards on the home page — name, picture and order.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/team">
+          <h3>Our Team</h3>
+          <p>Manage the team members shown on the "Our Team" page.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/certifications">
+          <h3>Certifications</h3>
+          <p>Manage licenses &amp; certifications shown on the homepage and About page.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/careers">
+          <h3>Careers</h3>
+          <p>Add, edit or close the job openings on the Careers page.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/customers">
+          <h3>Customers</h3>
+          <p>Everyone who registered / signs in on the website. Search and export to CSV.</p>
+        </Link>
+        <Link className="admin-link-card" to="/admin/settings">
+          <h3>Site Settings</h3>
+          <p>Phone numbers, email, WhatsApp, social links and the headline numbers.</p>
+        </Link>
       </div>
     </>
   );

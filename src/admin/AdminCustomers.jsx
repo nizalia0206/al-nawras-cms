@@ -34,13 +34,14 @@ export default function AdminCustomers() {
 
   function exportCsv() {
     const rows = [
-      ["Full Name", "Email", "Phone", "Company", "Registered"],
+      ["Full Name", "Email", "Phone", "Company", "Registered", "Last sign-in"],
       ...filtered.map((c) => [
         c.full_name || "",
         c.email || "",
         c.phone || "",
         c.company || "",
         c.created_at ? new Date(c.created_at).toLocaleString() : "",
+        c.last_sign_in_at ? new Date(c.last_sign_in_at).toLocaleString() : "",
       ]),
     ];
     const csv = rows
@@ -70,7 +71,7 @@ export default function AdminCustomers() {
   return (
     <>
       <h1 className="admin-h1">Customers</h1>
-      <p className="admin-sub">Everyone who has registered an account on the public site via Sign In / Register.</p>
+      <p className="admin-sub">Everyone who has registered on the website (Register / Sign In) — these are the customers who log in. New sign-ups appear here automatically.</p>
 
       <div className="admin-toolbar">
         <input
@@ -110,6 +111,7 @@ export default function AdminCustomers() {
                 <th>Phone</th>
                 <th>Company</th>
                 <th>Registered</th>
+                <th>Last sign-in</th>
               </tr>
             </thead>
             <tbody>
@@ -120,6 +122,7 @@ export default function AdminCustomers() {
                   <td>{c.phone || "—"}</td>
                   <td>{c.company || "—"}</td>
                   <td>{c.created_at ? new Date(c.created_at).toLocaleDateString() : "—"}</td>
+                  <td>{c.last_sign_in_at ? new Date(c.last_sign_in_at).toLocaleString() : "—"}</td>
                 </tr>
               ))}
             </tbody>

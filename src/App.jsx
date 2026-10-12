@@ -24,6 +24,12 @@ import AdminProducts from "./admin/AdminProducts";
 import AdminProjects from "./admin/AdminProjects";
 import AdminSystems from "./admin/AdminSystems";
 import AdminHome from "./admin/AdminHome";
+import AdminTeam from "./admin/AdminTeam";
+import AdminCertifications from "./admin/AdminCertifications";
+import AdminCareers from "./admin/AdminCareers";
+import AdminCustomers from "./admin/AdminCustomers";
+import AdminIndustries from "./admin/AdminIndustries";
+import AdminSettings from "./admin/AdminSettings";
 
 export default function App() {
   return (
@@ -62,6 +68,12 @@ export default function App() {
           <Route path="projects" element={<AdminProjects />} />
           <Route path="systems" element={<AdminSystems />} />
           <Route path="home" element={<AdminHome />} />
+          <Route path="industries" element={<AdminIndustries />} />
+          <Route path="team" element={<AdminTeam />} />
+          <Route path="certifications" element={<AdminCertifications />} />
+          <Route path="careers" element={<AdminCareers />} />
+          <Route path="customers" element={<AdminCustomers />} />
+          <Route path="settings" element={<AdminSettings />} />
         </Route>
       </Routes>
     </AuthProvider>

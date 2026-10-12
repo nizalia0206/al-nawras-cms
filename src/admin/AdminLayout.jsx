@@ -8,6 +8,12 @@ const LINKS = [
   { to: "/admin/projects", label: "Projects" },
   { to: "/admin/systems", label: "Systems & Solutions" },
   { to: "/admin/home", label: "Home Page Pictures" },
+  { to: "/admin/industries", label: "Sectors We Serve" },
+  { to: "/admin/team", label: "Our Team" },
+  { to: "/admin/certifications", label: "Certifications" },
+  { to: "/admin/careers", label: "Careers" },
+  { to: "/admin/customers", label: "Customers" },
+  { to: "/admin/settings", label: "Site Settings" },
 ];
 
 export default function AdminLayout() {
@@ -32,7 +38,7 @@ export default function AdminLayout() {
             </NavLink>
           ))}
           <div className="bottom">
-            <a className="view-site" href="/" target="_blank" rel="noreferrer">View live site ↗</a>
+            <a className="view-site" href="https://al-nawras-website.vercel.app/" target="_blank" rel="noreferrer">View live site ↗</a>
             <button className="signout-btn" onClick={signOut}>Sign out</button>
           </div>
         </aside>

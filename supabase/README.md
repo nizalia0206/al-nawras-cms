@@ -87,9 +87,46 @@ description, optional brand tag), with new pictures. If your Supabase project al
 > Why step 2 matters: the public site shows whatever is in the `system_images` table and only
 > falls back to the bundled pictures when the table is empty for a system.
 
+## 6c. Sectors, Site Settings, Team, Certifications, Careers & Customers (October 2026)
+
+The CMS menu now has every editable part of the website:
+
+| CMS page | What it controls on the website |
+|---|---|
+| Products | Catalog, product pages |
+| Projects | Projects page |
+| Systems & Solutions | Equipment cards on each system page |
+| Home Page Pictures | Hero carousel images |
+| **Sectors We Serve** | Sliding sector cards on the home page |
+| **Our Team** | About → Our Team |
+| **Certifications** | Certifications on Home + About |
+| **Careers** | Job openings on the Careers page |
+| **Customers** | Everyone who registered / signs in on the website (search + CSV export) |
+| **Site Settings** | Phone numbers, email, WhatsApp number, social links, headline numbers |
+
+**One-time setup** (Supabase → SQL Editor → paste → Run), in this order if not done before:
+1. `supabase/customers_and_auth.sql` (skip if already run)
+2. `supabase/migration_careers.sql` (skip if already run)
+3. `supabase/migration_site_content.sql` — creates Sectors + Site Settings (pre-filled with what the
+   website shows today), makes sure the Team/Certifications tables exist, and makes every website
+   sign-up appear automatically in **Customers** with its last sign-in time.
+
+**New partner products** (Honeywell / Teknoware / Uranus from the datasheets):
+```
+node --env-file=.env supabase/seed-partner-products.mjs            # preview
+node --env-file=.env supabase/seed-partner-products.mjs --apply    # replace those 3 brands (backup saved first)
+```
+
+**Admin vs customer accounts:** only accounts with `profiles.is_admin = true` can open the CMS.
+Customers who register on the website can't. To make a new admin:
+```
+update profiles set is_admin = true
+where id = (select id from auth.users where email = 'admin@alnawras.com');
+```
+
 ## 7. Sign in and start editing
 
-Visit `/admin` on your site, sign in with the user you created in step 5, and you're set.
+Visit https://al-nawras-cms.vercel.app/admin (the website's `/admin` also redirects there), sign in with the user you created in step 5, and you're set.
 
 ---
 

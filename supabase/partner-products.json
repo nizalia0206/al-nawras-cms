@@ -1,0 +1,3383 @@
+[
+ {
+  "id": "honeywell-ifp-2100ecs",
+  "name": "Honeywell Farenhyt IFP-2100ECS Fire Alarm Control Panel with ECS",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-ifp-2100ecs.jpg"
+  ],
+  "short": "Analog/addressable fire alarm panel with integrated Emergency Communication System.",
+  "description": "The IFP-2100ECS (red) and IFP-2100ECSB (black) are intelligent analog/addressable fire alarm control panels combined with an Emergency Communication System, meeting UL 2572 mass notification requirements. One built-in SLC supports 159 IDP/SK sensors and 159 modules (or 127 Hochiki SD devices), expandable to 2,100 points per panel, with networking of up to 32 panels.",
+  "specs": [
+   [
+    "Panel type",
+    "Analog/addressable FACP + voice evacuation (ECS)"
+   ],
+   [
+    "Capacity",
+    "Up to 2,100 points per panel"
+   ],
+   [
+    "Networking",
+    "Up to 32 panels"
+   ],
+   [
+    "Flexput circuits",
+    "8 on-board"
+   ],
+   [
+    "Power",
+    "120 VAC (240 VAC HV model), 9 A accessory load"
+   ],
+   [
+    "Dimensions",
+    "548 x 714 x 128 mm (21.59 x 28.10 x 5.05 in)"
+   ],
+   [
+    "Colour",
+    "Red (ECS) / Black (ECSB)"
+   ]
+  ],
+  "tags": [
+   "fire panel",
+   "addressable",
+   "voice evacuation",
+   "mass notification",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-ifp-2100",
+  "name": "Honeywell Farenhyt IFP-2100 / RFP-2100 Fire Alarm Control Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-ifp-2100.jpg"
+  ],
+  "short": "Scalable analog/addressable fire alarm control panel, networkable to 32 sites.",
+  "description": "The IFP-2100 (red) and IFP-2100B (black) are intelligent analog/addressable fire alarm control panels supporting 159 IDP/SK sensors plus 159 modules per loop, expandable to 2,100 points. The RFP-2100 is the same panel without a display, for networked systems with at least one IFP-2100. Includes eight Flexput circuits, a dual-line DACT with IP or optional cellular reporting, and detector sensitivity, drift compensation and pre-trouble maintenance alerts.",
+  "specs": [
+   [
+    "Panel type",
+    "Analog/addressable FACP"
+   ],
+   [
+    "Capacity",
+    "Up to 2,100 points (IDP/SK)"
+   ],
+   [
+    "Networking",
+    "Up to 32 sites"
+   ],
+   [
+    "Communicator",
+    "Dual-line DACT, IP, optional cellular"
+   ],
+   [
+    "Power",
+    "120 VAC / 240 VAC (HV), 9 A @ 24 VDC accessory load"
+   ],
+   [
+    "Dimensions",
+    "671 x 417 x 104 mm (26.4 x 16.4 x 4.11 in)"
+   ],
+   [
+    "Colour",
+    "Red / Black"
+   ]
+  ],
+  "tags": [
+   "fire panel",
+   "addressable",
+   "networked",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-ifp-75",
+  "name": "Honeywell Farenhyt IFP-75 Series Fire Alarm Control Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-ifp-75.jpg"
+  ],
+  "short": "Intelligent addressable fire panel with built-in SLC, Flexput circuits and communicator.",
+  "description": "The IFP-75 Series is an intelligent addressable fire alarm control panel from Honeywell's Farenhyt line and a direct replacement for the IFP-50. One SLC supports 75 IDP/SK sensors and 75 modules (150 points) or 75 Hochiki SD devices, with networking of up to 32 panels over copper or fibre. A dual-technology (IP and POTS) DACT reports to a central station, with optional cellular reporting.",
+  "specs": [
+   [
+    "SLC loops",
+    "1"
+   ],
+   [
+    "Device capacity",
+    "150 (IDP/SK) or 75 (SD)"
+   ],
+   [
+    "Software zones",
+    "125"
+   ],
+   [
+    "Networking",
+    "Up to 32 panels"
+   ],
+   [
+    "Power",
+    "120 VAC 1.5 A / 240 VAC 1 A (HV)"
+   ],
+   [
+    "Dimensions",
+    "323 x 384 x 85 mm"
+   ],
+   [
+    "Colour",
+    "Red / Black"
+   ]
+  ],
+  "tags": [
+   "fire panel",
+   "addressable",
+   "communicator",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-ra-1000",
+  "name": "Honeywell Farenhyt RA-1000 Remote Annunciator",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-ra-1000.jpg"
+  ],
+  "short": "Remote annunciator to operate and program IFP-series fire alarm panels.",
+  "description": "The RA-1000 remote annunciator matches the keypad and display of the IFP-1000 control panel and connects over the RS-485 system bus. It allows users to view alarms, supervisories and troubles, silence and reset the system, and start fire drills with a single key press, up to 6,000 ft from the panel.",
+  "specs": [
+   [
+    "Display",
+    "80-character backlit LCD (4 x 20)"
+   ],
+   [
+    "Interface",
+    "RS-485 SBUS"
+   ],
+   [
+    "Status LEDs",
+    "Alarm, supervisory, trouble, silence, AC power"
+   ],
+   [
+    "Mounting",
+    "Surface or flush"
+   ],
+   [
+    "Wiring distance",
+    "Up to 6,000 ft from FACP"
+   ],
+   [
+    "Dimensions",
+    "231 x 188 x 38 mm"
+   ],
+   [
+    "Compliance",
+    "UL listed, NFPA 72"
+   ]
+  ],
+  "tags": [
+   "annunciator",
+   "remote display",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-ecs-dual50w",
+  "name": "Honeywell Farenhyt ECS-DUAL50W 50/100 W Dual Channel Amplifier",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-ecs-dual50w.jpg"
+  ],
+  "short": "Intelligent 50/100 W voice evacuation amplifier with optional backup.",
+  "description": "The ECS-DUAL50W (red) and ECS-DUAL50WB (black) are intelligent 50/100 W amplifiers for IFP ECS voice evacuation panels. Each has its own power supply with battery backup and eight speaker circuits, and is fully supervised by the main panel. Up to 16 amplifiers can be used per IFP-2100ECS system for a maximum of 1,600 W.",
+  "specs": [
+   [
+    "Output",
+    "100 W single channel or 2 x 50 W dual channel"
+   ],
+   [
+    "Backup",
+    "Optional ECS-50WBU backup amplifier"
+   ],
+   [
+    "Speaker circuits",
+    "8"
+   ],
+   [
+    "Bandwidth",
+    "400 Hz – 4,000 Hz"
+   ],
+   [
+    "Power",
+    "120 VAC or 240 VAC"
+   ],
+   [
+    "Distance",
+    "Up to 6,000 ft from panel"
+   ],
+   [
+    "Listings",
+    "UL 864, UL 2572"
+   ]
+  ],
+  "tags": [
+   "amplifier",
+   "voice evacuation",
+   "ECS",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-rps-1000",
+  "name": "Honeywell Farenhyt RPS-1000 6 A Intelligent Distributed Power Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-rps-1000.jpg"
+  ],
+  "short": "Adds 6 A of power, six Flexput circuits and two relays to a Farenhyt system.",
+  "description": "The RPS-1000 intelligent distributed power module adds 6.0 A of power, six Flexput I/O circuits and two Form C relays to a compatible Farenhyt addressable system. It connects over the RS-485 SBUS with up to 6,000 ft of additional wiring, is optically isolated for ground-loop and transient protection, and supports its own backup battery.",
+  "specs": [
+   [
+    "Output power",
+    "6.0 A @ 24 VDC"
+   ],
+   [
+    "Flexput circuits",
+    "6 (NAC, aux power or initiating)"
+   ],
+   [
+    "Relays",
+    "2 x Form C, 2.5 A @ 24 VDC"
+   ],
+   [
+    "Interface",
+    "RS-485 SBUS, Class A or B"
+   ],
+   [
+    "Power",
+    "120 V 2.5 A / 240 V 1.4 A"
+   ],
+   [
+    "Dimensions",
+    "409 x 671 x 104 mm"
+   ],
+   [
+    "Colour",
+    "Red / Black"
+   ]
+  ],
+  "tags": [
+   "power supply",
+   "NAC extender",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-idp-photo-w",
+  "name": "Honeywell Farenhyt IDP-PHOTO-W Intelligent Photoelectric Smoke Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-idp-photo-w.jpg"
+  ],
+  "short": "Intelligent plug-in photoelectric smoke detector with modern low-profile design.",
+  "description": "The IDP-PHOTO-W Series intelligent plug-in smoke detectors combine a sleek contemporary design with an enhanced optical sensing chamber that responds to a wide range of combustion sources. Sensitivity is programmed and continuously monitored by the panel, and rotary decimal address switches give exact detector location. Variants include IDP-PHOTO-T with 57°C thermal sensing and IDP-PHOTO-R for duct housings.",
+  "specs": [
+   [
+    "Detection",
+    "Photoelectric smoke (thermal option 57°C)"
+   ],
+   [
+    "Addressing",
+    "Rotary decimal switches"
+   ],
+   [
+    "Indicators",
+    "Dual LED, 360° viewing"
+   ],
+   [
+    "Operating temp.",
+    "0°C to 50°C"
+   ],
+   [
+    "Diameter",
+    "156 mm in B300-6 base"
+   ],
+   [
+    "Height",
+    "51 mm"
+   ],
+   [
+    "Compatible panels",
+    "Farenhyt IFP series"
+   ]
+  ],
+  "tags": [
+   "smoke detector",
+   "photoelectric",
+   "addressable",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-idp-heat-w",
+  "name": "Honeywell Farenhyt IDP-HEAT-W Intelligent Heat Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-idp-heat-w.jpg"
+  ],
+  "short": "Intelligent thermal detector in fixed, rate-of-rise and high-temperature versions.",
+  "description": "The IDP-HEAT-W Series intelligent thermal detectors offer advanced thermal technology for fast response in a sleek, contemporary housing. The series includes a 57°C (135°F) fixed-temperature model, a rate-of-rise model (8.3°C per minute) and an 88°C (190°F) high-temperature model, each individually addressable on a two-wire SLC.",
+  "specs": [
+   [
+    "Models",
+    "Fixed 57°C, rate-of-rise, high-temp 88°C"
+   ],
+   [
+    "Rate of rise",
+    "8.3°C (15°F) per minute"
+   ],
+   [
+    "Indicators",
+    "Two bi-colour LEDs, 360°"
+   ],
+   [
+    "Wiring",
+    "Two-wire SLC"
+   ],
+   [
+    "Diameter",
+    "156 mm in B300-6 base"
+   ],
+   [
+    "Height",
+    "51 mm"
+   ]
+  ],
+  "tags": [
+   "heat detector",
+   "thermal",
+   "addressable",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-b200s",
+  "name": "Honeywell B200S / B200S-LF Intelligent Sounder Base",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-b200s.jpg"
+  ],
+  "short": "Addressable sounder base, including low-frequency 520 Hz version for sleeping areas.",
+  "description": "The B200S sounder base adopts the address of the attached detector as a unique device type, so the panel can sound individual bases or groups. It supports System Sensor synchronisation for general evacuation. The B200S-LF low-frequency version produces the 520 Hz tone required by NFPA 72 for sleeping spaces.",
+  "specs": [
+   [
+    "Type",
+    "Intelligent addressable sounder base"
+   ],
+   [
+    "Low-frequency model",
+    "B200S-LF, 520 Hz"
+   ],
+   [
+    "Standards",
+    "UL 268, UL 464"
+   ],
+   [
+    "Sync",
+    "System Sensor sync protocol"
+   ],
+   [
+    "Width",
+    "175 mm"
+   ],
+   [
+    "Height",
+    "51 mm (without sensor)"
+   ]
+  ],
+  "tags": [
+   "sounder base",
+   "notification",
+   "low frequency"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-b501bh-3-s",
+  "name": "Honeywell B501BH-3-S Sounder Base",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-b501bh-3-s.jpg"
+  ],
+  "short": "Sounder base with built-in isolator for hotel rooms and similar spaces.",
+  "description": "The B501BH-3 series sounder base replaces the standard detector base where a local sound alarm is needed, such as hotel rooms. DIP switches select Temporal-3 or continuous tones, high or low volume, loop or external 24 VDC power, and independent or synchronised mode. A built-in isolator protects the rest of the SLC if a short circuit occurs at the spot.",
+  "specs": [
+   [
+    "Tones",
+    "ANSI Temporal-3 or continuous"
+   ],
+   [
+    "Output",
+    ">85 dB at 3 m"
+   ],
+   [
+    "Power",
+    "Loop powered or external 24 VDC"
+   ],
+   [
+    "Isolator",
+    "Built-in"
+   ],
+   [
+    "Mounting",
+    "86 mm back box"
+   ],
+   [
+    "Versions",
+    "B501BH-3-S / B501BH-3/W-S"
+   ]
+  ],
+  "tags": [
+   "sounder base",
+   "isolator",
+   "hotel"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-idp-pull",
+  "name": "Honeywell Farenhyt IDP-PULL-SA / IDP-PULL-DA Addressable Pull Station",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-idp-pull.jpg"
+  ],
+  "short": "Addressable single-action and dual-action manual pull stations.",
+  "description": "The IDP-PULL-SA (single action) and IDP-PULL-DA (dual action) addressable pull stations work with Honeywell Farenhyt panels. Installers can open the station without causing an alarm, and a dual-colour LED visible through the handle blinks green in normal operation and turns steady red on alarm.",
+  "specs": [
+   [
+    "Versions",
+    "Single action (SA) / Dual action (DA)"
+   ],
+   [
+    "Housing",
+    "LEXAN polycarbonate"
+   ],
+   [
+    "LED",
+    "Blinking green normal, steady red alarm"
+   ],
+   [
+    "Mounting",
+    "Surface (SB-I/O) or semi-flush"
+   ],
+   [
+    "Dimensions",
+    "140 x 102 mm"
+   ],
+   [
+    "Compatible panels",
+    "Farenhyt IFP series"
+   ]
+  ],
+  "tags": [
+   "pull station",
+   "manual call point",
+   "addressable",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-series-horn-strobe",
+  "name": "System Sensor L-Series Indoor Horns, Strobes & Horn Strobes",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-series-horn-strobe.jpg"
+  ],
+  "short": "Indoor LED horn strobes with field-selectable candela, tone and volume.",
+  "description": "System Sensor L-Series and L-Series with LED notification appliances cut installation time with plug-in mounting plates, rotary switches for candela, tone and volume, and lower LED current draw. Available in standard and compact sizes for wall or ceiling use, and electrically compatible with legacy SpectrAlert devices.",
+  "specs": [
+   [
+    "Type",
+    "Horn, strobe, horn strobe"
+   ],
+   [
+    "Wall candela",
+    "15, 30, 75, 95, 110, 135, 185"
+   ],
+   [
+    "Ceiling candela",
+    "15, 30, 75, 95, 115, 150, 177"
+   ],
+   [
+    "Light source",
+    "LED"
+   ],
+   [
+    "Mounting",
+    "Wall or ceiling"
+   ],
+   [
+    "Sync",
+    "System Sensor sync / MDL3"
+   ]
+  ],
+  "tags": [
+   "horn strobe",
+   "notification",
+   "system sensor",
+   "LED"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-spectralert-mini-horn",
+  "name": "System Sensor SpectrAlert Advance Mini-Horn MHR1 / MHW1",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-spectralert-mini-horn.jpg"
+  ],
+  "short": "Compact 12/24 V mini-horn for hotels, motels and residential applications.",
+  "description": "The SpectrAlert Advance MHR1 (red) and MHW1 (white) mini-horns provide primary and secondary signalling for fire and security applications. They operate at 12 or 24 V, mount on a single-gang back box, and are compatible with the MDL sync module.",
+  "specs": [
+   [
+    "Models",
+    "MHR1 (red) / MHW1 (white)"
+   ],
+   [
+    "Voltage",
+    "12 V or 24 V"
+   ],
+   [
+    "Mounting",
+    "Single-gang back box, wall or ceiling"
+   ],
+   [
+    "Operating temp.",
+    "0°C to 49°C"
+   ],
+   [
+    "Sync",
+    "MDL sync module"
+   ],
+   [
+    "Listing",
+    "UL 464"
+   ]
+  ],
+  "tags": [
+   "horn",
+   "mini horn",
+   "notification",
+   "system sensor"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-ri-007c",
+  "name": "Honeywell RI/007C Remote Response Indicator",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-ri-007c.jpg"
+  ],
+  "short": "Remote LED indicator showing alarms from concealed detectors.",
+  "description": "Honeywell RI/007C response indicators connect to conventional or addressable detectors that are hidden or hard to reach, giving quick visual indication of the source of an alarm. A rugged industrial design with a high-brightness, wide-angle LED.",
+  "specs": [
+   [
+    "Mounting",
+    "Flush or wall mount"
+   ],
+   [
+    "LED",
+    "High brightness, wide viewing angle"
+   ],
+   [
+    "Operating voltage",
+    "5 – 28 VDC"
+   ],
+   [
+    "Current",
+    "<15 mA @ 12 VDC"
+   ],
+   [
+    "Life",
+    "Up to 100,000 hours"
+   ]
+  ],
+  "tags": [
+   "remote indicator",
+   "LED",
+   "detector accessory"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-idp-minimon",
+  "name": "Honeywell Farenhyt IDP-MINIMON Addressable Mini Monitor Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-idp-minimon.jpg"
+  ],
+  "short": "Compact single-input monitor module for contact devices.",
+  "description": "The IDP-MINIMON is a compact, lightweight addressable monitor module that interfaces contact devices such as waterflow switches and pull stations, and can monitor conventional 4-wire smoke detectors. Its small size allows it to sit in a single-gang box directly behind the monitored device.",
+  "specs": [
+   [
+    "Inputs",
+    "1 contact monitor, Class B"
+   ],
+   [
+    "Addressing",
+    "Rotary switches"
+   ],
+   [
+    "Operating voltage",
+    "15 – 32 VDC"
+   ],
+   [
+    "Dimensions",
+    "33 x 70 x 13 mm"
+   ],
+   [
+    "Weight",
+    "37 g"
+   ],
+   [
+    "Listings",
+    "UL, CSFM, MEA"
+   ]
+  ],
+  "tags": [
+   "monitor module",
+   "input module",
+   "addressable",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-idp-monitor-2",
+  "name": "Honeywell Farenhyt IDP-MONITOR-2 Addressable Dual Monitor Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-idp-monitor-2.jpg"
+  ],
+  "short": "Dual-input monitor module, ideal for waterflow and tamper switches.",
+  "description": "The IDP-MONITOR-2 addressable monitor module has two initiating circuits with unique addresses, supporting Class B supervised wiring. It is ideal for monitoring waterflow and tamper switches, and can also monitor conventional 4-wire smoke detectors.",
+  "specs": [
+   [
+    "Inputs",
+    "2, unique addresses, Class B"
+   ],
+   [
+    "Operating voltage",
+    "15 – 32 VDC"
+   ],
+   [
+    "Max current",
+    "6.4 mA (LED on)"
+   ],
+   [
+    "EOL resistance",
+    "47 kΩ"
+   ],
+   [
+    "Mounting",
+    "4 in square box"
+   ],
+   [
+    "Dimensions",
+    "114 x 102 x 32 mm"
+   ]
+  ],
+  "tags": [
+   "monitor module",
+   "dual input",
+   "addressable",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-idp-relay",
+  "name": "Honeywell Farenhyt IDP-RELAY Addressable Relay Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-idp-relay.jpg"
+  ],
+  "short": "Addressable relay module with two Form C contacts.",
+  "description": "The IDP-RELAY lets a Farenhyt fire alarm panel switch discrete contacts by command. It has two isolated sets of Form C contacts operating as a DPDT switch, suitable for almost any normally open or normally closed application, each with a unique SLC address.",
+  "specs": [
+   [
+    "Contacts",
+    "2 x Form C (DPDT)"
+   ],
+   [
+    "Rating",
+    "3.0 A @ 30 VDC resistive"
+   ],
+   [
+    "Operating voltage",
+    "15 – 32 VDC"
+   ],
+   [
+    "Standby current",
+    "300 µA max @ 24 VDC"
+   ],
+   [
+    "Mounting",
+    "4 in square box"
+   ],
+   [
+    "Weight",
+    "196 g"
+   ]
+  ],
+  "tags": [
+   "relay module",
+   "output module",
+   "addressable",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-idp-iso",
+  "name": "Honeywell Farenhyt IDP-ISO Line Isolator Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-idp-iso.jpg"
+  ],
+  "short": "SLC loop isolator that keeps the loop working during a short circuit.",
+  "description": "The IDP-ISO automatically opens when SLC line voltage drops below 4 V, isolating the devices between two isolators during a short so the rest of the loop keeps operating. Isolators should be placed between groups of no more than 25 devices.",
+  "specs": [
+   [
+    "Function",
+    "SLC short-circuit isolation"
+   ],
+   [
+    "Operating voltage",
+    "15 – 32 VDC"
+   ],
+   [
+    "Fault threshold",
+    "4 V"
+   ],
+   [
+    "Restoration threshold",
+    "7 V"
+   ],
+   [
+    "Standby current",
+    "450 µA max"
+   ],
+   [
+    "Mounting",
+    "4 in square box"
+   ]
+  ],
+  "tags": [
+   "isolator",
+   "loop protection",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-series-outdoor-speaker",
+  "name": "System Sensor L-Series Outdoor Speakers & Speaker Strobes",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-series-outdoor-speaker.jpg"
+  ],
+  "short": "Weatherproof outdoor speakers and LED speaker strobes, NEMA 4X / IP56.",
+  "description": "System Sensor L-Series outdoor speakers and LED speaker strobes are weatherproof to NEMA 4X and IP56 and rated from -40°C to 66°C. Rotary switches set candela, speaker voltage (25 or 70.7 Vrms) and power taps, and units are compatible with legacy SpectrAlert devices.",
+  "specs": [
+   [
+    "Protection",
+    "NEMA 4X, IP56"
+   ],
+   [
+    "Temperature",
+    "-40°C to 66°C"
+   ],
+   [
+    "Speaker voltage",
+    "25 / 70.7 Vrms"
+   ],
+   [
+    "Power taps",
+    "¼, ½, 1, 2 W"
+   ],
+   [
+    "Wall candela",
+    "15 – 185"
+   ],
+   [
+    "Mounting",
+    "Wall or ceiling"
+   ]
+  ],
+  "tags": [
+   "speaker strobe",
+   "outdoor",
+   "notification",
+   "system sensor"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-series-speaker-strobe",
+  "name": "System Sensor L-Series Indoor Speakers & Speaker Strobes",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-series-speaker-strobe.jpg"
+  ],
+  "short": "Indoor speakers and LED speaker strobes with selectable candela and power.",
+  "description": "System Sensor L-Series speakers and LED speaker strobes share the common L-Series design with tamper-resistant construction, DVM test points and plug-in mounting plates. Rotary switches select candela, speaker voltage and power settings for wall or ceiling installations.",
+  "specs": [
+   [
+    "Speaker voltage",
+    "25 / 70.7 Vrms"
+   ],
+   [
+    "Power taps",
+    "¼, ½, 1, 2 W"
+   ],
+   [
+    "Wall candela",
+    "15, 30, 75, 95, 110, 135, 185"
+   ],
+   [
+    "Ceiling candela",
+    "15, 30, 75, 95, 115, 150, 177"
+   ],
+   [
+    "Operating temp.",
+    "0°C to 49°C"
+   ],
+   [
+    "Operating voltage",
+    "16 – 33 VDC"
+   ]
+  ],
+  "tags": [
+   "speaker strobe",
+   "voice evacuation",
+   "notification",
+   "system sensor"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-series-outdoor-horn",
+  "name": "System Sensor L-Series Outdoor Horns, Strobes & Horn Strobes",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-series-outdoor-horn.jpg"
+  ],
+  "short": "Weatherproof outdoor horns and LED strobes for wall or ceiling use.",
+  "description": "System Sensor L-Series outdoor horns, strobes and horn strobes are weatherproof to NEMA 4X and IP56 as standalone devices and rated from -40°C to 66°C. Rotary switches set candela, horn tone and volume, with tamper-resistant construction for wall or ceiling mounting.",
+  "specs": [
+   [
+    "Protection",
+    "NEMA 4X, IP56"
+   ],
+   [
+    "Temperature",
+    "-40°C to 66°C"
+   ],
+   [
+    "Wall candela",
+    "15 – 185"
+   ],
+   [
+    "Ceiling candela",
+    "15 – 177"
+   ],
+   [
+    "Operating voltage",
+    "16 – 33 VDC"
+   ],
+   [
+    "Sync",
+    "System Sensor sync / MDL"
+   ]
+  ],
+  "tags": [
+   "horn strobe",
+   "outdoor",
+   "notification",
+   "system sensor"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-ifp-fft",
+  "name": "Honeywell Farenhyt IFP-FFT Fire Fighters Telephone System",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-ifp-fft.jpg"
+  ],
+  "short": "Fire fighter telephone control system with up to 72 zones.",
+  "description": "The IFP-FFT provides supervision, annunciation and control for local and remote fire fighter telephone handsets. Each zone uses an IDP-MINIMON module and at least one FFT-FPJ phone jack, and the system expands to 72 zones with two FFT-24 expander boards.",
+  "specs": [
+   [
+    "Zones",
+    "Up to 72 (with 2 x FFT-24)"
+   ],
+   [
+    "Supply",
+    "24 VDC nominal (17 – 29 VDC)"
+   ],
+   [
+    "Active current",
+    "230 mA"
+   ],
+   [
+    "Mounting",
+    "Surface or flush (VIP-TR trim)"
+   ],
+   [
+    "Dimensions",
+    "508 x 673 x 117 mm"
+   ],
+   [
+    "Colour",
+    "Red"
+   ]
+  ],
+  "tags": [
+   "fire fighter telephone",
+   "FFT",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-fft-fpj",
+  "name": "Honeywell Farenhyt FFT-FPJ Fire Fighters Phone Jack",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-fft-fpj.jpg"
+  ],
+  "short": "Remote fire fighter phone jack for the IFP-FFT system.",
+  "description": "The FFT-FPJ remote phone jack gives fire fighters a quick connection to the IFP-FFT telephone system using an FFT-RHS handset. When a handset is plugged in, a monitor module lights the corresponding zone LED on the IFP-FFT.",
+  "specs": [
+   [
+    "Type",
+    "Passive phone jack"
+   ],
+   [
+    "Mounting",
+    "Single-gang electrical box"
+   ],
+   [
+    "Dimensions",
+    "121 x 70 x 38 mm"
+   ],
+   [
+    "Operating temp.",
+    "0°C to 49°C"
+   ],
+   [
+    "Listings",
+    "UL, CSFM"
+   ]
+  ],
+  "tags": [
+   "fire fighter telephone",
+   "phone jack",
+   "farenhyt"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-hon-cgw-mbb",
+  "name": "Honeywell HON-CGW-MBB CLSS Gateway",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-hon-cgw-mbb.jpg"
+  ],
+  "short": "Gateway connecting Honeywell fire panels to the CLSS cloud.",
+  "description": "The CLSS Gateway connects a Honeywell fire panel or network to the Connected Life Safety Services (CLSS) cloud, reading the system's device inventory and sending it to CLSS. With an optional cellular module it can also act as a fire alarm communicator to a central station.",
+  "specs": [
+   [
+    "Function",
+    "Panel-to-cloud gateway"
+   ],
+   [
+    "Supply",
+    "12 – 32 VDC"
+   ],
+   [
+    "Typical current",
+    "0.1 A @ 24 V"
+   ],
+   [
+    "Operating temp.",
+    "-10°C to 60°C"
+   ],
+   [
+    "Approvals",
+    "CE, EFSG, FCC"
+   ]
+  ],
+  "tags": [
+   "gateway",
+   "cloud",
+   "CLSS",
+   "remote monitoring"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-clss-horizon",
+  "name": "Honeywell CLSS Horizon Graphical Monitoring Software",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-clss-horizon.jpg"
+  ],
+  "short": "Graphical on-premises and remote monitoring software for fire alarm systems.",
+  "description": "CLSS Horizon gives personnel an intuitive graphical display to pinpoint, investigate and respond to alarm events, for single-site, multi-site or worldwide applications. Paired with the CLSS Gateway (HON-CGW-MBB), it runs on Honeywell's CLSS cloud platform.",
+  "specs": [
+   [
+    "Type",
+    "Graphical monitoring software"
+   ],
+   [
+    "Deployment",
+    "On-premises and remote"
+   ],
+   [
+    "Sites",
+    "Single, multi-site or global"
+   ],
+   [
+    "Requires",
+    "HON-CGW-MBB CLSS Gateway"
+   ]
+  ],
+  "tags": [
+   "software",
+   "graphics",
+   "CLSS",
+   "monitoring"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-morley-ias-max",
+  "name": "Honeywell Morley-IAS Max Fire Alarm Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-morley-ias-max.jpg"
+  ],
+  "short": "Multi-processor addressable fire panel with 7\" colour touch screen.",
+  "description": "Morley-IAS Max panels are multi-processor fire detection systems designed for industrial-grade resilience against electrical disturbances and false alarms. A 7\" colour touch screen with virtual zone indicators allows full configuration without a PC, and an open protocol means any third party can maintain the system.",
+  "specs": [
+   [
+    "Display",
+    "7\" full colour touch screen"
+   ],
+   [
+    "Loop power",
+    "750 mA"
+   ],
+   [
+    "Devices per loop",
+    "99 detectors + 99 modules"
+   ],
+   [
+    "Loops",
+    "4 to 8 per panel; 128 networked"
+   ],
+   [
+    "Network",
+    "Up to 64 panels"
+   ],
+   [
+    "Cause & effect",
+    "1,600 groups, 2,000 soft zones"
+   ]
+  ],
+  "tags": [
+   "fire panel",
+   "addressable",
+   "touch screen",
+   "morley-ias"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-morley-lt-32-159",
+  "name": "Honeywell Morley-IAS LT-32 / LT-159 Compact Analogue Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-morley-lt-32-159.jpg"
+  ],
+  "short": "Compact analogue-addressable panel with 4.3\" touch screen.",
+  "description": "The LT-32 and LT-159 compact analogue-addressable control panels are quick to install and configure from the screen itself, using Honeywell's Advanced protocol for fast alarm detection. The LT-32 supports 32 addressable devices and the LT-159 up to 159.",
+  "specs": [
+   [
+    "Capacity",
+    "32 (LT-32) / 159 (LT-159) devices"
+   ],
+   [
+    "Display",
+    "4.3\" touch screen, 480 x 272"
+   ],
+   [
+    "Supply",
+    "230 VAC ±15%, 50/60 Hz"
+   ],
+   [
+    "Max power",
+    "24 W"
+   ],
+   [
+    "Dimensions",
+    "207 x 127 x 43 mm"
+   ],
+   [
+    "Protocol",
+    "Honeywell Advanced"
+   ]
+  ],
+  "tags": [
+   "fire panel",
+   "compact",
+   "analogue addressable",
+   "morley-ias"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-morley-dxc",
+  "name": "Honeywell Morley-IAS DXc Connexion Fire Alarm Panel",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-morley-dxc.jpg"
+  ],
+  "short": "1, 2 and 4 loop networkable multi-protocol addressable fire panel.",
+  "description": "The Morley-IAS DX Connexion range is a compact, feature-rich and economical analogue addressable panel for small to medium buildings. It is multi-protocol and can be networked up to 16 loops on a true peer-to-peer, fault-tolerant BS 5839-1 compliant network, programmed from the keypad or a Windows PC tool.",
+  "specs": [
+   [
+    "Loops",
+    "1 (DXc1), 2 (DXc2), 4 (DXc4)"
+   ],
+   [
+    "Network",
+    "Up to 16 loops, peer-to-peer"
+   ],
+   [
+    "Display",
+    "6 x 40 character backlit LCD"
+   ],
+   [
+    "Dimensions",
+    "260/391.5 x 390 x 147 mm"
+   ],
+   [
+    "Protection",
+    "IP30"
+   ],
+   [
+    "Colour",
+    "RAL 9002 grey white"
+   ]
+  ],
+  "tags": [
+   "fire panel",
+   "networked",
+   "multi-protocol",
+   "morley-ias"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-morley-hm-optical",
+  "name": "Honeywell Morley-IAS HM Series Optical Smoke Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-morley-hm-optical.jpg"
+  ],
+  "short": "Addressable optical smoke detector with advanced chamber design.",
+  "description": "The HM/PSE optical smoke detector uses an advanced optical chamber proven to be less prone to false alarms from dust and insects. Smoothing filters and embedded algorithms improve resilience to unwanted alarms and speed up detection. Two red LEDs give 360° status indication.",
+  "specs": [
+   [
+    "Detection",
+    "Photoelectric (optical) smoke"
+   ],
+   [
+    "Base",
+    "MI/B501AP/IV"
+   ],
+   [
+    "Height",
+    "52 mm in base"
+   ],
+   [
+    "Diameter",
+    "102 mm"
+   ],
+   [
+    "Indicators",
+    "2 red LEDs, 360°"
+   ]
+  ],
+  "tags": [
+   "smoke detector",
+   "optical",
+   "addressable",
+   "morley-ias"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-morley-hm-thermal",
+  "name": "Honeywell Morley-IAS HM Series Thermal Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-morley-hm-thermal.jpg"
+  ],
+  "short": "Addressable heat detector, fixed 58°C or rate-of-rise.",
+  "description": "The HM Series intelligent thermal sensors use an accurate thermistor circuit for early warning of developing fires. The HM/RHSE provides fixed 58°C plus rate-of-rise (Class A1R) sensing and the HM/FHSE provides fixed 58°C (Class A1S) sensing.",
+  "specs": [
+   [
+    "Models",
+    "HM/RHSE (A1R) / HM/FHSE (A1S)"
+   ],
+   [
+    "Fixed temp.",
+    "58°C"
+   ],
+   [
+    "Rate of rise",
+    "10°C per minute"
+   ],
+   [
+    "Height",
+    "61 mm in base"
+   ],
+   [
+    "Diameter",
+    "102 mm"
+   ],
+   [
+    "Weight",
+    "88 g (incl. base)"
+   ]
+  ],
+  "tags": [
+   "heat detector",
+   "thermal",
+   "addressable",
+   "morley-ias"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-morley-beam",
+  "name": "Honeywell Morley-IAS MI-LPB2-S2I Optical Beam Smoke Detector",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-morley-beam.jpg"
+  ],
+  "short": "Addressable reflective beam detector for large open spaces, 5 – 100 m.",
+  "description": "The MI-LPB2-S2I is an addressable reflective linear optical beam smoke detector for large open spaces such as warehouses and atriums. A combined transmitter/receiver connects directly to the analogue loop and sends an infra-red beam to a reflector, with automatic drift compensation.",
+  "specs": [
+   [
+    "Range",
+    "5 – 100 m"
+   ],
+   [
+    "Type",
+    "Combined transmitter/receiver"
+   ],
+   [
+    "Alignment",
+    "±10° horizontal and vertical"
+   ],
+   [
+    "Sensitivity",
+    "4 fixed + 2 auto variable levels"
+   ],
+   [
+    "Power",
+    "Loop powered"
+   ],
+   [
+    "Standard",
+    "EN 54-12"
+   ]
+  ],
+  "tags": [
+   "beam detector",
+   "smoke",
+   "warehouse",
+   "morley-ias"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-morley-hm-mcp-glass",
+  "name": "Honeywell Morley-IAS HM-MCP-GLASS Addressable Call Point",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-morley-hm-mcp-glass.jpg"
+  ],
+  "short": "Addressable break-glass manual call point with test key.",
+  "description": "The HM-MCP-GLASS addressable break-glass call point is addressed with a rotary decade switch, and a test key lowers the glass to give a full functional test. The panel-controlled LED blinks red when polled and turns steady red on fire.",
+  "specs": [
+   [
+    "Type",
+    "Addressable break-glass call point"
+   ],
+   [
+    "Operating voltage",
+    "15 – 32 VDC"
+   ],
+   [
+    "Alarm current",
+    "7.8 mA"
+   ],
+   [
+    "Protection",
+    "IP24D"
+   ],
+   [
+    "Dimensions",
+    "89 x 93 x 27.5 mm (semi-flush)"
+   ],
+   [
+    "Weight",
+    "110 g"
+   ]
+  ],
+  "tags": [
+   "manual call point",
+   "break glass",
+   "addressable",
+   "morley-ias"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-kac-wm-sounder",
+  "name": "Honeywell KAC Intelligent Wall Mount Sounder",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-kac-wm-sounder.jpg"
+  ],
+  "short": "Loop-powered 32-tone wall sounder, up to 97 dB(A).",
+  "description": "KAC's wall mount sounder is a loop-powered device that alerts occupants with a choice of 32 tones and output levels. It twist-fits onto the System Sensor B501AP base and is controlled by on-board switches or the SS Advanced Protocol.",
+  "specs": [
+   [
+    "Tones",
+    "32"
+   ],
+   [
+    "Max output",
+    "97 dB(A) ±3 dB @ 1 m"
+   ],
+   [
+    "Supply",
+    "15 – 32 VDC"
+   ],
+   [
+    "Max current",
+    "11.4 mA"
+   ],
+   [
+    "Base",
+    "B501AP"
+   ],
+   [
+    "Power",
+    "Loop powered"
+   ]
+  ],
+  "tags": [
+   "sounder",
+   "wall sounder",
+   "notification",
+   "kac"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-kac-wm-sounder-strobe",
+  "name": "Honeywell KAC Intelligent Wall Mount Sounder Strobe",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-kac-wm-sounder-strobe.jpg"
+  ],
+  "short": "Loop-powered 32-tone sounder with EN 54-23 strobe.",
+  "description": "The KAC wall mount sounder strobe combines a 32-tone sounder and a high-quality strobe in one loop-powered device, approved to EN 54-23. It twist-fits onto the B501AP base for flexible installation.",
+  "specs": [
+   [
+    "Tones",
+    "32"
+   ],
+   [
+    "Max output",
+    "97 dB(A) ±3 dB @ 1 m"
+   ],
+   [
+    "Supply",
+    "15 – 29 VDC"
+   ],
+   [
+    "Max current",
+    "14.5 mA"
+   ],
+   [
+    "Approval",
+    "EN 54-23"
+   ],
+   [
+    "Base",
+    "B501AP"
+   ]
+  ],
+  "tags": [
+   "sounder strobe",
+   "notification",
+   "kac",
+   "EN 54-23"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-kac-db-sounder",
+  "name": "Honeywell KAC Intelligent Detector Base Sounder",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-kac-db-sounder.jpg"
+  ],
+  "short": "Loop-powered 32-tone sounder base for SS detectors.",
+  "description": "The KAC detector base sounder is a loop-powered 32-tone sounder that forms the base for System Sensor intelligent detectors, combining detection and alarm at one point.",
+  "specs": [
+   [
+    "Tones",
+    "32"
+   ],
+   [
+    "Max output",
+    "95 dB(A) ±3 dB @ 1 m"
+   ],
+   [
+    "Supply",
+    "15 – 32 VDC"
+   ],
+   [
+    "Max current",
+    "<10.5 mA"
+   ],
+   [
+    "Base",
+    "B501AP"
+   ]
+  ],
+  "tags": [
+   "sounder base",
+   "notification",
+   "kac"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-mi-dmmi",
+  "name": "Honeywell MI-DMMI / MI-DMM2I Addressable Input Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-mi-dmmi.jpg"
+  ],
+  "short": "Single or dual channel input module with built-in isolators.",
+  "description": "The MI-DMMI (single) and MI-DMM2I (dual) addressable input modules mount in a wall box or on a DIN rail, with address switches and tri-colour status LEDs visible without removing the cover. Built-in short-circuit isolators protect the loop.",
+  "specs": [
+   [
+    "Inputs",
+    "1 (MI-DMMI) / 2 (MI-DMM2I)"
+   ],
+   [
+    "Mounting",
+    "Surface box or DIN rail"
+   ],
+   [
+    "Isolators",
+    "Built-in"
+   ],
+   [
+    "Operating voltage",
+    "15 – 30 VDC"
+   ],
+   [
+    "Dimensions",
+    "93 x 94 x 23 mm"
+   ],
+   [
+    "Operating temp.",
+    "-20°C to +60°C"
+   ]
+  ],
+  "tags": [
+   "input module",
+   "monitor module",
+   "DIN rail",
+   "isolator"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-mi-dcmo",
+  "name": "Honeywell MI-DCMO Addressable Output Module",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-mi-dcmo.jpg"
+  ],
+  "short": "Single channel addressable output module with Form C relay.",
+  "description": "The MI-DCMO addressable output module mounts in a wall box or on a DIN rail, with visible address switches and tri-colour LEDs. It provides a Form C relay output and built-in short-circuit isolators.",
+  "specs": [
+   [
+    "Output",
+    "Form C relay"
+   ],
+   [
+    "Rating",
+    "2 A @ 30 VDC unsupervised"
+   ],
+   [
+    "Isolators",
+    "Built-in"
+   ],
+   [
+    "Operating voltage",
+    "15 – 30 VDC"
+   ],
+   [
+    "Dimensions",
+    "93 x 94 x 23 mm"
+   ],
+   [
+    "Weight",
+    "110 g"
+   ]
+  ],
+  "tags": [
+   "output module",
+   "relay",
+   "DIN rail",
+   "isolator"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-x-dcs2000",
+  "name": "Honeywell X-DCS2000 Digital Integrated System Manager",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-x-dcs2000.jpg"
+  ],
+  "short": "Core controller of the X-618 public address and voice alarm system.",
+  "description": "The X-DCS2000 is the basic unit of the X-618 Public Address and Voice Alarm System. It integrates zone expansion, multiple audio sources, audio file storage, network audio, broadcasting, zone control, monitoring and fault diagnosis, and can broadcast four audio messages simultaneously with up to 255 priorities.",
+  "specs": [
+   [
+    "System",
+    "X-618 Public Address & Voice Alarm"
+   ],
+   [
+    "Simultaneous channels",
+    "4 audio messages"
+   ],
+   [
+    "Priorities",
+    "Up to 255"
+   ],
+   [
+    "Functions",
+    "Zoning, scheduling, monitoring, fault diagnosis"
+   ],
+   [
+    "Mounting",
+    "19\" rack"
+   ]
+  ],
+  "tags": [
+   "public address",
+   "voice alarm",
+   "PAVA",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-x-da4125en",
+  "name": "Honeywell X-DA4125EN 4 x 125 W Class-D Power Amplifier",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-x-da4125en.jpg"
+  ],
+  "short": "Four channel 4 x 125 W Class-D amplifier with 24 VDC backup supply.",
+  "description": "The X-DA4125EN is a high-efficiency Class-D power amplifier for the X-618 system. Audio transmission is fully digital for interference-free control, and the 24 VDC backup power supply conforms to international voice alarm standards. Automatic protection and fault detection with forced-air cooling.",
+  "specs": [
+   [
+    "Channels",
+    "4"
+   ],
+   [
+    "Output",
+    "4 x 125 W"
+   ],
+   [
+    "Class",
+    "Class-D"
+   ],
+   [
+    "Backup",
+    "24 VDC"
+   ],
+   [
+    "Outputs",
+    "100 V / 70 V"
+   ],
+   [
+    "Operating temp.",
+    "0°C to +40°C"
+   ],
+   [
+    "Certification",
+    "CE, CB"
+   ]
+  ],
+  "tags": [
+   "amplifier",
+   "public address",
+   "voice alarm",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-x-da2250en",
+  "name": "Honeywell X-DA2250EN 2 x 250 W Class-D Power Amplifier",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-x-da2250en.jpg"
+  ],
+  "short": "Two channel 2 x 250 W Class-D amplifier with 24 VDC backup supply.",
+  "description": "The X-DA2250EN is a high-efficiency Class-D power amplifier for the X-618 system. Audio transmission is fully digital for interference-free control, and the 24 VDC backup power supply conforms to international voice alarm standards. Automatic protection and fault detection with forced-air cooling.",
+  "specs": [
+   [
+    "Channels",
+    "2"
+   ],
+   [
+    "Output",
+    "2 x 250 W"
+   ],
+   [
+    "Class",
+    "Class-D"
+   ],
+   [
+    "Backup",
+    "24 VDC"
+   ],
+   [
+    "Outputs",
+    "100 V / 70 V"
+   ],
+   [
+    "Operating temp.",
+    "0°C to +40°C"
+   ],
+   [
+    "Certification",
+    "CE, CB"
+   ]
+  ],
+  "tags": [
+   "amplifier",
+   "public address",
+   "voice alarm",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-x-da1500en",
+  "name": "Honeywell X-DA1500EN 1 x 500 W Class-D Power Amplifier",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-x-da1500en.jpg"
+  ],
+  "short": "One channel 1 x 500 W Class-D amplifier with 24 VDC backup supply.",
+  "description": "The X-DA1500EN is a high-efficiency Class-D power amplifier for the X-618 system. Audio transmission is fully digital for interference-free control, and the 24 VDC backup power supply conforms to international voice alarm standards. Automatic protection and fault detection with forced-air cooling.",
+  "specs": [
+   [
+    "Channels",
+    "1"
+   ],
+   [
+    "Output",
+    "1 x 500 W"
+   ],
+   [
+    "Class",
+    "Class-D"
+   ],
+   [
+    "Backup",
+    "24 VDC"
+   ],
+   [
+    "Outputs",
+    "100 V / 70 V"
+   ],
+   [
+    "Operating temp.",
+    "0°C to +40°C"
+   ],
+   [
+    "Certification",
+    "CE, CB"
+   ]
+  ],
+  "tags": [
+   "amplifier",
+   "public address",
+   "voice alarm",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-x-nri",
+  "name": "Honeywell X-NRI/EN Network Resource Interface",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-x-nri.jpg"
+  ],
+  "short": "X-618 interface for fire alarm integration and audio extension.",
+  "description": "The X-NRI/EN is the universal interface of X-618 for external control and audio extension. It provides 32 supervised dry-contact inputs and RS-485 links for fire panel integration, so fire alarm zones automatically trigger evacuation messages on the right voice alarm zones.",
+  "specs": [
+   [
+    "Audio inputs",
+    "4 balanced AUX"
+   ],
+   [
+    "Control inputs",
+    "32 supervised dry contacts"
+   ],
+   [
+    "Fire panel link",
+    "2 x RS-485"
+   ],
+   [
+    "Network",
+    "4 x Ethernet"
+   ],
+   [
+    "Storage",
+    "512 MB flash + 4 GB SD"
+   ]
+  ],
+  "tags": [
+   "interface",
+   "fire alarm integration",
+   "voice alarm",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-hn-ptt",
+  "name": "Honeywell HN-PTT Push-to-Talk Microphone",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-hn-ptt.jpg"
+  ],
+  "short": "Dynamic push-to-talk microphone for X-DCS2000 and paging stations.",
+  "description": "The HN-PTT push-to-talk microphone delivers clear voice reproduction with durable construction and a remote switching contact. Optional component of the X-DCS2000/EN and X-NPMR.",
+  "specs": [
+   [
+    "Type",
+    "Dynamic, hyper-cardioid"
+   ],
+   [
+    "Impedance",
+    "500 Ω ±30% at 1 kHz"
+   ],
+   [
+    "Sensitivity",
+    "-77 dB ±3 dB"
+   ],
+   [
+    "Frequency response",
+    "50 Hz – 15 kHz"
+   ],
+   [
+    "Weight",
+    "30 g"
+   ]
+  ],
+  "tags": [
+   "microphone",
+   "PTT",
+   "public address",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-x-map4p",
+  "name": "Honeywell X-MAP4P Digital Multi-Audio Player",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-x-map4p.jpg"
+  ],
+  "short": "Two-zone music player with USB, SD, Bluetooth and AM/FM.",
+  "description": "The X-MAP4P digital multi-audio player has two independent USB/SD/Bluetooth and AM/FM line outputs, so it can play different music in two zones at once. Supports MP3, WMA, FLAC, APE, WAV and more, with 60 presets each for AM and FM.",
+  "specs": [
+   [
+    "Sources",
+    "USB, SD, Bluetooth 4.2, AM/FM"
+   ],
+   [
+    "Outputs",
+    "2 independent line outputs + mix"
+   ],
+   [
+    "Formats",
+    "MP3, WMA, FLAC, APE, WAV, AAC"
+   ],
+   [
+    "Tuner presets",
+    "60 AM + 60 FM"
+   ],
+   [
+    "Power",
+    "100 – 240 VAC, <15 W"
+   ]
+  ],
+  "tags": [
+   "music player",
+   "background music",
+   "public address",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-vcp06a",
+  "name": "Honeywell L-VCP06A/EN 6 W Ceiling Loudspeaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-vcp06a.jpg"
+  ],
+  "short": "EN 54-24 ceiling speaker with flame-retardant dome.",
+  "description": "A high-performance 6 W ceiling loudspeaker with broad frequency range and low distortion for intelligible voice. Its low-profile white design suits hotels, malls, conference rooms and cinemas, with a robust plastic housing and flame-retardant dome.",
+  "specs": [
+   [
+    "Power",
+    "6 / 3 / 1.5 W (100 V)"
+   ],
+   [
+    "SPL 1 W / 1 m",
+    "89 dB"
+   ],
+   [
+    "Frequency",
+    "100 – 20,000 Hz"
+   ],
+   [
+    "Dimensions",
+    "Ø180 x 110 mm"
+   ],
+   [
+    "Cut-out",
+    "Ø164 mm"
+   ],
+   [
+    "Standard",
+    "EN 54-24"
+   ]
+  ],
+  "tags": [
+   "ceiling speaker",
+   "loudspeaker",
+   "voice alarm",
+   "EN 54-24"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-vcm6b",
+  "name": "Honeywell L-VCM6B/EN 5\" Metal Ceiling Loudspeaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-vcm6b.jpg"
+  ],
+  "short": "EN 54-24 metal ceiling speaker with fire dome.",
+  "description": "The L-VCM6B/EN is a flush ceiling voice alarm loudspeaker for even sound distribution. A built-in protector ensures that fire damage to the speaker does not cause failure of the connected loudspeaker circuit. Available with or without capacitor.",
+  "specs": [
+   [
+    "Type",
+    "5\" flush ceiling speaker"
+   ],
+   [
+    "Construction",
+    "Metal with fire dome"
+   ],
+   [
+    "Circuit protection",
+    "Built-in thermal protector"
+   ],
+   [
+    "Standard",
+    "EN 54-24"
+   ],
+   [
+    "Variants",
+    "With (C) or without capacitor"
+   ]
+  ],
+  "tags": [
+   "ceiling speaker",
+   "loudspeaker",
+   "voice alarm",
+   "EN 54-24"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-vwm06a",
+  "name": "Honeywell L-VWM06A/EN 6 W Metal Cabinet Loudspeaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-vwm06a.jpg"
+  ],
+  "short": "EN 54-24 wall cabinet speaker in robust metal enclosure.",
+  "description": "The L-VWM06A/EN is a high-performance 6 W voice alarm cabinet loudspeaker with broad frequency response, low distortion and high sound pressure level for accurate evacuation messages. A robust metal enclosure suits all kinds of commercial interiors.",
+  "specs": [
+   [
+    "Power",
+    "6 W"
+   ],
+   [
+    "Enclosure",
+    "Metal cabinet"
+   ],
+   [
+    "Mounting",
+    "Wall"
+   ],
+   [
+    "Standard",
+    "EN 54-24"
+   ],
+   [
+    "Variants",
+    "With (C) or without capacitor"
+   ]
+  ],
+  "tags": [
+   "wall speaker",
+   "cabinet speaker",
+   "voice alarm",
+   "EN 54-24"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-vjm10a",
+  "name": "Honeywell L-VJM10A/EN 10 W Projection Loudspeaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-vjm10a.jpg"
+  ],
+  "short": "IP65 aluminium unidirectional projection speaker, indoor or outdoor.",
+  "description": "The L-VJM10A/EN is a 10 W unidirectional projection loudspeaker for voice alarm use indoors or outdoors. The IP65 aluminium housing mounts on a ceiling or wall.",
+  "specs": [
+   [
+    "Power",
+    "10 W"
+   ],
+   [
+    "Type",
+    "Unidirectional projection"
+   ],
+   [
+    "Housing",
+    "Aluminium"
+   ],
+   [
+    "Protection",
+    "IP65"
+   ],
+   [
+    "Mounting",
+    "Ceiling or wall"
+   ],
+   [
+    "Standard",
+    "EN 54-24"
+   ]
+  ],
+  "tags": [
+   "projection speaker",
+   "outdoor",
+   "voice alarm",
+   "EN 54-24"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-x-npms",
+  "name": "Honeywell X-NPMS Configurable Network Paging Station",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-x-npms.jpg"
+  ],
+  "short": "7\" touch screen paging station with zoning and emergency broadcast.",
+  "description": "The X-NPMS network paging station has a 7\" TFT touch screen, configurable keys for zones and groups, manual emergency broadcast, monitoring, intercom and recording. Choose a gooseneck or PTT microphone; a built-in speaker allows audio monitoring.",
+  "specs": [
+   [
+    "Display",
+    "7\" TFT touch screen"
+   ],
+   [
+    "Microphone",
+    "Gooseneck or PTT (optional)"
+   ],
+   [
+    "Functions",
+    "Zoning, emergency broadcast, intercom, recording"
+   ],
+   [
+    "Monitoring",
+    "Built-in loudspeaker"
+   ],
+   [
+    "Network",
+    "Ethernet"
+   ]
+  ],
+  "tags": [
+   "paging station",
+   "microphone",
+   "public address",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-l-vom40a",
+  "name": "Honeywell L-VOM40A/EN 40 W Outdoor Column Loudspeaker",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-l-vom40a.jpg"
+  ],
+  "short": "IP66 aluminium column speaker with swivel bracket.",
+  "description": "The L-VOM40A/EN is a 40 W voice alarm column loudspeaker for outdoor use. A robust aluminium housing withstands extreme environments, a universal swivel bracket allows easy angle adjustment, and it switches between 100 V and 70 V lines.",
+  "specs": [
+   [
+    "Power",
+    "40 W"
+   ],
+   [
+    "Line voltage",
+    "100 V / 70 V"
+   ],
+   [
+    "Housing",
+    "Aluminium"
+   ],
+   [
+    "Protection",
+    "IP66"
+   ],
+   [
+    "Bracket",
+    "Universal swivel"
+   ],
+   [
+    "Standard",
+    "EN 54-24"
+   ]
+  ],
+  "tags": [
+   "column speaker",
+   "outdoor",
+   "voice alarm",
+   "EN 54-24"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "honeywell-hn-vc",
+  "name": "Honeywell HN-VC06/30/60/120 Volume Controller",
+  "supplier": "honeywell",
+  "category": "fire-alarm",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/honeywell/datasheet/honeywell-hn-vc.jpg"
+  ],
+  "short": "Wall volume controller with emergency override relay.",
+  "description": "HN-VC series volume controllers fit a standard 86 x 86 mm back box and work with 3-wire, 4-wire and 6-wire systems. A built-in 24 VDC forced relay overrides the volume setting for emergency announcements.",
+  "specs": [
+   [
+    "Power ratings",
+    "6, 30, 60, 120 W"
+   ],
+   [
+    "Volume steps",
+    "5"
+   ],
+   [
+    "Override",
+    "Built-in 24 VDC forced relay"
+   ],
+   [
+    "Wiring",
+    "3-wire, 4-wire, 6-wire"
+   ],
+   [
+    "Mounting",
+    "86 x 86 mm back box"
+   ]
+  ],
+  "tags": [
+   "volume control",
+   "attenuator",
+   "public address",
+   "x-618"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-tkx66c",
+  "name": "Teknoware TKX66xxC Central Battery System",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-tkx66c.jpg"
+  ],
+  "short": "Space-saving central battery units for mid to large premises.",
+  "description": "TKX66C series central battery units supply a moderate number of luminaires and suit mid to large premises divided into independent regions. Luminaires are addressed over the power cables, so no separate data cabling is needed. Models from 8 to 24 circuits, single or three-phase.",
+  "specs": [
+   [
+    "Circuits",
+    "8, 16 or 24 x 350 W"
+   ],
+   [
+    "Max load (mains)",
+    "Up to 6,000 W"
+   ],
+   [
+    "Supply",
+    "220 – 240 VAC (3-phase 'F' models)"
+   ],
+   [
+    "Protection",
+    "IP20 / IP34"
+   ],
+   [
+    "Standard",
+    "EN 50171"
+   ],
+   [
+    "Addressing",
+    "Over power cables"
+   ]
+  ],
+  "tags": [
+   "central battery",
+   "CBS",
+   "emergency lighting",
+   "teknolux"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-tkt7",
+  "name": "Teknoware TKT7 Series Addressable Central Battery System",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-tkt7.jpg"
+  ],
+  "short": "230 V addressable central battery system with touch screen.",
+  "description": "The TKT7 series is an efficient, flexible 230 V addressable central battery system for medium to large buildings. A bright touch screen, logical interface and automatic luminaire detection make commissioning fast, and it is compatible with all Teknoware 230 V addressable luminaires.",
+  "specs": [
+   [
+    "Circuits",
+    "4 to 24 x 350 VA"
+   ],
+   [
+    "Max load (1 h battery)",
+    "Up to 6,000 W"
+   ],
+   [
+    "Battery capacity",
+    "65 Ah (TKT75) / 150 Ah (TKT76)"
+   ],
+   [
+    "Supply",
+    "1~ or 3~ 220 – 240 VAC"
+   ],
+   [
+    "Interface",
+    "Touch screen"
+   ],
+   [
+    "Commissioning",
+    "Automatic luminaire detection"
+   ]
+  ],
+  "tags": [
+   "central battery",
+   "addressable",
+   "emergency lighting",
+   "touch screen"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twx1251wk",
+  "name": "Teknoware TWX1251WK SLIMSPOT Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twx1251wk.jpg"
+  ],
+  "short": "Flush-mounted LED emergency light for open areas, 2 – 4 m.",
+  "description": "TWX1251WK and TWX1251WKP are flush-mounted LED emergency lights for open areas, with optics that give a broad, uniform pattern. Suitable for 2 – 4 m mounting heights, with optional phase input (WKP).",
+  "specs": [
+   [
+    "Application",
+    "Open area"
+   ],
+   [
+    "Mounting height",
+    "2 – 4 m"
+   ],
+   [
+    "Mounting",
+    "Flush / recessed"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Phase input",
+    "Optional (WKP)"
+   ],
+   [
+    "Standard",
+    "EN 60598-2-22"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "open area",
+   "slimspot",
+   "central battery"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twx1151wk",
+  "name": "Teknoware TWX1151WK SLIMSPOT Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twx1151wk.jpg"
+  ],
+  "short": "Metal-bodied flush LED emergency light for open areas.",
+  "description": "TWX1151WK and TWX1151WKP are flush-mounted LED emergency lights with improved optics allowing longer spacing between luminaires. Metal construction, for 2 – 4 m mounting heights, with optional phase input.",
+  "specs": [
+   [
+    "Application",
+    "Open area / escape route"
+   ],
+   [
+    "Mounting height",
+    "2 – 4 m"
+   ],
+   [
+    "Construction",
+    "Metal"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Phase input",
+    "Optional (WKP)"
+   ],
+   [
+    "Standards",
+    "EN 60598-2-22, EN 1838"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "slimspot",
+   "central battery"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twx1351wk",
+  "name": "Teknoware TWX1351WK SLIMSPOT Recessed Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twx1351wk.jpg"
+  ],
+  "short": "Compact recessed LED emergency light for 3 – 5 m ceilings.",
+  "description": "TWX1351WK and TWX1351WKP are compact recessed LED emergency lights whose straight-line design blends into the ceiling. Optics avoid a disturbing bright centre point. Suitable for 3 – 5 m mounting heights.",
+  "specs": [
+   [
+    "Mounting height",
+    "3 – 5 m"
+   ],
+   [
+    "Mounting",
+    "Recessed"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Light source",
+    "LED"
+   ],
+   [
+    "Phase input",
+    "Optional (WKP)"
+   ],
+   [
+    "Standard",
+    "EN 60598-2-22"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "recessed",
+   "slimspot",
+   "central battery"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twx4351wk",
+  "name": "Teknoware TWX4351WK SOLID Zone Midbay LED Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twx4351wk.jpg"
+  ],
+  "short": "IP65 dust- and water-proof emergency light for industrial areas and car parks.",
+  "description": "TWX4351WK and TWX4351WKH are IP65 emergency lights for open areas, fully dust- and water-proof for industrial premises and parking halls. Centrally supplied versions are also suitable outdoors. Long-life LEDs, through-wiring and quick installation.",
+  "specs": [
+   [
+    "Protection",
+    "IP65"
+   ],
+   [
+    "Application",
+    "Industrial, car parks, outdoor"
+   ],
+   [
+    "Protection class",
+    "II"
+   ],
+   [
+    "Wiring",
+    "Through-wiring"
+   ],
+   [
+    "Standards",
+    "CE, EN 60598-2-22, EN 1838"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "IP65",
+   "industrial",
+   "car park"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twx5051wk",
+  "name": "Teknoware TWX5051WK Linespot Corridor Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twx5051wk.jpg"
+  ],
+  "short": "Corridor emergency light with long, narrow beam for 2.5 – 10 m.",
+  "description": "Linespot is designed for high corridors. Its optics give a long, narrow light pattern that illuminates escape routes efficiently and allows longer spacing between luminaires, for 2.5 – 10 m mounting heights. Polycarbonate body.",
+  "specs": [
+   [
+    "Application",
+    "Corridors / escape routes"
+   ],
+   [
+    "Mounting height",
+    "2.5 – 10 m"
+   ],
+   [
+    "Body",
+    "Polycarbonate"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Standard",
+    "EN 60598-2-22"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "corridor",
+   "linespot",
+   "central battery"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-esc0942l-s",
+  "name": "Escalux ESC0942L-S Emergency & Exit Bulkhead (Central Battery)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-esc0942l-s.jpg"
+  ],
+  "short": "IP65 LED bulkhead for emergency or exit use, central battery supplied.",
+  "description": "ESC0942L-S is an IP65 LED bulkhead with polycarbonate body and diffuser for wall, ceiling or surface mounting. It is a central-battery slave luminaire with a built-in Teknoware addressable module. Pictogram options available.",
+  "specs": [
+   [
+    "Supply",
+    "220 – 240 V AC/DC, 50 – 60 Hz"
+   ],
+   [
+    "Input",
+    "5 W"
+   ],
+   [
+    "Emergency mode",
+    "Central battery supplied, built-in Teknoware addressable module"
+   ],
+   [
+    "Colour temp.",
+    "6500 K"
+   ],
+   [
+    "Protection",
+    "IP65"
+   ],
+   [
+    "Dimensions",
+    "347 x 107 x 76 mm"
+   ]
+  ],
+  "tags": [
+   "bulkhead",
+   "emergency light",
+   "exit",
+   "escalux"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-esc0963l-s",
+  "name": "Escalux ESC0963L-S Recessed Emergency Downlight (Central Battery)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-esc0963l-s.jpg"
+  ],
+  "short": "Ceiling recessed LED emergency downlight, central battery supplied.",
+  "description": "ESC0963L-S is a ceiling-recessed LED emergency luminaire with polycarbonate body and aluminium lamp head. Central-battery slave luminaire with built-in Teknoware addressable module.",
+  "specs": [
+   [
+    "Supply",
+    "220 – 240 V AC/DC, 50 – 60 Hz"
+   ],
+   [
+    "Input",
+    "5 W"
+   ],
+   [
+    "Emergency mode",
+    "Central battery supplied, built-in Teknoware addressable module"
+   ],
+   [
+    "Colour temp.",
+    "6000 K"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Lamp head",
+    "Ø85 x 68 mm"
+   ]
+  ],
+  "tags": [
+   "downlight",
+   "recessed",
+   "emergency light",
+   "escalux"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twx8051wk",
+  "name": "Teknoware TWX8051WK ESC80 LED Exit Sign",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twx8051wk.jpg"
+  ],
+  "short": "Slim LED exit light with evenly lit pictograms, three sizes.",
+  "description": "TWX8051WK combines uniformly illuminated pictograms, low power consumption and a slender look. Available in three sizes (20, 26 and 30 m viewing distance), recessed or surface, single or double sided, with a separate mounting piece for fast installation.",
+  "specs": [
+   [
+    "Viewing distance",
+    "20 / 26 / 30 m"
+   ],
+   [
+    "Faces",
+    "1 or 2 sided"
+   ],
+   [
+    "Mounting",
+    "Recessed or surface"
+   ],
+   [
+    "Protection",
+    "IP44"
+   ],
+   [
+    "Standards",
+    "EN 1838, EN 60598-2-22"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "ESC80",
+   "central battery"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twx9051wk",
+  "name": "Teknoware TWX9051WK ESC90 LED Exit Sign",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twx9051wk.jpg"
+  ],
+  "short": "Innovative LED exit light, 25 m viewing distance, wall or ceiling.",
+  "description": "TWX9051WK is an LED exit light with uniformly illuminated pictograms, low power consumption and a slender appearance. Single or double sided, recessed or surface, on ceiling or wall; pictograms slide in for easy changes.",
+  "specs": [
+   [
+    "Viewing distance",
+    "25 m"
+   ],
+   [
+    "Faces",
+    "1 or 2 sided"
+   ],
+   [
+    "Mounting",
+    "Wall or ceiling, recessed or surface"
+   ],
+   [
+    "Protection",
+    "IP44"
+   ],
+   [
+    "Standards",
+    "EN 1838, EN 60598-2-22"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "ESC90",
+   "central battery"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-twxb151wk",
+  "name": "Teknoware TWXB151WK COMBO Emergency & Exit Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-twxb151wk.jpg"
+  ],
+  "short": "Combined emergency and exit light, IP40 or IP54.",
+  "description": "TWXB151WK is a combination luminaire that works as both an emergency light and an exit sign, a cost-effective single fixture for a whole property. Available in IP40 and IP54 for internal and external areas, with a flame-retardant polycarbonate body.",
+  "specs": [
+   [
+    "Function",
+    "Emergency + exit"
+   ],
+   [
+    "Protection",
+    "IP40 / IP54"
+   ],
+   [
+    "Viewing distance",
+    "25 m"
+   ],
+   [
+    "Body",
+    "Polycarbonate, flame retardant"
+   ],
+   [
+    "Standards",
+    "EN 1838, EN 60598-2-22"
+   ]
+  ],
+  "tags": [
+   "combo",
+   "exit sign",
+   "emergency light",
+   "central battery"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-esc0911l-s",
+  "name": "Escalux ESC0911L-S AURA Exit Luminaire (Central Battery)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-esc0911l-s.jpg"
+  ],
+  "short": "IP65 LED exit sign, 32 m viewing distance, central battery supplied.",
+  "description": "ESC0911L-S is an IP65 exit luminaire with polycarbonate body and diffuser for ceiling mounting, with a 32 m viewing distance. Central-battery slave luminaire with built-in Teknoware addressable module; pictogram options available.",
+  "specs": [
+   [
+    "Supply",
+    "220 – 240 V AC/DC, 50 – 60 Hz"
+   ],
+   [
+    "Input",
+    "2.2 W"
+   ],
+   [
+    "Viewing distance",
+    "32 m"
+   ],
+   [
+    "Protection",
+    "IP65"
+   ],
+   [
+    "Dimensions",
+    "352 x 110 x 218 mm"
+   ],
+   [
+    "Emergency mode",
+    "Central battery supplied, built-in Teknoware addressable module"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "IP65",
+   "aura",
+   "escalux"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-esc0913l-s",
+  "name": "Escalux ESC0913L-S LIOR Exit Luminaire (Central Battery)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-esc0913l-s.jpg"
+  ],
+  "short": "Edge-lit acrylic LED exit sign, central battery supplied.",
+  "description": "ESC0913L-S is an exit luminaire with polycarbonate body and double-sided edge-lit acrylic legend, for wall, ceiling or surface mounting. Central-battery slave luminaire with built-in Teknoware addressable module.",
+  "specs": [
+   [
+    "Supply",
+    "220 – 240 V AC/DC, 50 – 60 Hz"
+   ],
+   [
+    "Input",
+    "1.5 W"
+   ],
+   [
+    "Viewing distance",
+    "32 m"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Dimensions",
+    "344 x 42 x 237 mm"
+   ],
+   [
+    "Emergency mode",
+    "Central battery supplied, built-in Teknoware addressable module"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "edge lit",
+   "lior",
+   "escalux"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-intellipanel",
+  "name": "Escalux IntelliPanel DALI Emergency Lighting Monitoring Panel",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-intellipanel.jpg"
+  ],
+  "short": "Touch panel for DALI emergency lighting testing and monitoring.",
+  "description": "IntelliPanel is a DALI emergency lighting test and monitoring touch panel that works without a permanently connected PC. Two DALI circuits give 128 addresses, expandable to 1,024 luminaires with gateways, and multiple panels can be networked. Reports are viewed and printed with Intelli software, with remote access over Ethernet.",
+  "specs": [
+   [
+    "DALI loops",
+    "2 x 64 devices"
+   ],
+   [
+    "Max luminaires",
+    "1,024 (with gateways)"
+   ],
+   [
+    "Screen",
+    "4.3\" touch, 480 x 272"
+   ],
+   [
+    "Network",
+    "Ethernet TCP/IP"
+   ],
+   [
+    "Test log",
+    "4 years"
+   ],
+   [
+    "Supply",
+    "230 V, 4.1 W"
+   ]
+  ],
+  "tags": [
+   "DALI",
+   "monitoring",
+   "test panel",
+   "escalux"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-405-dali-repeater",
+  "name": "Helvar 405 DALI Repeater",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-405-dali-repeater.jpg"
+  ],
+  "short": "Extends DALI line length to 600 m and adds 250 mA.",
+  "description": "The 405 DALI Repeater extends the maximum DALI line length from 300 m to 600 m and provides an extra 250 mA of DALI current. It does not add addresses (the 64-address limit still applies). Several repeaters can be connected in parallel on the DALI-IN side.",
+  "specs": [
+   [
+    "Line length",
+    "300 m → 600 m"
+   ],
+   [
+    "Extra current",
+    "250 mA"
+   ],
+   [
+    "Addresses",
+    "No change (64 max)"
+   ],
+   [
+    "Power",
+    "Mains powered"
+   ],
+   [
+    "Indicators",
+    "Red / green status LEDs"
+   ]
+  ],
+  "tags": [
+   "DALI",
+   "repeater",
+   "helvar"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-ziya-monitored",
+  "name": "Escalux ZIYA Self-Contained LED Recessed Downlight (DALI)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-ziya-monitored.jpg"
+  ],
+  "short": "Slim self-contained recessed downlight, 180 lm, 3 h.",
+  "description": "ZIYA is a slim, lightweight self-contained emergency LED downlight with smart charge technology and 3-hour duration, for lobbies, corridors, hotels and restaurants. Available for open area or escape route optics, in self-test or DALI-monitored versions.",
+  "specs": [
+   [
+    "Lumen output",
+    "180 lm"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Battery",
+    "3.6 V 2.2 Ah NiMH"
+   ],
+   [
+    "Protection",
+    "IP20, Class II"
+   ],
+   [
+    "CCT",
+    "5000 K"
+   ],
+   [
+    "Order codes",
+    "ESC0863L-SC / SM (O / E)"
+   ]
+  ],
+  "tags": [
+   "downlight",
+   "self-contained",
+   "DALI",
+   "ziya"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-aura-emergency",
+  "name": "Escalux AURA-Emergency Self-Contained Luminaire (DALI)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-aura-emergency.jpg"
+  ],
+  "short": "IP65 self-contained emergency luminaire, 325 lm.",
+  "description": "AURA-Emergency is a self-contained LED emergency luminaire for warehouses and driveways, resistant to dust and water. Maintained or non-maintained operation, 3-hour duration, surface or recessed mounting.",
+  "specs": [
+   [
+    "Luminous flux",
+    "325 lm"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Protection",
+    "IP65, Class II"
+   ],
+   [
+    "CCT",
+    "5700 K"
+   ],
+   [
+    "Mounting",
+    "Surface or recessed"
+   ],
+   [
+    "Battery",
+    "Rechargeable NiMH"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "self-contained",
+   "DALI",
+   "aura"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-spot",
+  "name": "Escalux SPOT High-Output Recessed Emergency Luminaire (DALI)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-spot.jpg"
+  ],
+  "short": "550 lm recessed emergency spot for double-height areas.",
+  "description": "SPOT is a high-output self-contained LED emergency luminaire that recesses into a 42 – 44 mm cut-out, suitable for double-height areas, with 3-hour battery backup and smart charge technology.",
+  "specs": [
+   [
+    "Lumen output",
+    "550 lm"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Battery",
+    "4.8 V 4 Ah NiMH"
+   ],
+   [
+    "Cut-out",
+    "42 – 44 mm"
+   ],
+   [
+    "Protection",
+    "IP30, Class II"
+   ],
+   [
+    "CCT",
+    "5700 K"
+   ]
+  ],
+  "tags": [
+   "emergency light",
+   "high output",
+   "self-contained",
+   "DALI"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-aura-exit",
+  "name": "Escalux AURA-Exit Self-Contained Exit Sign (DALI)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-aura-exit.jpg"
+  ],
+  "short": "IP65 self-contained exit sign, 21 m viewing distance.",
+  "description": "AURA-Exit is a self-contained LED exit sign for wall or ceiling mounting, resistant to dust and water, with 21 m viewing distance and 3-hour duration. Up, down, left and right arrow pictograms available.",
+  "specs": [
+   [
+    "Viewing distance",
+    "21 m"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Protection",
+    "IP65, Class II"
+   ],
+   [
+    "CCT",
+    "5700 K"
+   ],
+   [
+    "Mounting",
+    "Wall or ceiling"
+   ],
+   [
+    "Battery",
+    "Rechargeable NiMH"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "self-contained",
+   "DALI",
+   "aura"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-lior-monitored",
+  "name": "Escalux LIOR Self-Contained LED Exit Sign (DALI)",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-lior-monitored.jpg"
+  ],
+  "short": "LED exit sign with 28 m viewing distance, wall/ceiling/recess.",
+  "description": "LIOR is a high-performance self-contained LED exit sign for all public areas, with 28 m viewing distance, 3-hour duration and smart charge technology. Wall, ceiling or recess mounting, with single and double pictogram options.",
+  "specs": [
+   [
+    "Viewing distance",
+    "28 m"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Power",
+    "2 W max"
+   ],
+   [
+    "Protection",
+    "IP20, Class II"
+   ],
+   [
+    "Mounting",
+    "Wall, ceiling or recess"
+   ],
+   [
+    "Order codes",
+    "ESC0813L-SCCW / SMCW"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "self-contained",
+   "DALI",
+   "lior"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-aura-esc0911l-m",
+  "name": "Escalux AURA ESC0911L-M Standalone Emergency / Exit Luminaire",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-aura-esc0911l-m.jpg"
+  ],
+  "short": "IP65 standalone luminaire for emergency or exit use, 190 lm.",
+  "description": "AURA ESC0911L-M is a standalone self-contained luminaire in a fire-retardant ABS housing that works as an emergency light or exit sign, maintained or non-maintained. Wall, ceiling or surface mounting, TÜV certified.",
+  "specs": [
+   [
+    "Supply",
+    "220 – 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Wattage",
+    "4 W"
+   ],
+   [
+    "Battery",
+    "3.6 V 1.5 Ah Ni-Cd"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Luminous flux",
+    "190 lm"
+   ],
+   [
+    "Viewing distance",
+    "30 m ceiling / 25 m wall"
+   ],
+   [
+    "Protection",
+    "IP65"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "bulkhead",
+   "standalone",
+   "aura"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-lior-esc0913l-m",
+  "name": "Escalux LIOR ESC0913L-M Standalone Exit Luminaire",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-lior-esc0913l-m.jpg"
+  ],
+  "short": "Edge-lit standalone exit sign, 30 m viewing distance.",
+  "description": "LIOR ESC0913L-M is a standalone maintained exit luminaire with polycarbonate body and double-sided edge-lit acrylic legend. Wall, ceiling or recess mounting, with recess and flag brackets available. TÜV certified.",
+  "specs": [
+   [
+    "Supply",
+    "220 – 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Wattage",
+    "3 W"
+   ],
+   [
+    "Battery",
+    "3.6 V 0.8 Ah Ni-Cd"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Viewing distance",
+    "30 m"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Dimensions",
+    "344 x 42 x 237 mm"
+   ]
+  ],
+  "tags": [
+   "exit sign",
+   "edge lit",
+   "standalone",
+   "lior"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "teknoware-ziya-esc0963l-nm",
+  "name": "Escalux ZIYA ESC0963L-NM Standalone Recessed Emergency Light",
+  "supplier": "teknoware",
+  "category": "emergency-light",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/teknoware/datasheet/teknoware-ziya-esc0963l-nm.jpg"
+  ],
+  "short": "Non-maintained recessed emergency downlight, 210 lm.",
+  "description": "ZIYA ESC0963L-NM is a standalone non-maintained recessed emergency luminaire with polycarbonate body and lamp head, giving 210 lm for 3 hours. TÜV certified.",
+  "specs": [
+   [
+    "Supply",
+    "220 – 240 VAC, 50/60 Hz"
+   ],
+   [
+    "Wattage",
+    "3.1 W"
+   ],
+   [
+    "Battery",
+    "3.6 V 4.5 Ah Ni-Cd"
+   ],
+   [
+    "Duration",
+    "3 hours"
+   ],
+   [
+    "Luminous flux",
+    "210 lm"
+   ],
+   [
+    "Protection",
+    "IP20"
+   ],
+   [
+    "Lamp head",
+    "Ø85 x 68 mm"
+   ]
+  ],
+  "tags": [
+   "downlight",
+   "recessed",
+   "standalone",
+   "ziya"
+  ],
+  "price_unit": null
+ },
+ {
+  "id": "uranus-bmur120",
+  "name": "Uranus BMUR120 Fire Resistant Cable (PH120)",
+  "supplier": "uranus",
+  "category": "cables",
+  "price": 0,
+  "images": [
+   "https://al-nawras-website.vercel.app/assets/products/uranus/datasheet/uranus-bmur120.jpg"
+  ],
+  "short": "LPCB-certified PH120 screened fire resistant cable, LSZH sheath.",
+  "description": "Uranus BMUR120 is a 300/500 V fire resistant cable with ceramic-forming EI2 insulation, overall Al-PET screen with tinned drain wire, and a halogen-free flame retardant sheath. It maintains circuit integrity to PH120 (EN 50200), BS 6387 CWZ and IEC 60331-21, for fire alarm and life-safety circuits. Available in 2, 3 and 4 cores from 1 to 2.5 mm².",
+  "specs": [
+   [
+    "Voltage",
+    "300/500 V"
+   ],
+   [
+    "Sizes",
+    "2/3/4 core, 1 – 2.5 mm² (solid RE or stranded RM)"
+   ],
+   [
+    "Insulation",
+    "EN 50363-1 EI2 ceramic-forming compound"
+   ],
+   [
+    "Screen",
+    "Al-PET tape + 0.5 mm² tinned drain"
+   ],
+   [
+    "Sheath",
+    "LSZH HFFR, red RAL 3000 or white RAL 9003"
+   ],
+   [
+    "Circuit integrity",
+    "EN 50200 PH120, BS 6387 CWZ, IEC 60331-21"
+   ],
+   [
+    "Certification",
+    "LPCB"
+   ]
+  ],
+  "tags": [
+   "fire cable",
+   "PH120",
+   "LSZH",
+   "fire resistant",
+   "LPCB"
+  ],
+  "price_unit": "/ meter"
+ }
+]
