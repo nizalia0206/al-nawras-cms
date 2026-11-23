@@ -35,7 +35,7 @@ const NAV = [
       { title: "Honeywell", desc: "Fire alarm & voice evacuation", to: "/products?supplier=honeywell" },
       { title: "Teknoware / ESCALUX", desc: "Central battery & emergency lighting", to: "/products?supplier=teknoware" },
       { title: "Waterfall", desc: "UL/FM fire pump sets", to: "/products?supplier=waterfall" },
-      { title: "Uranus Cable", desc: "Fire-resistant cables & ELV", to: "/products?supplier=uranus" },
+      { title: "Uranus Fire Resistant Cables", desc: "Fire-resistant cables & ELV", to: "/products?supplier=uranus" },
       { title: "H3C", desc: "Networking & ICT infrastructure", to: "/products?supplier=h3c" },
       { title: "KD Pipes", desc: "Pipes & fittings", to: "/products?supplier=kdpipes" },
     ],

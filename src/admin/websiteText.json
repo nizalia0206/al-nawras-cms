@@ -192,16 +192,16 @@
   "ar": "فكّر في الأنوار"
  },
  "hero.h1line1": {
-  "en": "Think Safety.",
-  "ar": "فكّر في السلامة."
+  "en": "Think Safety",
+  "ar": "فكّر في السلامة"
  },
  "hero.h1line2": {
   "en": "Think",
   "ar": "فكّر في"
  },
  "hero.h1brand": {
-  "en": "Al Nawras.",
-  "ar": "الأنوار."
+  "en": "Al Nawras",
+  "ar": "الأنوار"
  },
  "hero.subtitle": {
   "en": "A UAE-based fire & life-safety and ELV solutions provider — engineering, supplying, installing and commissioning systems that protect over a thousand buildings across the Emirates since 2005.",
@@ -232,7 +232,7 @@
   "ar": "فروع في الإمارات"
  },
  "hero.statBrands": {
-  "en": "Global Brand Partners",
+  "en": "Global Partners",
   "ar": "شريك علامة تجارية عالمية"
  },
  "hero.exploreLabel": {
@@ -296,12 +296,12 @@
   "ar": "فروع في الإمارات"
  },
  "about.statBrands": {
-  "en": "Brand Partners",
+  "en": "Partners",
   "ar": "شريك علامة تجارية"
  },
  "brands.eyebrow": {
-  "en": "Brand Partners",
-  "ar": "الشركاء التجاريون"
+  "en": "Partners",
+  "ar": "الشركاء"
  },
  "brands.title": {
   "en": "Authorized distributor for globally certified brands",
@@ -772,8 +772,8 @@
   "ar": "منتجات الحريق والسلامة وتقنية المعلومات"
  },
  "pages.products.desc": {
-  "en": "Certified equipment from Honeywell, Waterfall, H3C, Teknoware, Uranus Cable and KD Pipes — supplied, engineered and supported by Al Nawras Safety & Security Systems LLC.",
-  "ar": "معدات معتمدة من Honeywell وWaterfall وH3C وTeknoware وUranus Cable وKD Pipes — توريد وهندسة ودعم من شركة الأنوار للأنظمة الأمنية وأنظمة السلامة ذ.م.م."
+  "en": "Certified equipment from Honeywell, Waterfall, H3C, Teknoware, Uranus Fire Resistant Cables and KD Pipes — supplied, engineered and supported by Al Nawras Safety & Security Systems LLC.",
+  "ar": "معدات معتمدة من Honeywell وWaterfall وH3C وTeknoware وUranus Fire Resistant Cables وKD Pipes — توريد وهندسة ودعم من شركة الأنوار للأنظمة الأمنية وأنظمة السلامة ذ.م.م."
  },
  "pages.products.crumb": {
   "en": "Products",
@@ -960,8 +960,8 @@
   "ar": "MD-01"
  },
  "pages.about.founder.badgeLabel": {
-  "en": "Message from the Managing Director",
-  "ar": "كلمة المدير العام"
+  "en": "Message from the Founder",
+  "ar": "كلمة المؤسس"
  },
  "pages.about.founder.name": {
   "en": "Eng. Mohammed Ghazy",
@@ -1164,8 +1164,8 @@
   "ar": "أنظمة الجهد المنخفض ELV"
  },
  "pages.systems.elv.desc": {
-  "en": "Structured cabling, CCTV, access control and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
-  "ar": "كابلات هيكلية، كاميرات مراقبة، تحكّم بالدخول وتكامل نظام إدارة المباني، تُقدَّم كبنية تحتية واحدة منخفضة الجهد بحيث يرتبط كل نظام في المبنى بشبكة واحدة قابلة للإدارة."
+  "en": "Smart connected buildings — structured cabling, CCTV, access control, GRMS, ICT and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
+  "ar": "مبانٍ ذكية متصلة — كابلات هيكلية، كاميرات مراقبة، تحكّم بالدخول، نظام إدارة غرف الفنادق (GRMS)، تقنية المعلومات والاتصالات (ICT) وتكامل نظام إدارة المباني، تُقدَّم كبنية تحتية واحدة منخفضة الجهد بحيث يرتبط كل نظام في المبنى بشبكة واحدة قابلة للإدارة."
  },
  "pages.systems.elv.breadcrumb": {
   "en": "ELV Systems",
@@ -1180,8 +1180,8 @@
   "ar": "الإضاءة الطارئة"
  },
  "pages.systems.emergencyLighting.desc": {
-  "en": "Central battery systems and DALI-addressable emergency and exit luminaires from Teknoware ESCALUX, monitored end-to-end through IntelliPanel and ESC-GATE gateways for consistent, code-compliant coverage.",
-  "ar": "أنظمة بطارية مركزية وإنارة خروج وطوارئ قابلة للعنونة عبر DALI من طراز Teknoware ESCALUX، تُراقَب بالكامل عبر بوابات IntelliPanel وESC-GATE لتغطية متسقة ومطابقة للكود."
+  "en": "Central battery systems and central monitored self-contained emergency and exit luminaires for code compliance coverage.",
+  "ar": "أنظمة بطارية مركزية وإنارة طوارئ وخروج ذاتية التغذية بمراقبة مركزية لتغطية مطابقة للكود."
  },
  "pages.systems.emergencyLighting.breadcrumb": {
   "en": "Emergency Lighting",
@@ -1268,7 +1268,7 @@
   "ar": "فروع في الإمارات"
  },
  "pages.about.overview.statBrands": {
-  "en": "Global Brand Partners",
+  "en": "Global Partners",
   "ar": "شريك علامة تجارية عالمية"
  },
  "pages.about.founder.heading1": {
@@ -1456,16 +1456,16 @@
   "ar": "الإضاءة الطارئة"
  },
  "content.systems.sys-light.desc": {
-  "en": "Central battery systems and DALI-addressable emergency and exit luminaires from Teknoware ESCALUX, monitored end-to-end through IntelliPanel and ESC-GATE gateways for consistent, code-compliant coverage.",
-  "ar": "أنظمة بطارية مركزية وإنارة خروج وطوارئ قابلة للعنونة عبر DALI من طراز Teknoware ESCALUX، تُراقَب بالكامل عبر بوابات IntelliPanel وESC-GATE لتغطية متسقة ومطابقة للكود."
+  "en": "Central battery systems and central monitored self-contained emergency and exit luminaires for code compliance coverage.",
+  "ar": "أنظمة بطارية مركزية وإنارة طوارئ وخروج ذاتية التغذية بمراقبة مركزية لتغطية مطابقة للكود."
  },
  "content.systems.sys-elv.title": {
   "en": "ELV Systems",
   "ar": "أنظمة الجهد المنخفض ELV"
  },
  "content.systems.sys-elv.desc": {
-  "en": "Structured cabling, CCTV, access control and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
-  "ar": "كابلات هيكلية، كاميرات مراقبة، تحكّم بالدخول وتكامل نظام إدارة المباني، تُقدَّم كبنية تحتية واحدة منخفضة الجهد بحيث يرتبط كل نظام في المبنى بشبكة واحدة قابلة للإدارة."
+  "en": "Smart connected buildings — structured cabling, CCTV, access control, GRMS, ICT and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
+  "ar": "مبانٍ ذكية متصلة — كابلات هيكلية، كاميرات مراقبة، تحكّم بالدخول، نظام إدارة غرف الفنادق (GRMS)، تقنية المعلومات والاتصالات (ICT) وتكامل نظام إدارة المباني، تُقدَّم كبنية تحتية واحدة منخفضة الجهد بحيث يرتبط كل نظام في المبنى بشبكة واحدة قابلة للإدارة."
  },
  "content.systems.sys-smoke.title": {
   "en": "Smoke Management",

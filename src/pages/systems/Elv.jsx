@@ -21,7 +21,7 @@ export default function Elv() {
       <PageHeader
         eyebrow="Systems & Solutions"
         title="ELV Systems"
-        desc="Structured cabling, CCTV, access control and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network."
+        desc="Smart connected buildings — structured cabling, CCTV, access control, GRMS, ICT and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network."
         crumbs={[{ label: "Systems & Solutions" }, { label: "ELV Systems" }]}
       />
       <SystemsSubNav />

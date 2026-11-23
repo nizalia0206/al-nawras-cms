@@ -1,6 +1,6 @@
 /* ============================================================
    AL NAWRAS SAFETY & SECURITY SYSTEMS — PRODUCT CATALOG DATA
-   Suppliers: H3C, Honeywell, Waterfall, Teknoware, Uranus Cable, KD Pipes
+   Suppliers: H3C, Honeywell, Waterfall, Teknoware, Uranus Fire Resistant Cables, KD Pipes
    ============================================================ */
 
 export const CATEGORIES = [
@@ -17,7 +17,7 @@ export const SUPPLIERS = {
   waterfall:  { name: "Waterfall Fire Pumps",blurb: "UL/FM listed fire pump systems engineered for NFPA-20 compliance." },
   teknoware:  { name: "Teknoware",           blurb: "Finnish-engineered emergency and escape route lighting systems." },
   h3c:        { name: "H3C",                 blurb: "Enterprise-grade networking, security and ICT infrastructure." },
-  uranus:     { name: "Uranus Cable (Rewire)",blurb: "Fire-resistant and fire-retardant power & data cabling." },
+  uranus:     { name: "Uranus Fire Resistant Cables",blurb: "Fire-resistant and fire-retardant power & data cabling." },
   kdpipes:    { name: "KD Pipes",            blurb: "Certified pipes and fittings for fire fighting network installations." },
 };
 
@@ -421,7 +421,7 @@ export const PRODUCTS = [
   },
 ];
 
-const SUPPLIER_META = {"h3c": ["H3C", "part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.", "Networking & ICT infrastructure"], "honeywell": ["Honeywell", "part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.", "Fire alarm & detection"], "teknoware": ["Teknoware", "part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.", "Emergency lighting"], "waterfall": ["Waterfall", "a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.", "Fire pump systems"], "uranus": ["Uranus Cable (Rewire)", "a fire-resistant / fire-retardant cable solution supplied by Al Nawras for critical life-safety and data circuits.", "Fire resistant cabling"], "kdpipes": ["KD Pipes", "part of the KD Pipes range used across Al Nawras fire fighting network installations.", "Pipes & fittings"]};
+const SUPPLIER_META = {"h3c": ["H3C", "part of H3C's enterprise infrastructure range, supplied and supported in the UAE by Al Nawras Safety & Security Systems LLC. Contact our ICT team for full datasheets, licensing options and project pricing.", "Networking & ICT infrastructure"], "honeywell": ["Honeywell", "part of the Honeywell fire, life-safety and emergency communication range, supplied and installed in the UAE by Al Nawras. Full datasheets and compliance documentation available on request.", "Fire alarm & detection"], "teknoware": ["Teknoware", "part of Teknoware's Finnish-engineered emergency and escape route lighting range, supplied and commissioned in the UAE by Al Nawras.", "Emergency lighting"], "waterfall": ["Waterfall", "a UL/FM listed fire pump solution from Waterfall, supplied, installed and commissioned by Al Nawras in line with NFPA-20.", "Fire pump systems"], "uranus": ["Uranus Fire Resistant Cables", "a fire-resistant / fire-retardant cable solution supplied by Al Nawras for critical life-safety and data circuits.", "Fire resistant cabling"], "kdpipes": ["KD Pipes", "part of the KD Pipes range used across Al Nawras fire fighting network installations.", "Pipes & fittings"]};
 
 /* ============================================================
    REAL PRODUCT PHOTOGRAPHY — bulk catalogue additions

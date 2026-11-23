@@ -36,7 +36,7 @@ export const systems = [
     id: "sys-light",
     icon: "IconLightbulb",
     title: "Emergency Lighting",
-    desc: "Central battery systems and DALI-addressable emergency and exit luminaires from Teknoware ESCALUX, monitored end-to-end through IntelliPanel and ESC-GATE gateways for consistent, code-compliant coverage.",
+    desc: "Central battery systems and central monitored self-contained emergency and exit luminaires for code compliance coverage.",
     products: [
       { icon: "IconBattery", name: "Central Battery Systems", desc: "8–72 output circuit central battery panels for site-wide emergency power." },
       { icon: "IconExitSign", name: "Exit & Emergency Luminaires", desc: "DALI-addressable exit signs and emergency luminaires, various IP ratings." },
@@ -47,7 +47,7 @@ export const systems = [
     id: "sys-elv",
     icon: "IconELV",
     title: "ELV Systems",
-    desc: "Structured cabling, CCTV, access control and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
+    desc: "Smart connected buildings — structured cabling, CCTV, access control, GRMS, ICT and BMS integration delivered as a single low-voltage infrastructure, so every building system reports back through one manageable network.",
     products: [
       { icon: "IconCable", name: "Structured Cabling", desc: "Data, voice and building-automation cabling infrastructure." },
       { icon: "IconSwitch", name: "Network Switching", desc: "Access, aggregation and core switching for converged ELV networks." },
@@ -187,7 +187,7 @@ export const certifications = [
   { num: "03", title: "Dubai Civil Defense", desc: "Category A & D license covering fire/smoke detection and ventilation & smoke control systems." },
   { num: "04", title: "Abu Dhabi Civil Defense", desc: "Licensed distributor for firefighting and life-safety equipment across the Emirate." },
   { num: "05", title: "Honeywell Silver Partner", desc: "2024 Catalyst META Fire System Integrator Program — Silver Partner status." },
-  { num: "06", title: "Authorized Distributor", desc: "Honeywell, Teknoware, Waterfall, KD Industries, Uranus (Rewire International) and H3C." },
+  { num: "06", title: "Authorized Distributor", desc: "Honeywell, Teknoware, Waterfall, KD Industries, Uranus and H3C." },
 ];
 
 export const industries = [
@@ -224,55 +224,12 @@ export const industries = [
 ];
 
 export const team = [
-  {
-    id: "mg",
-    initials: "MG",
-    name: "Eng. Mohammed Ghazy",
-    role: "Managing Director",
-    phone: "+971 50 4544361",
-    icon: "person",
-  },
-  {
-    id: "yg",
-    initials: "YG",
-    name: "Eng. Yasser Mohammed Ghazy",
-    role: "General Manager",
-    phone: "+971 55 1099879",
-    icon: "hardhat",
-  },
-  {
-    id: "ag",
-    initials: "AG",
-    name: "Eng. Amr Mohammed Ghazy",
-    role: "Sales & Business Development Manager",
-    phone: "+971 55 1099885",
-    icon: "person",
-  },
-  {
-    id: "am",
-    initials: "AM",
-    name: "Eng. Ahmed Morsy",
-    role: "Project Manager",
-    phone: "+971 55 1099886",
-    icon: "person",
-    highlight: true,
-  },
-  {
-    id: "sg",
-    initials: "SG",
-    name: "Eng. Sayed Gamal",
-    role: "Engineering Manager",
-    phone: "info@nawrassystems.com",
-    icon: "hardhat",
-  },
-  {
-    id: "th",
-    initials: "TH",
-    name: "Mr. Tarek Haikal",
-    role: "Purchase Manager",
-    phone: "+971 55 1099884",
-    icon: "person",
-  },
+  { id: "mg", initials: "MG", name: "Eng. Mohamed Ghazy", role: "Managing Director", phone: "+971 50 4544361", icon: "person" },
+  { id: "yg", initials: "YG", name: "Eng. Yasser Ghazy", role: "General Manager", phone: "+971 55 1099879", icon: "hardhat" },
+  { id: "ag", initials: "AG", name: "Eng. Amr Ghazy", role: "Sales & Business Development Manager", phone: "+971 55 1099885", icon: "person" },
+  { id: "kf", initials: "KF", name: "Eng. Kamal Fathy", role: "Projects Manager", phone: "+971 55 838 7748", icon: "hardhat" },
+  { id: "mm", initials: "MM", name: "Eng. Mahmoud Megahed", role: "Product Manager", phone: "", icon: "hardhat" },
+  { id: "th", initials: "TH", name: "Mr. Tarek Haikal", role: "Procurement Manager", phone: "+971 55 1099884", icon: "person" },
 ];
 
 export const locations = [

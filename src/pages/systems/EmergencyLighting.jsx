@@ -21,7 +21,7 @@ export default function EmergencyLighting() {
       <PageHeader
         eyebrow="Systems & Solutions"
         title="Emergency Lighting"
-        desc="Central battery systems and DALI-addressable emergency and exit luminaires from Teknoware ESCALUX, monitored end-to-end through IntelliPanel and ESC-GATE gateways for consistent, code-compliant coverage."
+        desc="Central battery systems and central monitored self-contained emergency and exit luminaires for code compliance coverage."
         crumbs={[{ label: "Systems & Solutions" }, { label: "Emergency Lighting" }]}
       />
       <SystemsSubNav />

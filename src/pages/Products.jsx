@@ -58,7 +58,7 @@ export default function Products() {
       <PageHeader
         eyebrow="Product Catalog"
         title={activeSupplierName ? `${activeSupplierName} Products` : "Fire, Life Safety & ICT Products"}
-        desc="Certified equipment from Honeywell, Waterfall, H3C, Teknoware, Uranus Cable and KD Pipes — supplied, engineered and supported by Al Nawras Safety & Security Systems LLC."
+        desc="Certified equipment from Honeywell, Waterfall, H3C, Teknoware, Uranus Fire Resistant Cables and KD Pipes — supplied, engineered and supported by Al Nawras Safety & Security Systems LLC."
         crumbs={[{ label: "Products" }]}
       />
 

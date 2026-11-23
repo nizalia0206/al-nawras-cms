@@ -38,7 +38,7 @@ const CATEGORIES = [
     label: "Fire Fighting Systems",
     line1: "Rapid Response,",
     line2: "Total Suppression",
-    tagline: "Pumps, sprinklers, hydrants & risers engineered for total suppression coverage.",
+    tagline: "Pumps, sprinklers, hydrants & automatic suppression systems engineered for total suppression coverage.",
     to: "/systems/fire-fighting",
     image: fireFightingEnv,
     imagePosition: "center 78%",
@@ -70,7 +70,7 @@ const CATEGORIES = [
     key: "emergency-lighting",
     label: "Emergency Lighting",
     line1: "Guided Path,",
-    line2: "Always Lit",
+    line2: "Assured Lighting",
     tagline: "Central battery & DALI systems that keep exit paths lit when it matters most.",
     to: "/systems/emergency-lighting",
     image: emergencyLightEnv,
@@ -80,9 +80,9 @@ const CATEGORIES = [
     icon: IconELV,
     key: "elv",
     label: "ELV Systems",
-    line1: "Connected Building,",
-    line2: "Constant Watch",
-    tagline: "Access control, CCTV and low-voltage infrastructure across every building.",
+    line1: "Smart Connected",
+    line2: "Buildings",
+    tagline: "Access control, CCTV, GRMS, ICT and low-voltage infrastructure across every building.",
     to: "/systems/elv",
     image: elvCctv,
     imagePosition: "center 40%",
@@ -240,11 +240,11 @@ export default function Hero() {
                     className="font-display font-bold uppercase leading-[1.06] text-[28px] sm:text-[38px] md:text-[46px] max-w-[16ch]"
                     style={{ animation: "slideIn .55s var(--ease) .05s backwards" }}
                   >
-                    Think Safety.
+                    Think Safety
                     <br />
                     Think{" "}
                     <span className="bg-gradient-to-r from-flame2 via-gold to-flame1 bg-clip-text text-transparent">
-                      Al Nawras.
+                      Al Nawras
                     </span>
                   </h1>
                   <p

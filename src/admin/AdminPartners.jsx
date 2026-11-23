@@ -13,7 +13,7 @@ const SUPPLIERS = [
   ["teknoware", "Teknoware"],
   ["waterfall", "Waterfall Fire Pumps"],
   ["h3c", "H3C"],
-  ["uranus", "Uranus Cable (Rewire)"],
+  ["uranus", "Uranus Fire Resistant Cables"],
   ["kdpipes", "KD Pipes"],
 ];
 
