@@ -21,7 +21,7 @@ insert into team_members (id, name, role, phone, icon, highlight, sort_order) va
   ('th', 'Mr. Tarek Haikal',     'Procurement Manager',                  '+971 55 1099884',  'person',  false, 5);
 
 -- 2. Partner name: "Uranus Cable (Rewire)" -> "Uranus Fire Resistant Cables"
-update partners
+update brand_partners
    set name = 'Uranus Fire Resistant Cables'
  where supplier = 'uranus' or name ilike 'uranus cable%';
 
